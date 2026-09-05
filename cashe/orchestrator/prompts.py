@@ -123,7 +123,9 @@ Call list_source_registry or get_source first. source_id values are kebab-case
 registry ids such as harborline-ap-desk.
 Call place_voice_call with the purpose of the call in objective and any
 allowed_questions. When the call ends you get the full transcript back.
-Extract claims only from that transcript. Stay within allowed_questions.
+Extract claims only from that transcript — including informal asides they
+volunteered (vacation / OOO, processing holds, who owns it, email promises,
+soft dates). Do not drop those just because they were not in allowed_questions.
 Do not negotiate payment terms, quote card numbers, or instruct them to pay.
 Voice evidence is COMMUNICATION authority and must be classified provisional.
 """

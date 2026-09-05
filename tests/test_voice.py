@@ -10,6 +10,9 @@ def test_purpose_is_fstringed_into_caller_prompt():
     assert "What is the current status?" in prompt
     assert "INV-HL-3301" not in prompt
     assert "Marta" not in prompt
+    assert "Informal asides matter" in prompt
+    assert "chill coworker" in prompt
+    assert "not a collections script" in prompt
 
 
 def test_first_message_uses_purpose():

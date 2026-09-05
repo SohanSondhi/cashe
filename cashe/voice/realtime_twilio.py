@@ -27,10 +27,11 @@ from cashe.voice.realtime_common import (
     END_CALL_BLOCKED_INSTRUCTIONS,
     GOODBYE_PHRASE_RE,
     WAIT_AFTER_INSTRUCTIONS,
-    WRAP_UP_INSTRUCTIONS,
     TranscriptLog,
     caller_name,
     collections_instructions,
+    greet_instructions,
+    inbound_audio_payload,
     get_last_call,
     is_english_ivr,
     is_hold_filler,
@@ -178,9 +179,8 @@ async def send_openai_session_update(openai_ws) -> None:
                 "input": {
                     "format": {"type": "audio/pcmu"},
                     "turn_detection": {
-                        "type": "server_vad",
-                        "silence_duration_ms": 700,
-                        "prefix_padding_ms": 300,
+                        "type": "semantic_vad",
+                        "eagerness": "low",
                     },
                     "transcription": {"model": "gpt-4o-mini-transcribe"},
                 },
@@ -455,18 +455,22 @@ async def media_stream(websocket: WebSocket):
                             _active_call_sid = call_sid
                         print("Twilio stream started", stream_sid, call_sid, flush=True)
                         await session_ready.wait()
-                        log.add("system", "listening — no forced greeting")
+                        log.add("system", "greeting")
+                        await create_response(greet_instructions())
                         if not auto_ivr_started:
                             auto_ivr_started = True
                             track(asyncio.create_task(auto_ivr_digits()))
                     elif event == "media":
                         if hanging_up:
                             continue
+                        payload = inbound_audio_payload(data)
+                        if not payload:
+                            continue
                         await openai_ws.send(
                             json.dumps(
                                 {
                                     "type": "input_audio_buffer.append",
-                                    "audio": data["media"]["payload"],
+                                    "audio": payload,
                                 }
                             )
                         )
@@ -559,9 +563,7 @@ async def media_stream(websocket: WebSocket):
                         await send_dtmf_digit("1")
                     if not status_heard and not goodbye_said and looks_like_status_answer(text):
                         status_heard = True
-                        cancel_active_wait()
-                        log.add("system", "status answer detected — nudge wrap-up")
-                        await create_response(WRAP_UP_INSTRUCTIONS)
+                        log.add("system", "status answer heard — stay in the conversation")
                 elif event_type == "error":
                     err = data.get("error") or {}
                     code = err.get("code")
