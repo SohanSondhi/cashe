@@ -1,16 +1,26 @@
 # Cashe
 
-Maximor Money Operations agent for the MONEY TALKS hackathon.
+Evidence layer for the MONEY TALKS hackathon. Starts from an authoritative bank statement, then uses an LLM orchestrator to gather operational context from MCP, API, (mocked) browser, and a live voice caller.
 
-The agent compares financial results across periods, finds the meaningful variances, drills into transaction-level data for drivers, and produces a concise, evidence-backed explanation of what changed and why.
+## Run
 
-## Inputs
+```bash
+uv sync
+uv run uvicorn cashe.main:app --host 127.0.0.1 --port 8000
+```
 
-- Monthly account summaries
-- Transaction-level CSVs
+Open http://127.0.0.1:8000 and ask why cash decreased in September.
 
-## Goal
+Full investigation against Prism (records demo human resolutions when the agent escalates):
 
-Move from "Revenue increased 18%" to:
+```bash
+uv run python -m cashe.demo
+```
 
-> Revenue increased 18%, primarily driven by a 32% increase in enterprise accounts, with three customers accounting for 64% of the increase.
+## Config
+
+Copy `.env.example` to `.env`. `TAVILY_API_KEY` and `PRISM_API_KEY` are required for live research and the orchestrator. Tavily falls back to the committed cache if the live call fails.
+
+The browser agent is stubbed. Voice uses the pizza-agent telephony stack (Vapi, Bland, Telnyx, or Twilio). `place_voice_call` f-strings the call purpose, dials `VOICE_TO_NUMBER`, and returns the full transcript to the voice subagent. Without telephony credentials it falls back to the HarborLine fixture.
+
+There is no hard-coded source router. The orchestrator decides which subagents to spawn; tools only enforce read-only entitlements.

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ layout.collection }} · BluePeak</title>
+  <link rel="stylesheet" href="/static/bluepeak.css">
+</head>
+<body class="bp">
+  <header>
+    <strong>BluePeak</strong> Vendor Center
+    <nav>
+      <a href="/mock/bluepeak/dashboard">Home</a>
+      <a href="/mock/bluepeak/invoices">{{ layout.collection }}</a>
+    </nav>
+  </header>
+  <main>
+    <h1>{{ layout.collection }}</h1>
+    <table>
+      <tr>
+        <th>Number</th><th>Amount</th><th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="/mock/bluepeak/invoices/{{ invoice.invoice_number }}">{{ invoice.invoice_number }}</a></td>
+        <td>${{ "%.0f"|format(invoice.amount_cents / 100) }}</td>
+        <td>{{ invoice.status_label }}</td>
+      </tr>
+    </table>
+  </main>
+</body>
+</html>

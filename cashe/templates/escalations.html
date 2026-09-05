@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}Escalations{% endblock %}
+{% block body %}
+<section class="mast compact">
+  <p class="eyebrow">Human adjudication</p>
+  <h1>Cashe does not pick a winner.</h1>
+  <p class="lede">Conflicts and low-authority claims pause here with the evidence already assembled.</p>
+</section>
+{% for e in escalations %}
+<article class="esc-card wide" id="{{ e.id }}">
+  <p class="eyebrow">{{ e.kind }} · {{ e.status }} · {{ e.id }}</p>
+  <h2>{{ e.title }}</h2>
+  <p>{{ e.recommended_action }}</p>
+  <p class="caption">Materiality {{ e.materiality_cents | usd }} · investigation {{ e.investigation_id }}</p>
+  {% if e.packet %}
+  <p><strong>Interpretation.</strong> {{ e.packet.likely_interpretation }}</p>
+  <p><strong>Uncertain.</strong> {{ e.packet.remaining_uncertainty }}</p>
+  <p class="caption">Sources attempted: {{ e.packet.sources_attempted | join(', ') }}</p>
+  <p class="caption">Assertions: {{ e.packet.assertion_ids | join(', ') }}</p>
+  {% endif %}
+  {% if e.status == 'open' %}
+  <form class="resolve-form" data-id="{{ e.id }}">
+    <label>Decision
+      <select name="decision">
+        <option value="choose_assertion">Choose an assertion</option>
+        <option value="approve_provisionally">Approve provisionally</option>
+        <option value="request_more_evidence">Request more evidence</option>
+        <option value="correct_entity_mapping">Correct the entity mapping</option>
+        <option value="reject">Reject the proposed interpretation</option>
+      </select>
+    </label>
+    <label>Assertion ID
+      <input name="chosen_assertion_id" placeholder="ast-…">
+    </label>
+    <label>Rationale
+      <textarea name="rationale" required>Accounting entity Cashe Software, Inc. governs. Portal value is the customer-side submission error.</textarea>
+    </label>
+    <button type="submit">Record resolution</button>
+  </form>
+  {% endif %}
+</article>
+{% endfor %}
+{% if not escalations %}
+<p>No escalations yet.</p>
+{% endif %}
+{% endblock %}

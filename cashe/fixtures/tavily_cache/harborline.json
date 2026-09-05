@@ -1,0 +1,13 @@
+{
+  "query": "HarborLine Co accounts payable supplier portal API invoice status procurement",
+  "source_name": "HarborLine",
+  "answer": "No public machine-access documentation was found for HarborLine's AP process. Mid-market AP desks often require a phone or email inquiry when no supplier portal or API is published.",
+  "results": [
+    {
+      "title": "AP inquiry practices for suppliers without a portal",
+      "url": "https://www.svb.com/globalassets/uk-site/products/cash-management/bai2-ir-specs.pdf",
+      "content": "Bank statements record settled cash only. Unpaid invoices and procurement holds will not appear as credits until settlement. Operational status must be obtained from the counterparty."
+    }
+  ],
+  "candidate_methods": ["voice", "email"]
+}

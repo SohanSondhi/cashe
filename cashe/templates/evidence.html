@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Artifact {{ artifact.id }}{% endblock %}
+{% block body %}
+<section class="mast compact">
+  <p class="eyebrow">{{ artifact.source_id }} · {{ artifact.retrieval_method }}</p>
+  <h1>{{ artifact.id }}</h1>
+  <p class="lede">{{ artifact.summary }}</p>
+  <p class="caption">sha256 {{ artifact.content_hash }}</p>
+</section>
+<pre class="artifact">{{ payload }}</pre>
+{% endblock %}

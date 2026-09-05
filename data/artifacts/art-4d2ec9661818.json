@@ -1,0 +1,1 @@
+{"chosen_assertion_id": null, "conflict_id": "cnf-75cabaa1ab6d", "decision": "approve_provisionally", "escalation_id": "esc-566f13ff288d", "rationale": "Accounting verifies that the invoices remained open; failed authorized paths leave their operational payment status and causes unobserved.", "reviewer": "demo-operator"}

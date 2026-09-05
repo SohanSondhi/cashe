@@ -1,0 +1,21 @@
+body.bp {
+  margin: 0;
+  font-family: Georgia, serif;
+  background: #f7f3ee;
+  color: #1d2430;
+}
+.bp header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.4rem;
+  background: #173a4a;
+  color: #f4efe4;
+}
+.bp header a { color: #f4efe4; margin-left: 1rem; }
+.bp main { padding: 1.6rem; max-width: 720px; }
+.bp .card { background: white; padding: 1.4rem; margin: 2rem; max-width: 420px; border: 1px solid #cfc6b8; }
+.bp .btn { display: inline-block; background: #173a4a; color: #f4efe4; padding: 0.5rem 0.9rem; text-decoration: none; }
+.bp dl { display: grid; grid-template-columns: 10rem 1fr; gap: 0.4rem 0.8rem; }
+.bp table { width: 100%; border-collapse: collapse; }
+.bp td, .bp th { text-align: left; border-bottom: 1px solid #ddd; padding: 0.35rem 0; }

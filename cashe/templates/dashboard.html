@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% block title %}Cashe · September close{% endblock %}
+{% block body %}
+<section class="mast">
+  <p class="eyebrow">Northstar Commercial Bank · Operating ••1842</p>
+  <h1>September cash moved against the books.</h1>
+  <p class="lede">The bank is authoritative for settled cash. Everything else — invoices, portals, calls — is evidence about why the cash did not arrive.</p>
+</section>
+
+<section class="variance-band">
+  <div>
+    <span class="label">Ending cash</span>
+    <p class="figure decline">{{ variance.ending_cash_change_cents | usd }}</p>
+    <p class="caption">{{ variance.ending_cash_change_pct_of_prior_close }}% sequential · close {{ september.closing_booked_balance_cents | usd }}</p>
+  </div>
+  <div>
+    <span class="label">Net generation</span>
+    <p class="figure">{{ variance.net_generation_deterioration_cents | usd }} worse</p>
+    <p class="caption">August {{ variance.august_net_cents | usd }} → September {{ variance.september_net_cents | usd }}</p>
+  </div>
+  <div>
+    <span class="label">Collections gap</span>
+    <p class="figure">{{ variance.collections_shortfall_cents | usd }}</p>
+    <p class="caption">{{ variance.collections_share_of_deterioration_pct }}% of deterioration</p>
+  </div>
+  <div>
+    <span class="label">Outflow increase</span>
+    <p class="figure">{{ variance.outflow_increase_cents | usd }}</p>
+    <p class="caption">{{ variance.outflow_share_of_deterioration_pct }}% of deterioration</p>
+  </div>
+</section>
+
+<div class="split">
+  {% for stmt, title in [(august, 'August'), (september, 'September')] %}
+  <article class="stmt">
+    <header>
+      <h2>{{ title }}</h2>
+      <p>{{ stmt.period_start }} – {{ stmt.period_end }}</p>
+    </header>
+    <dl class="totals">
+      <div><dt>Open</dt><dd>{{ stmt.opening_booked_balance_cents | usd }}</dd></div>
+      <div><dt>Credits</dt><dd>{{ stmt.reconciliation.total_credits_cents | usd }}</dd></div>
+      <div><dt>Debits</dt><dd>{{ stmt.reconciliation.total_debits_cents | usd }}</dd></div>
+      <div><dt>Close</dt><dd>{{ stmt.closing_booked_balance_cents | usd }}</dd></div>
+    </dl>
+    <p class="invariant {% if stmt.reconciliation.invariant_holds %}ok{% else %}bad{% endif %}">
+      {% if stmt.reconciliation.invariant_holds %}Invariant holds{% else %}Invariant broken{% endif %}
+      · net {{ stmt.reconciliation.net_cash_cents | usd }}
+    </p>
+    <table class="tape">
+      <thead>
+        <tr><th>Date</th><th>Counterparty</th><th>Dr/Cr</th><th>Amount</th></tr>
+      </thead>
+      <tbody>
+        {% for t in stmt.transactions %}
+        <tr>
+          <td>{{ t.booking_date[5:] }}</td>
+          <td>{{ t.counterparty_name }}</td>
+          <td>{{ t.credit_debit_indicator }}</td>
+          <td class="num">{{ t.amount_cents | usd }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </article>
+  {% endfor %}
+</div>
+
+<section class="ask">
+  <form id="ask-form">
+    <label for="question">Ask Cashe</label>
+    <div class="ask-row">
+      <input id="question" name="question" value="Why did cash decrease in September?" />
+      <button type="submit">Investigate</button>
+    </div>
+  </form>
+  <p class="caption">The orchestrator researches capabilities and writes the explanation itself, then spawns MCP, API, browser, and voice subagents for acquisition. Browser and voice agents are stubbed; their evidence still lands as artifacts.</p>
+</section>
+
+{% if investigations %}
+<section>
+  <h2>Runs</h2>
+  <ul class="run-list">
+    {% for inv in investigations %}
+    <li>
+      <a href="/investigations/{{ inv.id }}">{{ inv.question }}</a>
+      <span class="pill {{ inv.status }}">{{ inv.status }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endblock %}

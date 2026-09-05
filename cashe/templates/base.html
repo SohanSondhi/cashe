@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Cashe{% endblock %}</title>
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="rail">
+      <a class="mark" href="/">Cashe</a>
+      <p class="rail-kicker">Evidence layer</p>
+      <nav>
+        <a href="/">Close</a>
+        <a href="/sources">Sources</a>
+        <a href="/sops">SOPs</a>
+        <a href="/escalations">Escalations</a>
+      </nav>
+      <p class="rail-foot">Northstar ••1842<br>CASH-US · USD</p>
+    </aside>
+    <main class="paper">
+      {% block body %}{% endblock %}
+    </main>
+  </div>
+  <script src="/static/app.js"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

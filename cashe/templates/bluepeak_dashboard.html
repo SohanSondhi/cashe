@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>BluePeak Vendor Center</title>
+  <link rel="stylesheet" href="/static/bluepeak.css">
+</head>
+<body class="bp">
+  <header>
+    <strong>BluePeak</strong> Vendor Center
+    <nav>
+      <a href="/mock/bluepeak/dashboard">Home</a>
+      <a href="/mock/bluepeak/invoices">{{ layout.collection }}</a>
+    </nav>
+  </header>
+  <main>
+    <h1>Supplier home</h1>
+    <p>Open {{ layout.collection }} to inspect document status. No API is published on this portal.</p>
+    <a class="btn" href="/mock/bluepeak/invoices">Open {{ layout.collection }}</a>
+  </main>
+</body>
+</html>
