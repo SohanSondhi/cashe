@@ -34,13 +34,23 @@ def destination_number(explicit: str | None = None) -> str:
     return to
 
 
-def trigger_call(to: str | None = None, base: str | None = None) -> dict:
+def trigger_call(
+    to: str | None = None,
+    base: str | None = None,
+    objective: str | None = None,
+    allowed_questions: list[str] | None = None,
+) -> dict:
     dest = destination_number(to)
     if not dest:
         return {"error": "missing_destination", "hint": "Pass +1… or set VOICE_TO_NUMBER"}
     url = (base or os.getenv("LOCAL_SERVER_TWILIO", "http://127.0.0.1:8081")).rstrip("/")
+    payload = {"to": dest}
+    if objective:
+        payload["objective"] = objective
+    if allowed_questions:
+        payload["allowed_questions"] = allowed_questions
     try:
-        response = httpx.post(f"{url}/call", json={"to": dest}, timeout=60.0)
+        response = httpx.post(f"{url}/call", json=payload, timeout=60.0)
     except httpx.HTTPError as exc:
         return {"error": "local_server_unreachable", "detail": str(exc), "base": url}
     body: dict | str

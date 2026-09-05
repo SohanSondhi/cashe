@@ -21,10 +21,8 @@ TRANSCRIPT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Hangup unlock: short thanks/bye after the desk has answered.
 GOODBYE_PHRASE_RE = re.compile(
-    r"\bthanks?\b|\bthank you\b|\bbye\b|\bgoodbye\b|"
-    r"\bappreciate (?:it|your time)\b|"
-    r"\bthat's all i needed\b|"
-    r"\bhave a (?:good|great) (?:day|one)\b",
+    r"\b(?:good)?bye\b|"
+    r"\bthat's all i needed\b",
     re.I,
 )
 
@@ -59,6 +57,26 @@ HUMAN_QUESTION_RE = re.compile(
     re.I,
 )
 
+def greet_instructions() -> str:
+    name = caller_name()
+    return (
+        f"The line is connected. Speak first NOW as {name}, a real person. "
+        f"Casual, like calling a coworker: 'Hey, it's {name} at Cashe — "
+        "just checking in on an invoice.' "
+        "Never say ChatGPT, AI, assistant, collections, I'm here to help, or I'm listening. "
+        "Do not read the PURPOSE paragraph. Then stop and listen."
+    )
+
+
+CONTINUE_INSTRUCTIONS = (
+    "They just spoke. Stay as the human caller — never ChatGPT. "
+    "Be chill: react to what they said (vacation, processing, a date, an email) "
+    "like a person would — 'oh nice', 'got it', 'yeah that makes sense' — "
+    "then ask the next thing only if you still need it. "
+    "If they only said hi, say hey back and ease into why you called. "
+    "Do NOT fire the next checklist question. Do NOT call wait. Do not hang up yet."
+)
+
 WAIT_AFTER_INSTRUCTIONS = (
     "Check the latest audio. "
     "If a REAL PERSON asked you something, answer that question NOW as the "
@@ -68,15 +86,14 @@ WAIT_AFTER_INSTRUCTIONS = (
 )
 
 ANSWER_NOW_INSTRUCTIONS = (
-    "A real person just spoke to you. Answer ONLY their latest question "
-    "as the CALLER in one short sentence. Do NOT call wait. "
-    "Never act as the other party's staff."
+    "A real person just spoke to you. Reply as the human CALLER. "
+    "Stay chill — acknowledge what they just said, then keep talking like a person. "
+    "Do NOT call wait. Never say ChatGPT. Never act as the other party's staff."
 )
 
 WRAP_UP_INSTRUCTIONS = (
-    "You have an answer to the purpose of this call. As the caller, "
-    "say a short thanks/bye, then call end_call(). "
-    "Never act as the other party's staff. Do not invent facts."
+    "You have what you needed. Wind down like a person: thanks, have a good one, "
+    "then call end_call(). No survey close. Never invent facts."
 )
 
 # Pizza-agent name kept so Telnyx/Twilio bridges can import it unchanged.
@@ -133,17 +150,28 @@ def caller_instructions(
     questions = [q for q in (allowed_questions or []) if str(q).strip()]
     question_block = "\n".join(f"- {q}" for q in questions) or "- Stay inside the purpose above."
     return f"""
-You are {name}, a HUMAN CALLER on a live phone call. You are never the other party's staff.
-If you feel like taking their side of the conversation — STOP. You placed this call.
+You are {name}, a HUMAN on a live phone call — a chill coworker, not a collections script and not ChatGPT.
+You placed this call. You are never an AI, never an assistant, never the other party's staff.
+
+VIBE
+- Relaxed. Warm. Slightly informal. Like you actually know this person a little.
+- Do not sound like a call center, a survey, or "Cashe collections."
+- Never recite questions in order. Never jump to the next bullet the second they finish.
 
 ROLE LOCK
-- You are the caller. They answer.
-- Never say: "How can I help", "I'm here to assist", "Let me look that up for you".
-- After hold or transfer you are STILL {name} the caller.
+- You are {name}. They answer.
+- Never say: ChatGPT, "I'm an AI", "How can I help", "I'm here to assist", "I'm listening", "Let me look that up", "Cashe collections".
+- After hold or transfer you are STILL {name}.
 - Never invent confirmation numbers, payment dates, or documents they did not say.
 
 SPEECH
-- Let them finish. Answer ONLY the question they asked (one short sentence).
+- Contractions: I'm, I'll, that's, yeah, gonna, kinda.
+- Let them finish. React first: "oh nice", "got it", "wait so you're out till Tuesday?", "yeah that tracks."
+- Informal asides matter: vacation, OOO, processing, who owns it, a promise to email, a maybe-date.
+  Sit with that. Ask a natural follow-up. Do not skip it for the next topic.
+- One or two spoken sentences. Leave space. Do not stack questions.
+- Never say: Certainly, Absolutely, I would like to, As an AI, How may I help, I'm listening.
+- If they just say hi, say hey back and ease into why you called.
 - Name → {name}. Callback phone → {phone}.
 - Do not talk over greetings or hold music.
 - No markdown, no lists, no stage directions.
@@ -151,20 +179,19 @@ SPEECH
 PURPOSE OF THIS CALL
 {purpose}
 
-ALLOWED QUESTIONS (stay inside this list)
+THINGS WORTH COVERING (topics, not a script — skip any they already answered)
 {question_block}
 
 TOOLS
 - press_digit(digit): IVR menus only (e.g. English = 1, operator = 0). Do NOT just say the digit.
-- wait(seconds): ONLY for hold music / transfer silence. Never call wait while a person is asking you questions.
-- end_call(): Hang up ONLY after the purpose is answered (or they cannot provide more) and you said a short thanks/bye.
+- wait(seconds): ONLY for hold music / transfer silence. Never call wait while a person is talking.
+- end_call(): Hang up ONLY after you have what you need (or they cannot say more) and you said a casual thanks/bye.
 
 FLOW
-1) Stay quiet until they ask something or finish IVR prompts. Use press_digit for menus.
-2) Identify yourself as {name} and pursue the purpose of the call.
-3) Ask only the allowed questions. Do not invent facts they did not say.
-4) When the purpose is answered (or they clearly cannot), say a short thanks/bye.
-5) Immediately call end_call().
+1) If you hear an IVR, use press_digit. If a person answered or the line is silent, say hey in one casual line.
+2) Then talk. Do not dump the purpose. Do not interview them.
+3) Cover the topics if they come up naturally. Follow informal details. Do not invent facts.
+4) When you have enough, thank them like a person and call end_call().
 """.strip()
 
 
@@ -264,12 +291,36 @@ def looks_like_status_answer(text: str) -> bool:
     t = (text or "").strip()
     if not t or is_hold_filler(t):
         return False
-    return len(t.split()) >= 6
+    low = t.lower()
+    return any(
+        k in low
+        for k in (
+            "procurement",
+            "payment date",
+            "on hold",
+            "disputed",
+            "approved",
+            "rejected",
+            "invoice",
+            "purchase order",
+            "remittance",
+        )
+    )
 
 
 def is_english_ivr(text: str) -> bool:
     low = (text or "").lower()
     return "press 1" in low and "english" in low
+
+
+def inbound_audio_payload(data: dict) -> str | None:
+    """Return PCMU payload only for the far-end (human) track. Skip echo of our TTS."""
+    media = data.get("media") or {}
+    track = str(media.get("track") or "inbound").lower()
+    if track not in {"inbound", "inbound_track"}:
+        return None
+    payload = media.get("payload") or ""
+    return payload or None
 
 
 def _linear16_to_ulaw(sample: int) -> int:

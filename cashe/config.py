@@ -26,7 +26,7 @@ class Settings(BaseSettings):
     openai_base_url: str = "https://api.openai.com/v1"
     openai_model: str = "gpt-5.6-terra"
     openai_realtime_model: str = "gpt-realtime-2.1"
-    openai_voice: str = "marin"
+    openai_voice: str = "coral"
     public_base_url: str = ""
     public_host: str = ""
     voice_to_number: str = ""
