@@ -91,7 +91,7 @@ Cashe is a multi-agent orchestrator. It decides what evidence is missing, then d
 
 We found a **seven-for-seven control failure** almost two years before the indictment’s example: every invoice Katsumi tested failed to match First Brands’ books. The starkest collision was **$240.35 on the books versus $434,997.58 funded**. After Katsumi escalated the discrepancy, roughly **$4.9 billion in additional funding** followed. The result identifies when the risk became observable and quantifies the exposure that came afterward.
 
-That is what Cashe is built to surface: not another summary of a scandal, but the dated collision between two financial records, the evidence behind it, and the exposure that followed.
+Cashe surfaced the dated mismatch, the primary evidence behind it, and the **$4.9 billion funded afterward**.
 
 **[1:00 — Run the demo: ask “Why did cash decrease in September?”]**
 
