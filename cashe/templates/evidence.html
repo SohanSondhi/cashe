@@ -7,5 +7,10 @@
   <p class="lede">{{ artifact.summary }}</p>
   <p class="caption">sha256 {{ artifact.content_hash }}</p>
 </section>
+{% if artifact.media_type == 'image/png' %}
+<img src="/api/evidence/{{ artifact.id }}/content" alt="Captured portal evidence" style="max-width:100%;height:auto">
+{% else %}
 <pre class="artifact">{{ payload }}</pre>
+{% endif %}
+<p><a href="/api/evidence/{{ artifact.id }}/content">Open original artifact</a></p>
 {% endblock %}

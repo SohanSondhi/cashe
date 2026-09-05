@@ -1,9 +1,11 @@
 # Repository conventions
 
-The backend database choice is PostgreSQL. Do not assume MongoDB or Databricks.
-This repository currently contains product documentation, not application call sites.
-The initial instrumented Python scaffold is in the sibling `../primary-ai-system`
-project; do not claim its tracing is wired into this repository.
+The backend database choice for the MVP is SQLite, as confirmed by the user.
+The application uses SQLAlchemy with SQLite in `cashe/db.py`.
+This repository contains the application and product documentation.
+The separately instrumented Python scaffold and ElevenLabs caller are in the
+sibling `../primary-ai-system` project; do not claim their integrations are wired
+into this repository without checking the application call sites.
 
 ## PRISM operations
 
@@ -32,3 +34,32 @@ points are added, wire PRISM callbacks with a shared session ID, flush on succes
 and error, and document their locations here. Verify with a real staging invocation
 and the authenticated doctor; a synthetic handshake is not live verification.
 Use non-sensitive staging inputs. Production writes require explicit approval.
+
+## Browser acquisition tracing
+
+The application browser tool is now wired at `cashe/orchestrator/tools.py::tool_browser`
+and `cashe/browser/service.py::acquire`. `cashe/browser/runner.py` wraps acquisition,
+OpenAI Responses decisions, and browser read actions in callbacks from
+`cashe/browser/tracing.py`, sharing the investigation ID and flushing on success/error.
+Enable with `PRISMTRACE_ENABLED=true` and `APP_ENV=staging`; the three existing
+PRISMTRACE host/project/key variables configure the handler. This integration is
+local to this application and does not import the sibling scaffold.
+
+`scripts/smoke_browser.py` verifies actual Chromium acquisition through an isolated
+FastAPI application and SQLite store. `--scripted` explicitly uses validation
+decisions; it verifies runtime/storage/tracing, not live OpenAI decision quality.
+Use `--trace-env` with an existing staging credential file for authenticated doctor
+checks before/after the real browser invocation. See `docs/browser-agent.md`.
+
+Staging verification on 2026-09-05: session `inv-c42616e92eb6` completed three
+actual Chromium acquisitions (default, SOP repeat, changed layout) with the
+explicit validation decider. The authenticated doctor at 18:30:27 UTC reported
+`credential_ok=true`, `live_connected=true`, `overall=connected`; live/application
+trace counts increased from 3 to 6. This verifies browser-tool tracing and storage,
+not live OpenAI navigation.
+
+Live OpenAI browser acquisition was subsequently verified through the UI in
+session `inv-1260d57b7eae`: four browser actions produced 20 assertions and 15
+artifacts in the normal application store. At 18:49:25 UTC the authenticated
+doctor reported `credential_ok=true`, `live_connected=true`, and seven live/app
+traces. This verifies acquisition, not adjudication of the legal-entity conflict.

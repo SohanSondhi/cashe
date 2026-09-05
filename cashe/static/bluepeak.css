@@ -19,3 +19,7 @@ body.bp {
 .bp dl { display: grid; grid-template-columns: 10rem 1fr; gap: 0.4rem 0.8rem; }
 .bp table { width: 100%; border-collapse: collapse; }
 .bp td, .bp th { text-align: left; border-bottom: 1px solid #ddd; padding: 0.35rem 0; }
+.bp.relabeled main { max-width: 1040px; margin: auto; }
+.bp.relabeled dl { display: flex; flex-wrap: wrap; gap: 1rem; }
+.bp.relabeled dl > div { padding: 1rem; background: white; min-width: 180px; }
+.bp.relabeled ol { border-left: 4px solid #173a4a; padding-left: 2rem; }

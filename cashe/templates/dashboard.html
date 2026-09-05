@@ -23,6 +23,23 @@
   </ul>
 </details>
 
+<section class="ask">
+  <form id="browser-test-form">
+    <label for="browser-invoice">Test browser acquisition</label>
+    <p>Retrieve a portal record and review its evidence here.</p>
+    <div class="ask-row">
+      <select id="browser-source" aria-label="Customer portal">
+        {% for source in browser_sources %}
+        <option value="{{ source.source_id }}">{{ source.organization }}</option>
+        {% endfor %}
+      </select>
+      <input id="browser-invoice" name="invoice_number" value="INV-BP-2088" aria-label="Invoice number" required />
+      <button type="submit" {% if not browser_sources %}disabled{% endif %}>Test browser</button>
+    </div>
+    <p id="browser-test-error" role="alert"></p>
+  </form>
+</section>
+
 {% if investigations %}
 <details class="accounts">
   <summary>History</summary>
