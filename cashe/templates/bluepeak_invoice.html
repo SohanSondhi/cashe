@@ -5,7 +5,7 @@
   <title>{{ invoice.invoice_number }} · BluePeak</title>
   <link rel="stylesheet" href="/static/bluepeak.css">
 </head>
-<body class="bp">
+<body class="bp {{ layout.mode }}">
   <header>
     <strong>BluePeak</strong> Vendor Center
     <nav>
@@ -15,6 +15,7 @@
   </header>
   <main>
     <h1>{{ invoice.invoice_number }}</h1>
+    <p>Customer: BluePeak Labs</p>
     <dl>
       <div><dt>PO</dt><dd>{{ invoice.po_number }}</dd></div>
       <div><dt>Amount</dt><dd>${{ "%.0f"|format(invoice.amount_cents / 100) }} {{ invoice.currency }}</dd></div>
@@ -23,13 +24,16 @@
       <div><dt>Rejections</dt><dd>{{ invoice.rejection_count }}</dd></div>
       <div><dt>Dispute reason</dt><dd>{{ invoice.dispute_reason }}</dd></div>
     </dl>
+    <h2>Customer comments</h2>
     <p>{{ invoice.customer_comments }}</p>
     <h2>Timeline</h2>
+    <p>Timeline events: {{ invoice.timeline|length }}</p>
     <ol>
       {% for ev in invoice.timeline %}
       <li><time>{{ ev.at }}</time> {{ ev.event }} — {{ ev.detail }}</li>
       {% endfor %}
     </ol>
+    <p>End of timeline</p>
   </main>
 </body>
 </html>

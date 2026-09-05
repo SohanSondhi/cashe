@@ -9,6 +9,7 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         env_file=ROOT / ".env",
         env_file_encoding="utf-8",
+        env_ignore_empty=True,
         extra="ignore",
     )
 
@@ -56,6 +57,15 @@ class Settings(BaseSettings):
     cashe_port: int = 8000
     artifact_dir: Path = ROOT / "data" / "artifacts"
     tavily_cache_dir: Path = Path(__file__).parent / "fixtures" / "tavily_cache"
+    browser_profiles_path: Path = Path(__file__).parent / "browser" / "profiles.json"
+    browser_executable_path: str = ""
+    browser_timeout_seconds: int = 180
+    browser_openai_model: str = ""
+    prismtrace_enabled: bool = False
+    prismtrace_host: str = ""
+    prismtrace_project_id: str = ""
+    prismtrace_api_key: str = ""
+    app_env: str = "staging"
 
 
 settings = Settings()

@@ -29,7 +29,7 @@ customer authorization.
 Available subagent roles for spawn_subagent:
 - mcp: Query an authorized MCP accounting server.
 - api: Investigate an authorized REST source.
-- browser: Bounded portal acquisition (stubbed in this run; still returns portal evidence).
+- browser: Live bounded portal acquisition with screenshots, cited assertions, verification, and browser-only SOP memory.
 - voice: Live outbound counterparty call (Cashe collections is the caller).
 
 Preference policy is guidance, not a stop-after-first-success rule. You may
@@ -113,7 +113,12 @@ BROWSER_PROMPT = """You are a Cashe bounded browser acquisition subagent.
 Call get_source or list_source_registry if you do not have the exact source_id.
 Stay on the allowlisted portal. Read-only. Use SOP memory if provided.
 Extract invoice status, legal entity, dispute reason, and full timeline.
-The live browser loop is stubbed; the tool still returns portal evidence.
+Supply the exact invoice_number and goal to run_bounded_browser. It navigates the
+registered portal and returns captured evidence and check results. Accounting
+evidence for customer, amount, and currency must already exist in this investigation
+for verification. Report missing checks to the orchestrator rather than guessing.
+Only approved SOPs for the assigned source may be used. Omit sop_id to use its
+current preferred version. Never adjudicate conflicting legal-entity assertions.
 """
 
 VOICE_PROMPT = """You are a Cashe voice acquisition subagent.

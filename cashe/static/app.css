@@ -297,3 +297,6 @@ button, .btn {
   .graph-card { grid-column: auto; }
   .paper { padding: 1.2rem; }
 }
+.browser-screenshots { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0; }
+.browser-screenshots img { width: 240px; max-width: 100%; height: auto; border: 1px solid #d8d8d8; }
+#browser-records td { vertical-align: top; overflow-wrap: anywhere; max-width: 36rem; }

@@ -8,10 +8,19 @@ async function pollBoard(runId) {
   const nowEl = document.getElementById("now-line");
   let lastSeq = 0;
   const seen = new Set();
+  let evidenceSignature = "";
 
   async function tick() {
     const board = await fetch(`/api/investigations/${runId}/board`).then((r) => r.json());
     const inv = board.investigation || {};
+    const evidence = await fetch(`/api/investigations/${runId}/evidence`).then((r) => r.json());
+    const signature = JSON.stringify(evidence);
+    if (signature !== evidenceSignature) {
+      renderBrowserEvidence(evidence);
+      evidenceSignature = signature;
+    }
+    const acquisitionMessage = document.getElementById("acquisition-message");
+    if (acquisitionMessage) acquisitionMessage.textContent = inv.pause_reason || "";
     if (statusEl) {
       statusEl.textContent = inv.status || "";
       statusEl.className = `pill ${inv.status || ""}`;
@@ -274,8 +283,87 @@ function formatEvent(ev) {
   if (ev.event_type === "subagent_complete") return `${p.role} complete`;
   if (ev.event_type === "escalation") return p.title || "escalation";
   if (ev.event_type === "explanation") return p.headline || "explanation";
+  if (ev.event_type === "browser_capture") return `Browser step ${p.step}: ${p.intent}`;
+  if (ev.event_type === "browser_completed") return `Browser ${p.status} after ${p.steps_used} actions`;
+  if (ev.event_type === "browser_test_started") return `Reading ${p.invoice_number}`;
+  if (ev.event_type === "browser_test_finished") return p.message || p.status;
   if (ev.event_type === "llm_message") return (p.text || "").slice(0, 180);
   return ev.event_type;
+}
+
+function renderBrowserEvidence(data) {
+  const section = document.getElementById("browser-evidence");
+  if (!section || !data.artifacts) return;
+  section.hidden = !data.artifacts.some(a => a.retrieval_method === "browser");
+  const records = document.getElementById("browser-records");
+  records.replaceChildren();
+  const artifacts = new Map(data.artifacts.map(a => [a.id, a]));
+  for (const assertion of data.assertions || []) {
+    const row = document.createElement("tr");
+    const artifact = artifacts.get(assertion.artifact_id);
+    const value = typeof assertion.value === "string" ? assertion.value : JSON.stringify(assertion.value);
+    for (const text of [assertion.subject_id, assertion.field, value, artifact?.source_id || assertion.authority, assertion.confidence]) {
+      const cell = document.createElement("td");
+      cell.textContent = text;
+      row.append(cell);
+    }
+    const cell = document.createElement("td");
+    const link = document.createElement("a");
+    link.href = `/evidence/${encodeURIComponent(assertion.artifact_id)}`;
+    link.textContent = "View source";
+    cell.append(link);
+    row.append(cell);
+    records.append(row);
+  }
+  const checks = document.getElementById("browser-checks");
+  checks.replaceChildren();
+  for (const report of data.browser_reports || []) {
+    const text = document.createElement("p");
+    text.textContent = `${report.status} · ${report.steps_used} browser actions · ` +
+      Object.entries(report.checks).map(([name, passed]) => `${name}: ${passed ? "passed" : "failed"}`).join("; ");
+    checks.append(text);
+    for (const gap of report.remaining_gaps || []) {
+      const message = document.createElement("p");
+      message.textContent = gap;
+      checks.append(message);
+    }
+  }
+  const screenshots = document.getElementById("browser-screenshots");
+  screenshots.replaceChildren();
+  for (const artifact of data.artifacts.filter(a => a.media_type === "image/png")) {
+    const link = document.createElement("a");
+    link.href = `/evidence/${encodeURIComponent(artifact.id)}`;
+    const img = document.createElement("img");
+    img.src = `/api/evidence/${encodeURIComponent(artifact.id)}/content`;
+    img.alt = artifact.summary;
+    img.loading = "lazy";
+    link.append(img);
+    screenshots.append(link);
+  }
+}
+
+const browserTest = document.getElementById("browser-test-form");
+if (browserTest) {
+  browserTest.addEventListener("submit", async event => {
+    event.preventDefault();
+    const button = browserTest.querySelector("button");
+    const error = document.getElementById("browser-test-error");
+    button.disabled = true;
+    error.textContent = "";
+    try {
+      const response = await fetch("/api/browser-investigations", {
+        method: "POST", headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({source_id: document.getElementById("browser-source").value,
+                             invoice_number: document.getElementById("browser-invoice").value})
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(typeof result.detail === "string" ? result.detail : "Unable to start browser test");
+      window.location.href = result.url;
+    } catch (reason) {
+      error.textContent = reason.message;
+      button.disabled = false;
+    }
+  });
 }
 
 const ask = document.getElementById("ask-form");

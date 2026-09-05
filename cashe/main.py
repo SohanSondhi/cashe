@@ -6,10 +6,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.responses import HTMLResponse, JSONResponse, FileResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from sqlalchemy import select
 
 from cashe.config import settings
@@ -69,6 +69,12 @@ class InvestigateBody(BaseModel):
     question: str = "Why did cash decrease in September?"
 
 
+class BrowserTestBody(BaseModel):
+    source_id: str = "bluepeak-vendor-center"
+    invoice_number: str = Field(default="INV-BP-2088", pattern=r"^[A-Za-z0-9_.-]{1,100}$")
+    step_budget: int = Field(default=20, ge=1, le=50)
+
+
 class ResolveBody(BaseModel):
     decision: str
     rationale: str
@@ -85,12 +91,15 @@ class LayoutBody(BaseModel):
 def dashboard(request: Request):
     db = session()
     investigations = db.scalars(select(Investigation).order_by(Investigation.created_at.desc())).all()
+    browser_sources = [source_dict(row) for row in db.scalars(select(SourceRegistry)).all()
+                       if json.loads(row.entitlements_json).get("browser") and row.permission == "read_only"]
     db.close()
     return templates.TemplateResponse(
-        request,
-        "dashboard.html",
-        {
+        request=request, name="dashboard.html",
+        context={
+            "request": request,
             "investigations": investigations,
+            "browser_sources": browser_sources,
         },
     )
 
@@ -107,9 +116,9 @@ def investigation_page(request: Request, run_id: str):
     db.close()
     body = json.loads(explanation.body_json) if explanation else None
     return templates.TemplateResponse(
-        request,
-        "investigation.html",
-        {
+        request=request, name="investigation.html",
+        context={
+            "request": request,
             "inv": inv,
             "explanation": explanation,
             "body": body,
@@ -124,9 +133,8 @@ def sources_page(request: Request):
     rows = db.scalars(select(SourceRegistry)).all()
     db.close()
     return templates.TemplateResponse(
-        request,
-        "sources.html",
-        {"sources": [source_dict(r) for r in rows]},
+        request=request, name="sources.html",
+        context={"request": request, "sources": [source_dict(r) for r in rows]},
     )
 
 
@@ -135,8 +143,11 @@ def sops_page(request: Request):
     db = session()
     sops = db.scalars(select(Sop)).all()
     runs = db.scalars(select(SopRun).order_by(SopRun.created_at.desc())).all()
+    runs = [{**run.__dict__, "action_count": len(json.loads(run.action_trace_json)),
+             "sop_actions": sum(a.get("decision_source") == "approved_sop" for a in json.loads(run.action_trace_json))}
+            for run in runs]
     db.close()
-    return templates.TemplateResponse(request, "sops.html", {"sops": sops, "runs": runs})
+    return templates.TemplateResponse(request=request, name="sops.html", context={"request": request, "sops": sops, "runs": runs})
 
 
 @app.get("/escalations", response_class=HTMLResponse)
@@ -147,7 +158,7 @@ def escalations_page(request: Request):
     packets = []
     for row in rows:
         packets.append({**row.__dict__, "packet": json.loads(row.packet_json)})
-    return templates.TemplateResponse(request, "escalations.html", {"escalations": packets})
+    return templates.TemplateResponse(request=request, name="escalations.html", context={"request": request, "escalations": packets})
 
 
 @app.get("/evidence/{artifact_id}", response_class=HTMLResponse)
@@ -157,12 +168,24 @@ def evidence_page(request: Request, artifact_id: str):
     db.close()
     if not art:
         raise HTTPException(404)
-    payload = json.loads(Path(art.storage_path).read_text())
+    payload = json.loads(Path(art.storage_path).read_text(encoding="utf-8")) if art.media_type == "application/json" else None
     return templates.TemplateResponse(
-        request,
-        "evidence.html",
-        {"artifact": art, "payload": json.dumps(payload, indent=2, default=str)},
+        request=request, name="evidence.html",
+        context={"request": request, "artifact": art, "payload": json.dumps(payload, indent=2, default=str)},
     )
+
+
+@app.get("/api/evidence/{artifact_id}/content")
+def evidence_content(artifact_id: str):
+    with session() as db:
+        art = db.get(RawArtifact, artifact_id)
+        if not art:
+            raise HTTPException(404)
+        path = Path(art.storage_path).resolve()
+        if not path.is_relative_to(settings.artifact_dir.resolve()) or not path.is_file():
+            raise HTTPException(404)
+        return FileResponse(path, media_type=art.media_type,
+                            headers={"X-Content-Type-Options": "nosniff"})
 
 
 @app.post("/api/investigations")
@@ -200,6 +223,38 @@ def api_board(run_id: str):
 @app.get("/api/voice/live")
 def api_voice_live():
     return live_voice()
+
+
+@app.post("/api/browser-investigations", status_code=202)
+async def api_browser_start(body: BrowserTestBody):
+    from cashe.browser.jobs import run_browser_test
+    from cashe.browser.policy import load_profile
+
+    with session() as db:
+        source = db.get(SourceRegistry, body.source_id)
+        if not source:
+            raise HTTPException(404, "Unknown source")
+        if source.permission != "read_only" or not json.loads(source.entitlements_json).get("browser"):
+            raise HTTPException(403, "Source has no authorized read-only browser access")
+        try:
+            load_profile(source.source_id)
+        except (ValueError, OSError):
+            raise HTTPException(422, "Browser profile is not configured")
+    run_id = start_investigation(f"Browser: {body.invoice_number}")
+    _jobs[run_id] = asyncio.create_task(asyncio.to_thread(
+        run_browser_test, run_id, body.source_id, body.invoice_number, body.step_budget))
+    return {"id": run_id, "status": "running", "url": f"/investigations/{run_id}",
+            "evidence_url": f"/api/investigations/{run_id}/evidence"}
+
+
+@app.get("/api/investigations/{run_id}/evidence")
+def api_run_evidence(run_id: str):
+    from cashe.browser.jobs import evidence_for_ui
+
+    with session() as db:
+        if not db.get(Investigation, run_id):
+            raise HTTPException(404, "Unknown investigation")
+        return evidence_for_ui(db, run_id)
 
 
 @app.get("/api/investigations/{run_id}/events")
@@ -334,21 +389,20 @@ def mock_pf_remittances(request: Request):
 
 @app.get("/mock/bluepeak/login", response_class=HTMLResponse)
 def mock_bp_login(request: Request):
-    return templates.TemplateResponse(request, "bluepeak_login.html", {"layout": bluepeak.layout()})
+    return templates.TemplateResponse(request=request, name="bluepeak_login.html", context={"request": request, "layout": bluepeak.layout()})
 
 
 @app.get("/mock/bluepeak/dashboard", response_class=HTMLResponse)
 def mock_bp_dash(request: Request):
-    return templates.TemplateResponse(request, "bluepeak_dashboard.html", {"layout": bluepeak.layout()})
+    return templates.TemplateResponse(request=request, name="bluepeak_dashboard.html", context={"request": request, "layout": bluepeak.layout()})
 
 
 @app.get("/mock/bluepeak/invoices", response_class=HTMLResponse)
 def mock_bp_invoices(request: Request):
     view = bluepeak.invoice_view()
     return templates.TemplateResponse(
-        request,
-        "bluepeak_invoices.html",
-        {"layout": bluepeak.layout(), "invoice": view},
+        request=request, name="bluepeak_invoices.html",
+        context={"request": request, "layout": bluepeak.layout(), "invoice": view},
     )
 
 
@@ -358,9 +412,8 @@ def mock_bp_invoice(request: Request, invoice_number: str):
     if view.get("error"):
         raise HTTPException(404)
     return templates.TemplateResponse(
-        request,
-        "bluepeak_invoice.html",
-        {"layout": bluepeak.layout(), "invoice": view},
+        request=request, name="bluepeak_invoice.html",
+        context={"request": request, "layout": bluepeak.layout(), "invoice": view},
     )
 
 

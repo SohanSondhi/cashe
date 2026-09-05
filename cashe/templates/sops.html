@@ -12,10 +12,24 @@
     <h2>{{ sop.sop_id }}</h2>
     <p>{{ sop.source_id }} · v{{ sop.version }} · {{ sop.status }}</p>
   </header>
-  <p class="caption">Browser agent is currently stubbed; SOP is still stored and would be passed on a live run.</p>
+  <p class="caption">Learned from {{ sop.created_from_run_id or 'initial procedure' }}. Prior versions are retained.</p>
+  <pre>{{ sop.steps_json }}</pre>
+  <pre>{{ sop.learned_hints_json }}</pre>
 </article>
 {% endfor %}
 {% if not sops %}
 <p>No SOPs stored.</p>
 {% endif %}
+<h2>Browser runs</h2>
+{% for run in runs %}
+<article class="stmt">
+  <h3>{{ run.id }} · {{ run.outcome }}</h3>
+  <p>{{ run.source_id }} · SOP {{ run.sop_id or 'none' }} · {{ run.created_at }}</p>
+  <p>{{ run.action_count }} browser actions · {{ run.sop_actions }} guided by an approved procedure</p>
+  <details><summary>Actions and verification</summary>
+    <pre>{{ run.action_trace_json }}</pre><pre>{{ run.checks_json }}</pre>
+  </details>
+  <details><summary>Procedure update</summary><pre>{{ run.proposed_patch_json }}</pre></details>
+</article>
+{% else %}<p>No browser runs yet.</p>{% endfor %}
 {% endblock %}

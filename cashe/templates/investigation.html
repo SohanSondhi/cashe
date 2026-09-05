@@ -29,12 +29,24 @@
   </section>
 </div>
 
+<section id="browser-evidence" hidden aria-live="polite">
+  <h2>Retrieved records</h2>
+  <p>Each value retains its source and verification status. Differing legal entities remain separate assertions.</p>
+  <div id="browser-checks"></div>
+  <div style="overflow-x:auto">
+    <table class="tape"><thead><tr><th>Record</th><th>Field</th><th>Value</th><th>Source</th><th>Confidence</th><th>Evidence</th></tr></thead>
+    <tbody id="browser-records"></tbody></table>
+  </div>
+  <div id="browser-screenshots" class="browser-screenshots"></div>
+</section>
+<p id="acquisition-message" role="status"></p>
+
 <article class="explanation {% if not body %}ghost{% endif %}" id="explanation">
   {% if body %}
   <h2>{{ body.headline }}</h2>
   <p class="narrative">{{ body.narrative }}</p>
   {% else %}
-  <p class="muted">No explanation yet.</p>
+  <p class="muted">{% if inv.question.startswith("Browser: ") %}Portal acquisition gathers evidence; financial conflicts still require review.{% else %}No explanation yet.{% endif %}</p>
   {% endif %}
 </article>
 {% endblock %}

@@ -1,0 +1,14 @@
+{
+  "bluepeak-vendor-center": {
+    "entry_path": "/login",
+    "read_paths": ["/login", "/dashboard", "/invoices", "/invoices/{record_id}"],
+    "asset_paths": ["/static/bluepeak.css"],
+    "query_parameters": [],
+    "credential_ref": "mock://bluepeak/read-only",
+    "required_fields": ["invoice_number", "customer", "po_number", "amount_cents", "currency", "legal_entity", "status", "rejection_count", "dispute_reason", "customer_comments"],
+    "field_labels": {"invoice_number": ["Record heading"], "customer": ["Customer"], "po_number": ["PO"], "amount_cents": ["Amount"], "currency": ["Amount"], "legal_entity": ["Legal entity"], "status": ["Status"], "rejection_count": ["Rejections"], "dispute_reason": ["Dispute reason"], "customer_comments": ["Customer comments"]},
+    "status_labels": {"Disputed": "DISPUTED", "Needs Attention": "DISPUTED"},
+    "timeline_end_marker": "End of timeline",
+    "timeline_count_pattern": "Timeline events: ([0-9]+)"
+  }
+}
