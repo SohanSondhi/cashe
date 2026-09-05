@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Sources{% endblock %}
+{% block body %}
+<section class="mast compact">
+  <p class="eyebrow">Registry</p>
+  <h1>What Cashe is actually allowed to touch.</h1>
+  <p class="lede">Tavily can describe a product family. Entitlements describe this customer. The orchestrator has to combine both.</p>
+</section>
+<div class="source-grid">
+  {% for s in sources %}
+  <article class="source-card">
+    <p class="eyebrow">{{ s.product_family }}</p>
+    <h2>{{ s.organization }}</h2>
+    <p class="mono">{{ s.source_id }}</p>
+    <ul class="ents">
+      {% for k, v in s.entitlements.items() %}
+      <li class="{% if v %}on{% endif %}">{{ k }}</li>
+      {% endfor %}
+    </ul>
+    <p class="caption">{{ s.notes }}</p>
+    <p class="caption">cred {{ s.credential_ref }} · {{ s.permission }}</p>
+  </article>
+  {% endfor %}
+</div>
+{% endblock %}

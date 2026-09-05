@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Investigation {{ inv.id }}{% endblock %}
+{% block body %}
+<section class="mast compact">
+  <p class="eyebrow">{{ inv.id }} · <span id="status" class="pill {{ inv.status }}">{{ inv.status }}</span></p>
+  <h1>{{ inv.question }}</h1>
+  {% if inv.pause_reason %}<p class="lede">{{ inv.pause_reason }}</p>{% endif %}
+</section>
+
+{% if body %}
+<article class="explanation" id="explanation">
+  <p class="eyebrow">Explanation</p>
+  <h2>{{ body.headline }}</h2>
+  <p class="narrative">{{ body.narrative }}</p>
+  {% if body.claims %}
+  <ul class="claims">
+    {% for c in body.claims %}
+    <li>
+      <span class="pill {{ c.confidence }}">{{ c.confidence }}</span>
+      {{ c.text }}
+      {% if c.assertion_ids %}
+      <span class="ids">{% for a in c.assertion_ids %}<code>{{ a }}</code> {% endfor %}</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</article>
+{% else %}
+<article class="explanation ghost" id="explanation">
+  <p class="eyebrow">Explanation</p>
+  <p class="lede">Waiting on evidence — and, if needed, a human.</p>
+</article>
+{% endif %}
+
+{% if escalations %}
+<section>
+  <h2>Escalations</h2>
+  <div class="esc-grid" id="escalations">
+    {% for e in escalations %}
+    <article class="esc-card" data-id="{{ e.id }}">
+      <p class="eyebrow">{{ e.kind }} · {{ e.status }}</p>
+      <h3>{{ e.title }}</h3>
+      <p>{{ e.recommended_action }}</p>
+      <p class="caption">Materiality {{ e.materiality_cents | usd }}</p>
+      {% if e.status == 'open' %}
+      <a class="text-link" href="/escalations">Review packet →</a>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section>
+  <h2>Tape</h2>
+  <ol class="timeline" id="tape"></ol>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+  window.CASHE_RUN = {{ inv.id | tojson }};
+  pollInvestigation(window.CASHE_RUN);
+</script>
+{% endblock %}

@@ -1,0 +1,13 @@
+{
+  "query": "BluePeak Labs vendor center supplier portal API invoice status",
+  "source_name": "BluePeak Vendor Center",
+  "answer": "Custom customer AP portals in this class are usually browser-only. They rarely publish a public invoice API. Status, dispute reason, and legal-entity fields are visible in the supplier UI.",
+  "results": [
+    {
+      "title": "Supplier portal invoice management (generic AP)",
+      "url": "https://docs.coupa.com/en/supplier-documentation/coupa-for-suppliers/the-coupa-supplier-portal-or-csp/features-and-processes-in-the-coupa-supplier-portal/invoices/invoices-faq",
+      "content": "When a buyer does not enable an API, suppliers retrieve invoice status through the authenticated portal. Legal entity mismatches are a frequent rejection cause."
+    }
+  ],
+  "candidate_methods": ["supplier_portal", "email", "voice"]
+}

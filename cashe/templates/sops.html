@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}SOPs{% endblock %}
+{% block body %}
+<section class="mast compact">
+  <p class="eyebrow">Browser only</p>
+  <h1>Semantic procedures, not selectors.</h1>
+  <p class="lede">MCP, API, Tavily, and voice subagents do not use SOPs. Only the bounded browser agent learns a path through a portal.</p>
+</section>
+{% for sop in sops %}
+<article class="stmt">
+  <header>
+    <h2>{{ sop.sop_id }}</h2>
+    <p>{{ sop.source_id }} · v{{ sop.version }} · {{ sop.status }}</p>
+  </header>
+  <p class="caption">Browser agent is currently stubbed; SOP is still stored and would be passed on a live run.</p>
+</article>
+{% endfor %}
+{% if not sops %}
+<p>No SOPs stored.</p>
+{% endif %}
+{% endblock %}

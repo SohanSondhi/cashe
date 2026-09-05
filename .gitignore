@@ -17,4 +17,5 @@ dist/
 .coverage
 htmlcov/
 data/uploads/
+data/voice_transcripts/
 .cache/

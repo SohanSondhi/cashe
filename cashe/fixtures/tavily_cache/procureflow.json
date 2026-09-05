@@ -1,0 +1,18 @@
+{
+  "query": "ProcureFlow supplier invoice API portal cXML REST integration capabilities",
+  "source_name": "ProcureFlow",
+  "answer": "ProcureFlow-class procurement suites typically expose supplier invoice status through a REST or cXML integration, plus a supplier portal. Machine access is commonly API-first when the buyer provisions a token; portal login is the fallback.",
+  "results": [
+    {
+      "title": "Coupa: View and manage invoices",
+      "url": "https://compass.coupa.com/en-us/products/product-documentation/supplier-resources/for-suppliers/coupa-supplier-portal/set-up-the-csp/invoices/view-and-manage-invoices",
+      "content": "Supplier portals in this product family let suppliers view invoice status, rejections, and required fields. Buyers may also enable cXML or API integrations for invoice submission and status."
+    },
+    {
+      "title": "Coupa Supplier Portal invoice FAQ",
+      "url": "https://docs.coupa.com/en/supplier-documentation/coupa-for-suppliers/the-coupa-supplier-portal-or-csp/features-and-processes-in-the-coupa-supplier-portal/invoices/invoices-faq",
+      "content": "Invoice rejection reasons, legal entity, and PO matching are common blockers. API or cXML access depends on the customer's configuration, not the platform default."
+    }
+  ],
+  "candidate_methods": ["api", "cxml", "supplier_portal"]
+}

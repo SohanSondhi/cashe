@@ -1,0 +1,1 @@
+{"authority": "BOOKS", "customer": {"ap_system": "HarborLine AP service desk", "customer_id": "cust-harborline", "name": "HarborLine Co.", "source_id": "harborline-ap-desk"}, "source": "cashe-accounting-mcp", "tool": "get_customer"}

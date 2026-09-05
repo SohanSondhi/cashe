@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ invoice.invoice_number }} · BluePeak</title>
+  <link rel="stylesheet" href="/static/bluepeak.css">
+</head>
+<body class="bp">
+  <header>
+    <strong>BluePeak</strong> Vendor Center
+    <nav>
+      <a href="/mock/bluepeak/dashboard">Home</a>
+      <a href="/mock/bluepeak/invoices">{{ layout.collection }}</a>
+    </nav>
+  </header>
+  <main>
+    <h1>{{ invoice.invoice_number }}</h1>
+    <dl>
+      <div><dt>PO</dt><dd>{{ invoice.po_number }}</dd></div>
+      <div><dt>Amount</dt><dd>${{ "%.0f"|format(invoice.amount_cents / 100) }} {{ invoice.currency }}</dd></div>
+      <div><dt>Legal entity</dt><dd>{{ invoice.legal_entity }}</dd></div>
+      <div><dt>Status</dt><dd>{{ invoice.status_label }}</dd></div>
+      <div><dt>Rejections</dt><dd>{{ invoice.rejection_count }}</dd></div>
+      <div><dt>Dispute reason</dt><dd>{{ invoice.dispute_reason }}</dd></div>
+    </dl>
+    <p>{{ invoice.customer_comments }}</p>
+    <h2>Timeline</h2>
+    <ol>
+      {% for ev in invoice.timeline %}
+      <li><time>{{ ev.at }}</time> {{ ev.event }} — {{ ev.detail }}</li>
+      {% endfor %}
+    </ol>
+  </main>
+</body>
+</html>
