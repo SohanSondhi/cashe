@@ -14,7 +14,6 @@ from sqlalchemy import select
 
 from cashe.config import settings
 from cashe.db import init_db, session
-from cashe.fixtures.statements import sequential_variance, statement_with_recon
 from cashe.ids import iso
 from cashe.models import (
     Escalation,
@@ -27,6 +26,7 @@ from cashe.models import (
     SourceRegistry,
 )
 from cashe.money import usd
+from cashe.board import board_payload, live_voice
 from cashe.orchestrator.loop import apply_resolution, continue_investigation, start_investigation
 from cashe.seed import seed_static
 from cashe.sources import bluepeak, procureflow
@@ -87,12 +87,9 @@ def dashboard(request: Request):
     investigations = db.scalars(select(Investigation).order_by(Investigation.created_at.desc())).all()
     db.close()
     return templates.TemplateResponse(
+        request,
         "dashboard.html",
         {
-            "request": request,
-            "august": statement_with_recon("2026-08"),
-            "september": statement_with_recon("2026-09"),
-            "variance": sequential_variance(),
             "investigations": investigations,
         },
     )
@@ -110,9 +107,9 @@ def investigation_page(request: Request, run_id: str):
     db.close()
     body = json.loads(explanation.body_json) if explanation else None
     return templates.TemplateResponse(
+        request,
         "investigation.html",
         {
-            "request": request,
             "inv": inv,
             "explanation": explanation,
             "body": body,
@@ -127,8 +124,9 @@ def sources_page(request: Request):
     rows = db.scalars(select(SourceRegistry)).all()
     db.close()
     return templates.TemplateResponse(
+        request,
         "sources.html",
-        {"request": request, "sources": [source_dict(r) for r in rows]},
+        {"sources": [source_dict(r) for r in rows]},
     )
 
 
@@ -138,7 +136,7 @@ def sops_page(request: Request):
     sops = db.scalars(select(Sop)).all()
     runs = db.scalars(select(SopRun).order_by(SopRun.created_at.desc())).all()
     db.close()
-    return templates.TemplateResponse("sops.html", {"request": request, "sops": sops, "runs": runs})
+    return templates.TemplateResponse(request, "sops.html", {"sops": sops, "runs": runs})
 
 
 @app.get("/escalations", response_class=HTMLResponse)
@@ -149,7 +147,7 @@ def escalations_page(request: Request):
     packets = []
     for row in rows:
         packets.append({**row.__dict__, "packet": json.loads(row.packet_json)})
-    return templates.TemplateResponse("escalations.html", {"request": request, "escalations": packets})
+    return templates.TemplateResponse(request, "escalations.html", {"escalations": packets})
 
 
 @app.get("/evidence/{artifact_id}", response_class=HTMLResponse)
@@ -161,8 +159,9 @@ def evidence_page(request: Request, artifact_id: str):
         raise HTTPException(404)
     payload = json.loads(Path(art.storage_path).read_text())
     return templates.TemplateResponse(
+        request,
         "evidence.html",
-        {"request": request, "artifact": art, "payload": json.dumps(payload, indent=2, default=str)},
+        {"artifact": art, "payload": json.dumps(payload, indent=2, default=str)},
     )
 
 
@@ -186,6 +185,21 @@ def api_get(run_id: str):
         payload["explanation"] = json.loads(expl.body_json) if expl else None
     db.close()
     return payload
+
+
+@app.get("/api/investigations/{run_id}/board")
+def api_board(run_id: str):
+    db = session()
+    payload = board_payload(db, run_id)
+    db.close()
+    if payload.get("error"):
+        raise HTTPException(404)
+    return payload
+
+
+@app.get("/api/voice/live")
+def api_voice_live():
+    return live_voice()
 
 
 @app.get("/api/investigations/{run_id}/events")
@@ -320,20 +334,21 @@ def mock_pf_remittances(request: Request):
 
 @app.get("/mock/bluepeak/login", response_class=HTMLResponse)
 def mock_bp_login(request: Request):
-    return templates.TemplateResponse("bluepeak_login.html", {"request": request, "layout": bluepeak.layout()})
+    return templates.TemplateResponse(request, "bluepeak_login.html", {"layout": bluepeak.layout()})
 
 
 @app.get("/mock/bluepeak/dashboard", response_class=HTMLResponse)
 def mock_bp_dash(request: Request):
-    return templates.TemplateResponse("bluepeak_dashboard.html", {"request": request, "layout": bluepeak.layout()})
+    return templates.TemplateResponse(request, "bluepeak_dashboard.html", {"layout": bluepeak.layout()})
 
 
 @app.get("/mock/bluepeak/invoices", response_class=HTMLResponse)
 def mock_bp_invoices(request: Request):
     view = bluepeak.invoice_view()
     return templates.TemplateResponse(
+        request,
         "bluepeak_invoices.html",
-        {"request": request, "layout": bluepeak.layout(), "invoice": view},
+        {"layout": bluepeak.layout(), "invoice": view},
     )
 
 
@@ -343,8 +358,9 @@ def mock_bp_invoice(request: Request, invoice_number: str):
     if view.get("error"):
         raise HTTPException(404)
     return templates.TemplateResponse(
+        request,
         "bluepeak_invoice.html",
-        {"request": request, "layout": bluepeak.layout(), "invoice": view},
+        {"layout": bluepeak.layout(), "invoice": view},
     )
 
 

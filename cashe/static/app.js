@@ -1,41 +1,269 @@
-async function pollInvestigation(runId) {
+function pollInvestigation(runId) {
+  pollBoard(runId);
+}
+
+async function pollBoard(runId) {
   const tape = document.getElementById("tape");
   const statusEl = document.getElementById("status");
-  let after = 0;
+  const nowEl = document.getElementById("now-line");
+  let lastSeq = 0;
   const seen = new Set();
 
   async function tick() {
-    const res = await fetch(`/api/investigations/${runId}/events?after=${after}`);
-    const data = await res.json();
-    for (const ev of data.events) {
-      after = Math.max(after, ev.seq);
-      if (seen.has(ev.id)) continue;
-      seen.add(ev.id);
-      const li = document.createElement("li");
-      const when = document.createElement("span");
-      when.className = "when";
-      when.textContent = ev.created_at.slice(11, 19);
-      const actor = document.createElement("span");
-      actor.textContent = ev.actor;
-      const body = document.createElement("span");
-      body.textContent = formatEvent(ev);
-      li.append(when, actor, body);
-      tape.appendChild(li);
-    }
-    const inv = await fetch(`/api/investigations/${runId}`).then((r) => r.json());
+    const board = await fetch(`/api/investigations/${runId}/board`).then((r) => r.json());
+    const inv = board.investigation || {};
     if (statusEl) {
-      statusEl.textContent = inv.status;
-      statusEl.className = `pill ${inv.status}`;
+      statusEl.textContent = inv.status || "";
+      statusEl.className = `pill ${inv.status || ""}`;
     }
-    if (inv.status === "completed" && inv.explanation && !document.querySelector(".narrative")) {
+    if (nowEl && board.now) nowEl.textContent = board.now.text;
+    if (tape) {
+      for (const ev of board.events || []) {
+        if (ev.seq <= lastSeq || seen.has(ev.id)) continue;
+        seen.add(ev.id);
+        lastSeq = Math.max(lastSeq, ev.seq);
+        const li = document.createElement("li");
+        const when = document.createElement("span");
+        when.className = "when";
+        when.textContent = (ev.created_at || "").slice(11, 19);
+        const body = document.createElement("span");
+        const who = document.createElement("span");
+        who.className = "who";
+        who.textContent = ev.actor;
+        const line = document.createElement("span");
+        line.textContent = formatEvent(ev);
+        body.append(who, line);
+        li.append(when, body);
+        tape.appendChild(li);
+      }
+      tape.scrollTop = tape.scrollHeight;
+    }
+    const voiceLive = board.live && board.live.voice && board.live.voice.status === "in_progress";
+    if (!voiceLive) renderChannel(board);
+    renderHil(board);
+    renderGraph(board.graph, voiceLive);
+    if (board.explanation && !document.querySelector("#explanation .narrative") && !voiceLive) {
       window.location.reload();
       return;
     }
-    if (inv.status !== "completed" && inv.status !== "failed") {
-      setTimeout(tick, 1200);
-    }
+    setTimeout(tick, 1100);
   }
   tick();
+  pollVoice();
+}
+
+function pollVoice() {
+  if (!document.getElementById("channel-card") && !document.getElementById("channel-title")) return;
+  let lastSig = "";
+  async function tick() {
+    try {
+      const voice = await fetch("/api/voice/live").then((r) => r.json());
+      const live = voice && voice.status === "in_progress";
+      const sig = JSON.stringify({
+        status: voice && voice.status,
+        transcript: voice && voice.transcript,
+      });
+      if (sig !== lastSig) {
+        lastSig = sig;
+        renderVoice(voice);
+      }
+    } catch (_err) {
+      /* bridge may be down between calls */
+    }
+    setTimeout(tick, 350);
+  }
+  tick();
+}
+
+function renderVoice(voice) {
+  const title = document.getElementById("channel-title");
+  const body = document.getElementById("channel-body");
+  const card = document.getElementById("channel-card") || (title && title.closest(".channel-card"));
+  if (!title || !body) return;
+  const live = voice && voice.status === "in_progress";
+  if (card) card.classList.toggle("live", live);
+  if (!live) {
+    if (title.textContent === "On the line") {
+      title.textContent = "Idle";
+      body.innerHTML = `<p class="muted">Call ended.</p>`;
+    }
+    return;
+  }
+  title.textContent = "On the line";
+  const transcript = (voice.transcript || []).filter((turn) => (turn.speaker || "") !== "system");
+  if (!transcript.length) {
+    body.innerHTML = `<p class="muted">Connecting…</p>`;
+    return;
+  }
+  const wrap = document.createElement("div");
+  wrap.className = "dialogue";
+  for (const turn of transcript) {
+    const bubble = document.createElement("div");
+    const role = /caller|cashe|veronica/i.test(turn.speaker || "") ? "caller" : "counterparty";
+    bubble.className = `bubble ${role}${turn.partial ? " partial" : ""}`;
+    const who = document.createElement("span");
+    who.className = "who";
+    who.textContent = role === "caller" ? "Cashe" : "Desk";
+    const text = document.createElement("span");
+    text.textContent = turn.text || "";
+    bubble.append(who, text);
+    wrap.appendChild(bubble);
+  }
+  body.innerHTML = "";
+  body.appendChild(wrap);
+  wrap.scrollTop = wrap.scrollHeight;
+}
+
+function renderChannel(board) {
+  const title = document.getElementById("channel-title");
+  const body = document.getElementById("channel-body");
+  const card = document.getElementById("channel-card") || (title && title.closest(".channel-card"));
+  if (!title || !body) return;
+  const channel = (board.now && board.now.channel) || "";
+  const voice = (board.live && board.live.voice) || {};
+  const browser = (board.live && board.live.browser) || null;
+  if (voice.status === "in_progress") {
+    renderVoice(voice);
+    return;
+  }
+  if (channel === "browser") {
+    title.textContent = browser && browser.invoice_number ? browser.invoice_number : "Portal walk";
+    const steps = (browser && browser.steps) || [];
+    if (!steps.length) {
+      body.innerHTML = `<p class="muted">${(board.now && board.now.text) || "Opening the portal."}</p>`;
+      return;
+    }
+    const ul = document.createElement("ol");
+    ul.className = "steps";
+    for (const step of steps) {
+      const li = document.createElement("li");
+      li.textContent = step.intent || step.result || JSON.stringify(step);
+      ul.appendChild(li);
+    }
+    body.innerHTML = "";
+    body.appendChild(ul);
+    return;
+  }
+  if (channel === "human" || (board.investigation && board.investigation.status === "awaiting_human")) {
+    title.textContent = "Your verdict";
+    body.innerHTML = `<p class="muted">Open packets are below. Cashe will not write the close until you rule.</p>`;
+    return;
+  }
+  title.textContent = channel || "Idle";
+  body.innerHTML = `<p class="muted">${(board.now && board.now.text) || "Waiting for a subagent."}</p>`;
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function renderHil(board) {
+  const root = document.getElementById("hil");
+  const packets = document.getElementById("hil-packets");
+  if (!root || !packets) return;
+  const open = (board.escalations || []).filter((e) => e.status === "open");
+  if (!open.length) {
+    root.hidden = true;
+    packets.innerHTML = "";
+    return;
+  }
+  const reason = document.getElementById("hil-reason");
+  if (reason) {
+    reason.textContent =
+      (board.investigation && board.investigation.pause_reason) ||
+      "Cashe will not close until you rule.";
+  }
+  root.hidden = false;
+  packets.innerHTML = open.map(packetMarkup).join("");
+}
+
+function packetMarkup(esc) {
+  const conflict = esc.kind === "conflict";
+  const choices = esc.choices || [];
+  const radios = choices
+    .map(
+      (c, i) => `
+      <label class="choice">
+        <input type="radio" name="chosen_assertion_id" value="${escapeHtml(c.id)}" ${
+          conflict && i === 0 ? "checked" : ""
+        }>
+        <span>
+          <strong>${escapeHtml(c.label)}</strong>
+          <em>${escapeHtml(c.authority)} · ${escapeHtml(c.field)}</em>
+        </span>
+      </label>`
+    )
+    .join("");
+  const decisions = conflict
+    ? `<option value="choose_assertion">Use the selected claim</option>
+       <option value="request_more_evidence">Need more evidence</option>`
+    : `<option value="approve_provisionally">Accept as provisional</option>
+       <option value="request_more_evidence">Need a document</option>
+       <option value="reject">Reject the claim</option>`;
+  return `
+    <article class="hil-packet">
+      <p class="eyebrow">${escapeHtml(esc.kind)}</p>
+      <h3>${escapeHtml(esc.title)}</h3>
+      <p>${escapeHtml(esc.likely_interpretation || esc.recommended_action || "")}</p>
+      <form class="resolve-form" data-id="${escapeHtml(esc.id)}">
+        ${radios ? `<fieldset><legend>What do you believe?</legend>${radios}</fieldset>` : ""}
+        <label>Decision
+          <select name="decision">${decisions}</select>
+        </label>
+        <label>Why
+          <textarea name="rationale" required placeholder="Your ruling, in one or two sentences."></textarea>
+        </label>
+        <button type="submit">Record verdict</button>
+      </form>
+    </article>
+  `;
+}
+
+function renderGraph(graph, voiceLive) {
+  const svg = document.getElementById("graph");
+  if (!svg || !graph) return;
+  const card = svg.closest(".graph-card");
+  const nodes = graph.nodes || [];
+  const edges = graph.edges || [];
+  if (card) card.classList.toggle("live", Boolean(voiceLive || nodes.some((n) => n.active)));
+  const byId = Object.fromEntries(nodes.map((n) => [n.id, n]));
+  const ns = "http://www.w3.org/2000/svg";
+  const w = 176;
+  const h = 52;
+  while (svg.firstChild) svg.removeChild(svg.firstChild);
+
+  for (const edge of edges) {
+    const a = byId[edge.from];
+    const b = byId[edge.to];
+    if (!a || !b) continue;
+    const line = document.createElementNS(ns, "path");
+    line.setAttribute("d", `M ${a.x} ${a.y} C ${a.x} ${(a.y + b.y) / 2}, ${b.x} ${(a.y + b.y) / 2}, ${b.x} ${b.y}`);
+    line.setAttribute("class", `g-edge ${edge.rel || ""}${edge.active ? " active" : ""}`);
+    svg.appendChild(line);
+  }
+  for (const node of nodes) {
+    const g = document.createElementNS(ns, "g");
+    g.setAttribute("class", `g-node ${node.kind || ""}${node.active ? " active" : ""}`);
+    g.setAttribute("transform", `translate(${node.x - w / 2}, ${node.y - h / 2})`);
+    const rect = document.createElementNS(ns, "rect");
+    rect.setAttribute("width", String(w));
+    rect.setAttribute("height", String(h));
+    const label = document.createElementNS(ns, "text");
+    label.setAttribute("x", "12");
+    label.setAttribute("y", "22");
+    label.textContent = node.label || "";
+    const fact = document.createElementNS(ns, "text");
+    fact.setAttribute("class", "kind");
+    fact.setAttribute("x", "12");
+    fact.setAttribute("y", "40");
+    fact.textContent = node.detail || "";
+    g.append(rect, label, fact);
+    svg.appendChild(g);
+  }
 }
 
 function formatEvent(ev) {
@@ -65,22 +293,27 @@ if (ask) {
   });
 }
 
-document.querySelectorAll(".resolve-form").forEach((form) => {
-  form.addEventListener("submit", async (e) => {
-    e.preventDefault();
-    const id = form.dataset.id;
-    const body = {
-      decision: form.decision.value,
-      rationale: form.rationale.value,
-      chosen_assertion_id: form.chosen_assertion_id.value || null,
-      reviewer: "operator",
-      resume: true,
-    };
-    await fetch(`/api/escalations/${id}/resolve`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(body),
-    });
-    window.location.reload();
+document.addEventListener("submit", async (e) => {
+  const form = e.target.closest(".resolve-form");
+  if (!form) return;
+  e.preventDefault();
+  const chosen = form.chosen_assertion_id;
+  const body = {
+    decision: form.decision.value,
+    rationale: form.rationale.value,
+    chosen_assertion_id: chosen && chosen.value ? chosen.value : null,
+    reviewer: "operator",
+    resume: true,
+  };
+  const btn = form.querySelector("button");
+  if (btn) {
+    btn.disabled = true;
+    btn.textContent = "Recording…";
+  }
+  await fetch(`/api/escalations/${form.dataset.id}/resolve`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
   });
+  window.location.reload();
 });

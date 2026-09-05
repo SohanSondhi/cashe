@@ -32,11 +32,13 @@ from cashe.voice.realtime_common import (
     greet_instructions,
     inbound_audio_payload,
     get_last_call,
+    set_last_call,
     is_english_ivr,
     is_hold_filler,
     is_human_question,
     looks_like_status_answer,
     openai_tools,
+    silent_turn,
 )
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -172,6 +174,7 @@ async def create_call(call: CallRequest):
     _pending_to = to
     _pending_objective = call.objective
     _pending_questions = call.allowed_questions
+    set_last_call({"status": "in_progress", "transcript": [], "to": to})
 
     payload = {
         "connection_id": TELNYX_CONNECTION_ID,
@@ -294,7 +297,7 @@ async def media_stream(websocket: WebSocket):
                 json.dumps(
                     {
                         "type": "response.create",
-                        "response": {"instructions": instructions},
+                        "response": {"instructions": silent_turn(instructions)},
                     }
                 )
             )
@@ -526,6 +529,7 @@ async def media_stream(websocket: WebSocket):
                     delta = data.get("delta") or ""
                     if delta:
                         assistant_buf.append(delta)
+                        log.preview("Cashe collections", "".join(assistant_buf))
                 elif event_type in (
                     "response.output_audio_transcript.done",
                     "response.audio_transcript.done",

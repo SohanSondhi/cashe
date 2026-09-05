@@ -1,11 +1,11 @@
 from cashe.voice.place_call import build_voice_payload, place_voice_call
-from cashe.voice.realtime_common import caller_instructions, first_message
+from cashe.voice.realtime_common import caller_instructions, first_message, get_last_call, set_last_call
 
 
 def test_purpose_is_fstringed_into_caller_prompt():
     purpose = "Ask whether PO-HL-2207 is matched yet"
     prompt = caller_instructions(purpose, ["What is the current status?"])
-    assert "PURPOSE OF THIS CALL" in prompt
+    assert "PRIVATE NOTES" in prompt
     assert purpose in prompt
     assert "What is the current status?" in prompt
     assert "INV-HL-3301" not in prompt
@@ -13,12 +13,15 @@ def test_purpose_is_fstringed_into_caller_prompt():
     assert "Informal asides matter" in prompt
     assert "chill coworker" in prompt
     assert "not a collections script" in prompt
+    assert "never speak" in prompt.lower()
 
 
-def test_first_message_uses_purpose():
+def test_first_message_does_not_speak_purpose():
     purpose = "Confirm invoice status and request written confirmation"
-    assert purpose in first_message(purpose)
-    assert "INV-HL-3301" not in first_message(purpose)
+    spoken = first_message(purpose)
+    assert purpose not in spoken
+    assert "INV-HL-3301" not in spoken
+    assert "Cashe" in spoken
 
 
 def test_payload_returns_full_transcript():
@@ -40,6 +43,23 @@ def test_payload_returns_full_transcript():
     assert payload["transcript"] == transcript
     assert payload["purpose"] == "Get status"
     assert "extracted" not in payload
+
+
+def test_preview_publishes_partial_without_closing_the_call():
+    set_last_call({"status": "idle", "transcript": []})
+    from cashe.voice.realtime_common import TranscriptLog
+
+    log = TranscriptLog("+15555550100", "+15555550101")
+    log.preview("Cashe collections", "Hey, it's")
+    live = get_last_call()
+    assert live["status"] == "in_progress"
+    assert live["transcript"][-1]["partial"] is True
+    assert live["transcript"][-1]["text"] == "Hey, it's"
+    log.add("Cashe collections", "Hey, it's Veronica.")
+    done = get_last_call()
+    assert done["transcript"][-1].get("partial") is None
+    assert done["transcript"][-1]["text"] == "Hey, it's Veronica."
+    log.close()
 
 
 def test_place_voice_call_falls_back_to_mock_without_destination(monkeypatch):
