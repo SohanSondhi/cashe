@@ -1,0 +1,1475 @@
+ 
+ 
+IN THE UNITED STATES BANKRUPTCY COURT 
+FOR THE SOUTHERN DISTRICT OF TEXAS 
+HOUSTON DIVISION 
+ 
+ 
+§ 
+In re:  
+ 
+§ 
+Chapter 11  
+ 
+ 
+§ 
+FIRST BRANDS GROUP, LLC, et al., 
+ 
+§ 
+Case No. 25-90399 (CML) 
+ 
+ 
+§ 
+ 
+ 
+§ 
+(Joint Administration Requested) 
+ 
+Debtors.1 
+ 
+§ 
+(Emergency Hearing Requested) 
+DECLARATION OF CHARLES M. MOORE  
+IN SUPPORT OF DEBTORS’ CHAPTER 11 PETITIONS  
+I, Charles M. Moore, pursuant to section 1746 of title 28 of the United States Code, 
+hereby declare that the following is true to the best of my knowledge, information, and belief:  
+1. 
+I am a Managing Director at Alvarez & Marsal North America, 
+LLC (“A&M”) and Chief Restructuring Officer of First Brands Group, LLC (“FBG”) and its 
+debtor affiliates, as debtors and debtors in possession in the above-captioned chapter 11 cases 
+(collectively, the “Debtors,” and together with the Debtors’ non-debtor affiliates, “First Brands” 
+or the “Company”).   
+2. 
+A&M is a leading restructuring consulting firm with extensive experience 
+providing high quality, specialized management and restructuring advisory services to debtors and 
+distressed companies.  Specifically, A&M’s core services include turnaround advisory services, 
+interim and crisis management, revenue enhancement, claims management, and creditor and risk 
+management advisory services.  A&M provides a wide range of debtor advisory services targeted 
+at stabilizing and improving a company’s financial position, including developing or validating 
+forecasts, business plans, and related assessments of strategic position; monitoring and managing 
+ 
+1  
+A complete list of the Debtors in these chapter 11 cases may be obtained on the website of the Debtors’ proposed 
+claims and noticing agent at https://restructuring.ra.kroll.com/firstbrands.  The Debtors’ service address for these 
+chapter 11 cases is 127 Public Square, Suite 5300, Cleveland, OH 44114.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 1 of 43
+
+ 
+2 
+ 
+cash, cash flow, and supplier relationships; assessing and recommending cost reduction strategies; 
+and designing and negotiating financial restructuring packages.  In addition, A&M provides advice 
+on specific aspects of the turnaround process and helps manage complex constituency relations 
+and communications.   
+3. 
+I have over thirty years of experience providing turnaround consulting and 
+advisory services to organizations in a variety of industries.  I received my bachelor’s degree and 
+MBA from Michigan State University.  I am a Certified Public Accountant, a Certified Turnaround 
+Professional, and am certified in Financial Forensics.  Prior to joining A&M, I was a Senior 
+Managing Director at Conway MacKenzie, Inc., served as Chief Financial Officer for Horizon 
+Technology Group (an automotive supplier), and began my career in the Management Solutions 
+& Services group at Deloitte & Touche LLP. 
+4. 
+I have substantial experience serving either in senior management positions 
+or as a restructuring advisor in large organizations and in assisting companies with stabilizing their 
+financial condition, analyzing their operations, and developing a business plan to accomplish 
+restructuring objectives.  I am recognized for my work in the automotive industry and have advised 
+more than seventy-five (75) companies in the industry across all parts segments.  I regularly advise 
+Tier I and Tier II automotive suppliers, as well as secured lenders and equity investors, on matters 
+such as liquidity management, cost reductions, mergers and acquisitions, negotiations with 
+customers and unions, and strategic planning.  I have served as Chief Restructuring Officer for, 
+among others, Accuride Corporation, FirstEnergy Solutions, The Budd Company, Cynergy Data, 
+Inc., and National Real Estate Information Services, Inc.  
+5. 
+On September 5, 2025, the Debtors retained A&M to, among other things, 
+assist with liquidity management and forecasting, identify cost-reduction opportunities, and assist 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 2 of 43
+
+ 
+3 
+ 
+with contingency preparations for a potential chapter 11 filing.  On September 24, 2025, certain of 
+the Debtors each commenced with the Court a voluntary case under chapter 11 of title 11 of the 
+United States Code (the “Bankruptcy Code”), and on September 28, 2025 (as applicable, 
+the “Petition Date”), the remaining Debtors each commenced with the Court a voluntary case 
+under the Bankruptcy Code.  From the outset of A&M’s retention, my team and I have worked 
+with the Debtors’ management team and other advisors on numerous activities to support the 
+Debtors’ turnaround and restructuring efforts.  As a result of A&M’s work with the Debtors, their 
+affiliates, and the Debtors’ other advisors, I have become generally familiar with the Company’s 
+day-to-day operations, business and financial affairs, and the circumstances leading to the 
+commencement of these chapter 11 cases, as described in this declaration (the “Declaration”).  
+Except as otherwise indicated herein, the facts in this Declaration are based upon my personal 
+knowledge, my review of relevant documents, information provided to me by my team, employees 
+of the Company, the Company’s advisors, or my experience, knowledge, and information 
+concerning the Debtors’ operations.  If called upon to testify, I would testify competently to the 
+facts set forth in this Declaration. 
+6. 
+I submit this Declaration to assist the Court and parties in interest in 
+understanding the circumstances and events that led to the commencement of these chapter 11 
+cases.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 3 of 43
+
+ 
+4 
+ 
+7. 
+This Declaration is divided into five sections:   
+• Section I provides an overview of the Debtors and these chapter 11 cases;   
+• Section II describes the Debtors’ business;   
+• Section III describes the Debtors’ corporate and capital structure; and 
+• Section IV describes the circumstances that led to the commencement of 
+these chapter 11 cases. 
+I. 
+Overview 
+8. 
+First Brands is a leading supplier of aftermarket automotive parts with 
+operations across the world.  The Company proudly employs an estimated approximately 26,000 
+individuals globally, including almost 6,000 employees in the United States.  The Debtors have 
+commenced these chapter 11 cases with a new money $1.1 billion debtor-in-possession financing 
+facility (the “DIP”) (plus certain roll-up amounts) that will be provided by an ad hoc group of the 
+Debtors’ first and second lien creditors (the “Ad Hoc Group”).  The DIP will provide the Debtors 
+with a much-needed capital injection that will enable First Brands to resume normal operations, 
+service their customers, and preserve jobs.  In parallel with stabilizing their businesses, the Debtors 
+will work with their stakeholders to evaluate and pursue a value-maximizing transaction under the 
+guidance and direction of the Debtors’ recently appointed special committee consisting exclusively 
+of independent directors (the “Special Committee”). 
+9. 
+Headquartered in Cleveland, Ohio, First Brands is a leading supplier of 
+aftermarket parts.  First Brands’ key product categories include brakes, filters, wipers, lights, 
+pumps, and towing solutions.  First Brands operates a global network of manufacturing and 
+vertically-integrated distribution centers that spans five continents and is supported by key regional 
+capabilities across the world.  Helming a diverse portfolio of over twenty-five iconic brands, 
+including household names such as “FRAM” and “Raybestos,” First Brands maintains a strong 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 4 of 43
+
+5 
+market position in all aftermarket sales channels, including automotive retailers, aftermarket 
+vehicle dealerships, retail, mass merchants, warehouse distributors, e-commerce, and direct sales 
+to original equipment manufacturers (“OEMs”) in the automotive industry.   
+10.
+First Brands’ strategy is to procure a portfolio of high-quality brands backed
+by global supply-chain capabilities, capitalizing on the advantages of regional operations 
+supported by a unified global manufacturing network.  This strategy allows First Brands to 
+maximize efficiency through its brand synergies.  By consolidating warehouses, streamlining 
+distribution processes and supply chains, and offering complimentary products across key 
+customer categories, First Brands can achieve significant cost savings across its businesses, reach 
+a wide customer base, and grow revenue.  According to the Company’s audited consolidated 
+financial statements for the year ended 2024, total net sales were approximately $5 billion. 
+11.
+In less than fifteen years, the Company has consummated over fifteen (15)
+acquisition transactions, growing its portfolio to a total of over twenty-five (25) iconic automotive 
+brands and establishing a significant market share in the global aftermarket parts industry.  Some 
+of First Brands’ iconic brands are included in the graphic below.   
+12.
+First Brands’ business model requires careful consideration of the timing of
+acquisitions.  Each historically debt-funded acquisition has required capital investments up-front 
+to realize savings and revenue over time.  Although the Company has implemented this acquisition 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 5 of 43
+
+ 
+6 
+ 
+strategy to great effect over the past fifteen years, in recent months, geopolitical uncertainty and 
+headwinds from newly imposed tariffs have pressurized global supply chains and layered 
+additional complications on the Company’s operations.  These systemic factors forced unexpected 
+costs on the Company not only due to the increased cost of landed goods, but in connection with 
+new investments required to minimize tariff exposure in the future.  At the same time, the Company 
+faced mounting funded debt and lease obligations between May and August 2025, particularly 
+with respect to its equipment and inventory lessor, Onset.  These factors snowballed into a liquidity 
+crisis, forcing the Company to seek out a solution that would not only address its long-term debt 
+and lease obligations, but also capture an immediate injection of liquidity to stabilize operations.  
+13. 
+To proactively respond to these challenges, in July 2025, the Company 
+pursued a global refinancing process led by Jefferies Finance LLC (“Jefferies”).  In August 2025, 
+however, it became clear that potential lenders would require further diligence, including a quality 
+of earnings report.  The Company paused the refinancing process while it prepared additional 
+diligence required by prospective lenders, retaining Weil, Gotshal & Manges LLP (“Weil”) and 
+Lazard Frères & Co. (“Lazard”) to assist the Company in developing and exploring strategic 
+alternatives.   
+14. 
+Together, the Company and its advisors explored various potential courses 
+of action to improve the Company’s liquidity profile and restructure its debt obligations without 
+disrupting day-to-day operations.  Given the Company’s substantial operations, vertically 
+integrated supply chain capabilities, and portfolio of iconic brands, the Company determined that 
+the most effective course of action would be to perform a marketing process for a stake in the 
+Company’s equity, which is owned 100% by the Company’s founder and sole equity holder 
+(the “Founder”).  Lazard performed initial diligence as the Company and its advisors continued 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 6 of 43
+
+ 
+7 
+ 
+to evaluate potential transaction structures to maximize value and improve the Company’s 
+liquidity profile, including an effort to obtain bridge financing or potential equity capital raise. 
+15. 
+However, upcoming maturity events, pressure from counterparties, and 
+unrelenting systemic factors catalyzed a mounting liquidity crisis.  Operational pressures rose as 
+counterparties alleged that the Company was in default on certain financial obligations, threatened 
+to exercise remedies, and/or demanded unconscionable late fees, forcing the Company to make 
+short-term concessions to preserve stability.  This onslaught of factors gave the Company little 
+time to design, evaluate, and execute a complex restructuring solution.  As a result, the Company’s 
+out-of-court refinancing efforts did not yield an actionable transaction on the timeline required.   
+16. 
+On September 5, 2025, the Company engaged A&M (together with Weil 
+and Lazard, the “Company’s Advisors”) to support the Company in its liquidity management 
+efforts.  Soon thereafter, on September 14, 2025, the legal and financial advisors to the Ad Hoc 
+Group entered into nondisclosure agreements and the Company commenced discussions with the 
+Ad Hoc Group (who entered into nondisclosure agreements on a rolling basis but not earlier than 
+September 17, 2025) regarding potential transactions to stabilize the Company’s liquidity and 
+operations and implement a value-maximizing transaction.  Simultaneously, the Company and its 
+advisors continued to negotiate forbearance agreements with countless counterparties.  However, 
+it was immediately clear that the Company required an immediate infusion of capital in order to 
+have sufficient runway to implement any value-maximizing transaction.   
+17. 
+As a result of such discussions, the Ad Hoc Group provided a bridge loan 
+to ensure the Company could make its payroll obligations while the Company and the Ad Hoc 
+Group continued and ultimately finalized negotiations regarding a debtor-in-possession financing 
+facility, allowing the Debtors to file concurrently herewith a motion seeking approval of a 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 7 of 43
+
+ 
+8 
+ 
+proposed $1.1 billion DIP.  The DIP will provide the Debtors with immediate access to an initial 
+draw of $500 million shortly after the Petition Date and will allow the Debtors, with the support 
+of their major stakeholders, to stabilize their operations, pursue and implement a value-maximizing 
+transaction, and provide the runway needed to position the Company for long-term growth and 
+success.  Not only will the significant size of the DIP allow the Company to optimize operations, 
+fill customer orders, and operate in the ordinary course, but it reinforces the potential go-forward 
+value of the Company. 
+18. 
+Accordingly, the Debtors are hopeful that the DIP facility will be promptly 
+approved and significant capital can be injected into the business and operations can be stabilized. 
+II. 
+Debtors’ Business 
+A. 
+History 
+19. 
+First Brands was formed in 2013 under the name Crowne Industrial Group 
+by the Founder.  Between 2013 and 2014, the Company expanded its product offerings by 
+acquiring brands such as Carter Fuel Pumps and Trico, a premium producer and distributor of 
+windshield wiper blades.  Beginning in 2019, the Company underwent further expansion by 
+acquiring multiple reputable and, in some cases, decades- or century-old brands, to expand its 
+portfolio of product offerings, with the goal of becoming a leading supplier of a wide variety of 
+products across the aftermarket parts industry.   
+20. 
+First Brands’ diverse product lines have enabled the Company to maintain 
+strong sales channels not only in the aftermarket, but with OEMs.  Over the past 12 months, based 
+on the Company’s estimates, approximately 82% of the Company’s revenue has been derived from 
+sales of aftermarket parts, 13% from sales to OEMs, and approximately 5% from sales to specialty 
+and industrial customers.  In the aftermarket, the Company’s customer base includes several large 
+automotive retailers (including Advance Auto Parts, Autozone, O’Reilly’s, and Napa Auto Parts), 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 8 of 43
+
+ 
+9 
+ 
+wholesale distributors (including United Auto Supply, Federated Auto Parts, and Fischer Auto 
+Parts), and national commercial retailers (including Walmart, Costco, and Amazon).  The 
+Company maintains strong relationships with this diverse customer base, with the top ten 
+customers making up less than half of total net sales over the past three years. 
+21. 
+The Company also has a large international presence.  The Company’s 
+estimates indicate approximately 75% of the Company’s revenue is generated by the sale of 
+products sourced from North America, while the remaining 25% is generated by the sale of 
+products sourced from outside North America.  As of the Petition Date, the Company employs an 
+estimated approximately 26,000 people across five (5) continents, with approximately 6,000 
+people employed by the Debtors in the U.S., and owns distribution centers, factories, and 
+warehouses around the world, as reflected below.   
+ 
+B. 
+Debtors’ Operations 
+22. 
+The Company’s brands generally can be categorized into four product 
+categories: (i) braking products; (ii) filtration products; (iii) vision products; and (iv) repairs.  The 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 9 of 43
+
+ 
+10 
+ 
+Company also maintains research, development, and testing capabilities for the purpose of 
+designing new products.   
+1. Key Products  
+23. 
+Braking Products.  The Company owns and/or licenses brands, including 
+Raybestos, Centric Parts, StopTech, and Cardone that are market leaders in braking components 
+such as rotors, brake pads, and calipers.  The Company’s other brands in the braking category 
+include IBI, Carlson, Bendix, Prima, Break Pro and Aimco.  These products are sold in both the 
+aftermarket and to OEMs.  The Company’s estimates indicate that over the last twelve months, 
+braking products accounted for approximately 33% of the Company’s revenue.  
+24. 
+Filtration.  The Company owns several brands, including Luber Finer, 
+PetroClear, Jasper Rubber Products, and FRAM, that manufacture and distribute air filters, cabin 
+filters, fuel filters, and oil filters.  These products are sold to car dealerships, OEMs, heavy 
+duty/industrial purchasers, and individual consumers.  Over the last twelve months, the Company’s 
+estimates indicate that filtration products accounted for approximately 14% of the Company’s 
+revenue.  
+25. 
+Vision and Lighting.  The Company also owns and/or licenses several 
+brands that manufacture windshield wipers and lighting and related accessories, including ANCO, 
+Trico, Narva, Philips, and Michelin, among others.  These vision and lighting products are offered 
+both domestically and internationally.  The Company’s estimates indicate that over the last twelve 
+months, vision and lighting products accounted for approximately 29% of the Company’s revenue. 
+26. 
+Repairs and Towing.  Finally, the Company offers products for under-the-
+hood repairs and towing.  The Company’s brands in the repairs space include Airtex, AutoLite, 
+Carter Fuel Pumps, Reese, and StrongArm.  These products include under-the-hood repair 
+products such as spark plugs, gas springs, and wire sets, as well as towing and trailering solutions.  
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 10 of 43
+
+ 
+11 
+ 
+The Company’s estimates indicate that over the last twelve months, sales of repair and towing 
+products and services accounted for approximately 24% of the Company’s revenue.   
+27. 
+Product Research and Development.  First Brands also has a robust new 
+product development program geared towards developing innovative new products to complement 
+its existing diverse product offerings.  The Company has over 2,900 patents and operates twelve 
+(12) laboratories and testing facilities across ten (10) countries to facilitate development of new 
+products that complement First Brands’ existing products.  Drawing on consumer and category 
+insights, field sales, and original research, the Company maintains a continuous evolution of new 
+product offerings to keep up with changing customer needs and evolving vehicle technology, 
+releasing 5,000 stock keeping units with respect to new products each year.  Recent product 
+offerings from the Company include a 25,000 mile oil filter and innovative windshield wipers with 
+color indicators that inform drivers when it is time to change their wiper blades.   
+2. Global Supply Chain 
+28. 
+The Company’s international resources have allowed it to establish 
+vertically-integrated 
+global 
+manufacturing 
+capabilities, 
+including 
+casting/forging, 
+welding/machining, fabricating metals, plastics, and rubbers, electronic assembly, surface 
+treatments, packaging, and more.  Regional capabilities across the world allow the Company to 
+distribute products efficiently and develop new products based on customer preferences.  As a 
+result, as of the Petition Date, more than 90% of North American sales and 100% of European 
+sales are from products produced in-region. 
+29. 
+Mexico Operations.  The Company also maintains significant operations in 
+Mexico that are critical to their global manufacturing capabilities.  The Company operates two 
+distribution centers and thirty-six (36) factories in Mexico, including in Juarez, Mexico City, 
+Nuevo Laredo, Los Reyes, Monterrey, Matamoros, Celaya, Silao, Santa Ana, Chihuahua, Puebla, 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 11 of 43
+
+ 
+12 
+ 
+Mexicali, Los Mochis, and Reynosa.  The Company’s facilities in Mexico produce brake parts, 
+spark plugs, fuel and water pumps, engine management systems, towing, and vision products, 
+among other products.  As of the Petition Date, approximately 14,000 of the Company’s employees 
+are based in Mexico, and 57% of the Company’s sale volume in the United States is sourced from 
+Mexico.  Importantly, the Company estimates that the Company’s operations in Mexico help to 
+insulate the Company from additional tariff exposure.  As of the Petition Date, approximately 92% 
+of the Company’s total annual imports from Mexico qualify for the United States-Mexico-Canada 
+Agreement exemption, reducing the Company’s total exposure to tariffs by approximately 
+$285 million annually, according to the Company’s estimates.  
+III. 
+Debtors’ Corporate and Capital Structure 
+A. 
+Corporate Structure, Governance, and Management 
+30. 
+A chart summarizing the Debtors’ corporate organizational structure, as of 
+the Petition Date, is attached hereto as Exhibit A.  As set forth therein, the Debtors consist of 112 
+entities, each of which is 100% indirectly owned by the Company’s Founder. 
+31. 
+Boards.  The Company has Boards of Managers (each, a “Board” and, 
+collectively, the “Boards”) at each of (i) First Brands Group Holdings, LLC (“FBG Holdings”); 
+(ii) First Brands Group Intermediate, LLC (“FBGI)”; (iii) First Brands Group, LLC, and 
+(iv) Viceroy Private Capital, LLC (collectively, the “Parent Entities”).  Each of the Parent 
+Entities’ Boards is comprised of the following individuals: 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 12 of 43
+
+ 
+13 
+ 
+Name 
+Position 
+Patrick James 
+Manager 
+Stephen Graham 
+Manager 
+Shekhar Kumar 
+Manager 
+Neal Goldman 
+Independent Manager 
+William Transier 
+Independent Manager 
+ 
+32. 
+Special Committee.  In September 2025, the Boards established the Special 
+Committee comprised of independent managers William Transier and Neal Goldman.  The Special 
+Committee has the exclusive power and authority to, among other things, (i) consider and evaluate 
+all potential transactions, including any proposal made in respect thereof; (ii) approve and 
+authorize (or reject) the Company’s entry into and consummation of any agreement, contract, or 
+other arrangement with respect to a potential transaction and cause and direct the Company’s 
+subsidiaries to approve, authorize, execute, and consummate a Potential Transaction; (iii) oversee 
+the implementation and execution of a potential transaction; and (iv) conduct and oversee an 
+investigation into potential claims and causes of action that may exist in favor of one or more of 
+the Debtors, including with respect to current and former members of the governing bodies of the 
+Debtors as well as current and former affiliates, equity holders, officers, and other insiders of the 
+Debtors (the “Investigation”).  The scope of the Investigation includes matters relating to the 
+Company’s prepetition factoring and other off-balance sheet financing processes discussed herein.  
+The Special Committee, working with Weil, as counsel, and A&M, launched the independent 
+Investigation of potential claims held by the Company, among other things, before the Petition 
+Date, and the Investigation is ongoing.   
+33. 
+Management.  In September 2025, prior to the Petition Date, I was 
+appointed as Chief Restructuring Officer by each of the Debtors.  As Chief Restructuring Officer, 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 13 of 43
+
+ 
+14 
+ 
+I have been delegated the full authority to (i) approve all cash expenditures of each Debtor; 
+(ii) approve the incurrence of any indebtedness by each Debtor; (iii) oversee the cash management 
+system of each Debtor; and (iv) oversee the Debtors’ public relations firm, among other duties.  In 
+my capacity as Chief Restructuring Officer, I report directly to, and take direction from, the Special 
+Committee working in coordination with the management of the Company.  The following table 
+sets forth the names and positions of the rest of the Company’s executive management team: 
+Name 
+Position 
+Patrick James 
+Chief Executive Officer 
+Stephen Graham 
+Chief Financial Officer 
+Shekhar Kumar 
+Senior Vice President – Mergers & Acquisitions 
+ 
+B. 
+Capital Structure 
+1. Prepetition Debt Capitalization2  
+34. 
+As of the Petition Date, the Debtors had approximately $6.1 billion in 
+aggregate principal amount of on-balance sheet outstanding funded debt obligations, $2.3 billion 
+in aggregate “off balance sheet” financings incurred through special purpose vehicles, and 
+approximately $800 million in unsecured supply chain financing liabilities.  The Company, 
+additionally, has approximately $2.3 billion in factoring liabilities.  Debtor First Brands Group 
+Holdings, LLC and its Debtor subsidiaries (the “FBG Debtors”) hold the approximately $6.1 
+billion in aggregate principal amount of funded debt obligations outstanding, and Debtor Viceroy 
+Private Capital, LLC (“Viceroy”) and its Debtor subsidiaries hold the approximately $2.3 billion 
+in off-balance sheet debt obligations outstanding.   
+ 
+2  
+The following description of the Debtors’ capital structure is for informational purposes only and is qualified in 
+its entirety by reference to the documents setting forth the specific terms of such obligations and their respective 
+related agreements. 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 14 of 43
+
+ 
+15 
+ 
+35. 
+The table below summarizes the Debtors’ total prepetition debt 
+capitalization.  
+Prepetition Indebtedness 
+Principal 
+Amount 
+Outstanding 
+ABL Obligations 
+ABL Loans/Letters of Credit Obligations  
+$226.9mm3  
+ABL Supply Chain Financing/Cash Management 
+$369.4mm 
+Total ABL Obligations 
+$596.3mm 
+Term Loan Obligations4 
+First Lien L/C Facility 
+$100mm 
+First Lien Term Loans (USD) 
+$3,886.9mm 
+First Lien Term Loans (EUR) 
+$763mm5 
+Side Car Term Loans 
+$250mm6 
+Second Lien Term Loans 
+$540mm 
+Total Term Loan Obligations 
+$5,539.9mm 
+Off-Balance Sheet Obligations (SPV Debtors’ Obligations)7 
+Aequum Facilities 
+$77.8mm 
+CarVal Facilities 
+$159.0mm 
+Evolution Facilities 
+$230mm 
+Onset Lease  
+$1,880mm 
+Total Off-Balance Sheet Obligations 
+$2,346.8mm 
+Select Unsecured Obligations 
+Supply Chain Financing Obligations 
+$812.4mm  
+TOTAL DEBT OBLIGATIONS OF DEBTORS 
+$9,295.4mm 
+ 
+ 
+3  
+Includes approximately $133 million in borrowings and approximately $93 million of undrawn letters of credit. 
+4  
+Outstanding balances listed as of June 30, 2025 (other than $24.5 million bridge loan).  First Lien Term Loans 
+(USD) include a bridge loan of $24.5 million provided by the Ad Hoc Group on September 25, 2025.  
+5  
+Assuming EUR:USD conversion rate of 1.19:1.00.  
+6  
+Excludes make whole amount of approximately $26 million. 
+7  
+Each of the Aequum Facilities, CarVal Facilities, and Evolution Facilities’ outstanding balances are listed as of 
+July 31, 2025. 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 15 of 43
+
+ 
+16 
+ 
+36. 
+Upon information and belief, the priority of security interests against the 
+FBG Debtors’ assets is summarized below:8  
+Collateral 
+ABL Priority Collateral 
+Term Priority Collateral 
+Previously 
+Unencumbered Assets9 
+Priority 
+1. ABL Secured Parties 
+2. Proposed DIP Facility  
+3. First Lien Secured Parties / 
+Side-Car Secured Parties 
+4. Second Lien Secured Parties 
+1. Proposed DIP Facility  
+2. First Lien Secured Parties / 
+Side-Car Secured Parties 
+3. Second Lien Secured Parties 
+4. ABL Secured Parties 
+1. Proposed DIP Facility  
+ 
+Description 
+• 
+All Accounts (other than 
+Accounts from sale of Term 
+Priority Collateral)  
+• 
+Inventory 
+• 
+Payment Intangibles (other 
+than Payment Intangibles 
+from sale of Term Priority 
+Collateral)  
+• 
+Deposit Accounts, 
+Securities Accounts, 
+Commodity Accounts and 
+all Money therein 
+• 
+50% of business 
+interruption insurance and 
+all rights to credit insurance 
+with respect to Accounts 
+• 
+General Intangibles 
+evidencing the above 
+• 
+Relevant collateral, 
+guarantees and Supporting 
+Obligations  
+• 
+Relevant books and records  
+• 
+Products and Proceeds of 
+the above  
+• 
+Equipment and real property 
+interests therein and fixtures 
+• 
+Intellectual Property 
+• 
+Equity Interests and other 
+Investment Property (other 
+than Payment Intangibles 
+being ABL Priority 
+Collateral) 
+• 
+Instruments, Documents and 
+General Intangibles that are 
+not ABL Priority Collateral  
+• 
+Term Priority Accounts 
+• 
+Insurance policies relating to 
+Term Priority Collateral 
+• 
+Commercial Tort Claims 
+• 
+Other collateral not 
+constituting ABL Priority 
+Collateral 
+• 
+Relevant collateral, 
+guarantees and Supporting 
+Obligations  
+• 
+Relevant books and records  
+• 
+Products and Proceeds of the 
+above 
+• 
+Substantially all 
+previously 
+unencumbered assets 
+(including proceeds 
+of avoidance actions 
+and commercial tort 
+claims) 
+• 
+Pledges of equity in 
+certain non-Debtor 
+subsidiaries 
+ 
+ 
+8  
+The ABL Secured Parties maintain a higher priority interest in the ABL Priority Collateral, while the First Lien 
+Secured Parties and the Second Lien Secured Parties maintain a higher priority interest in the Term Priority 
+Collateral.  The ABL Priority Collateral explicitly excludes equipment and real property interests therein, 
+intellectual property rights, and equity interests, among other things, which are, in each case, Term Priority 
+Collateral.  The rights of the ABL Secured Parties, and the First Lien Secured Parties, the Side-Car Secured Parties 
+and the Second Lien Secured Parties are set forth in that certain Amended and Restated Intercreditor Agreement, 
+dated as of February 26, 2019.  
+9  
+The Proposed DIP facility priorities in the above chart include any adequate protection obligations under the DIP.  
+Collateral negotiations between the Debtors and the Ad Hoc Group are ongoing and are subject to change.  
+Notwithstanding anything herein to the contrary, the terms of any entered final order approving the DIP shall 
+control. 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 16 of 43
+
+17 
+37. 
+In addition to the FBG Debtors’ funded indebtedness, the SPV Debtors 
+(defined below) participate in several lease, inventory, and equipment financing arrangements 
+(the “Off-Balance Sheet Obligations”).  The obligors on Off-Balance Sheet Obligations are 
+subsidiaries of Viceroy and Debtor Carnaby Capital Holdings, LLC (Viceroy and its Debtor 
+subsidiaries, the “SPV Debtors”), and are not subsidiaries of FBG, as set forth in the  
+structural chart below and attached hereto as Exhibit A.  The SPV Debtors are not obligors 
+under the prepetition term loan or ABL facilities.   
+(i)
+FBG Debtors’ Obligations
+38.
+ABL Facility.  On February 2, 2018, FBG entered into that certain ABL
+Credit Agreement (as may be amended, restated, amended and restated, supplemented or otherwise 
+modified from time to time, the “ABL Credit Agreement”) by and among FBG, as lead borrower, 
+Trico Limited, a limited company incorporated under the laws of England and Wales, as a 
+borrower (“Trico Limited”), Trico Belgium SA, a Belgian limited liability company incorporated 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 17 of 43
+
+ 
+18 
+ 
+under the laws of Belgium, as another borrower, First Brands Group Intermediate, LLC (f/k/a 
+Trico Group Holdings, LLC), as parent, Bank of America, N.A. (“BOA”) (as successor to 
+Goldman Sachs Bank USA), as administrative agent and collateral agent  (in such capacities, 
+the “ABL Agent”) and the lenders parties thereto from time to time (the “ABL Lenders” and, 
+together with the ABL Agent and any other “Secured Parties” (as defined in the ABL Credit 
+Agreement), collectively, the “ABL Secured Parties”), providing for an asset-based senior 
+secured revolving credit facility (the “ABL Facility”) with an original aggregate principal amount 
+of up to $80 million.  The total commitments under the ABL Facility are up to $250 million. 
+39. 
+FBG’s obligations under the ABL Facility are guaranteed by certain Debtor 
+affiliates of FBG (collectively, the “ABL/Term Loan Obligors”), and the obligations of the 
+ABL/Term Loan Obligors under the ABL Facility are secured by (i) a first priority lien on the 
+ABL Priority Collateral (as defined in the ABL/Term Loan Intercreditor Agreement (as defined 
+below)) of the ABL/Term Loan Obligors and (ii) a third priority lien on the Term Priority 
+Collateral (as defined in the ABL/Term Loan Intercreditor Agreement).  
+40. 
+As of the Petition Date approximately $227 million of principal obligations 
+under the ABL Facility are outstanding, consisting of approximately $133 million in borrowings 
+and approximately $93 million of undrawn letters of credit. 
+41. 
+First Lien Facility.  On February 2, 2018, FBG entered into that certain 
+First Lien Term Loan Agreement (as amended, restated, amended and restated, supplemented, or 
+otherwise modified from time to time, the “First Lien Term Loan Agreement”) by and among 
+FBG, as borrower, FBGI, as parent, Jefferies (as successor to Credit Suisse AG, Cayman Island 
+Branch, which was successor to Goldman Sachs Bank USA), as administrative agent and collateral 
+agent (in such capacities, the “First Lien Agent”) and the lenders from time to time party thereto 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 18 of 43
+
+ 
+19 
+ 
+(the “First Lien Lenders” and, together with the First Lien Agent and any other “Secured Parties” 
+(as defined in the First Lien Term Loan Agreement), including any L/C Issuer (as defined in the 
+First Lien Term Loan Agreement) collectively, the “First Lien Secured Parties”).  Under the 
+First Lien Term Loan Agreement, term loans in an aggregate principal amount of $3,886.9 million 
+and $763 million are outstanding.  These amounts include a bridge loan with a principal amount 
+of $24.5 million that was provided to the Debtors on September 25, 2025 by certain First Lien 
+Lenders pursuant to the Bridge Amendment (as defined below) in the lead up to the Debtors’ 
+chapter 11 filing so that the Debtors had sufficient funds to make payroll and other critical 
+payments.  
+42. 
+FBG’s obligations under the First Lien Term Loan Agreement are 
+guaranteed by the ABL/Term Loan Obligors, and the obligations of the ABL/Term Loan Obligors 
+under the First Lien Term Loan Agreement are secured by (i) a second priority lien on the ABL 
+Priority Collateral (as defined in the ABL/Term Loan Intercreditor Agreement) and (i) a first 
+priority lien on the Term Priority Collateral (as defined in the ABL/Term Loan Intercreditor 
+Agreement).   
+43. 
+Second Lien Facility.  On February 26, 2019, FBG entered into that certain 
+Second Lien Term Loan Agreement (as amended, restated, amended and restated, supplemented, 
+or otherwise modified from time to time, the “Second Lien Term Loan Agreement”) by and 
+among FBG, as borrower, FBGI, as parent, Jefferies Finance LLC (as successor to Credit Suisse 
+AG, Cayman Island Branch), as administrative agent and collateral agent (in such capacities, 
+the “Second Lien Agent”) and the lenders from time to time party thereto (the “Second Lien 
+Lenders” and, together with the Second Lien Agent and any other “Secured Parties” (as defined 
+in the Second Lien Term Loan Agreement), collectively, the “Second Lien Secured Parties”).  
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 19 of 43
+
+ 
+20 
+ 
+Under the Second Lien Term Loan Agreement, term loans in an aggregate principal amount $540 
+million are outstanding.   
+44. 
+FBG’s obligations under the Second Lien Term Loan Agreement are 
+guaranteed by the other ABL/Term Loan Obligors, and the obligations of the ABL/Term Loan 
+Obligors under the Second Lien Term Loan Agreement are secured by (i) a third priority lien on 
+the ABL Priority Collateral (as defined in the ABL/Term Loan Intercreditor Agreement) and (ii) a 
+second priority lien on the Term Priority Collateral (as defined in the ABL/Term Loan 
+Intercreditor Agreement).  
+45. 
+Side-Car Facility. On June 16, 2025, FBG entered into that certain First 
+Lien Term Loan Agreement (as may be amended, restated, amended and restated, supplemented or 
+otherwise modified from time to time, the “Side-Car Term Loan Agreement”) by and among 
+FBG, as borrower, FBGI, as parent, Sagard Holdings Manager (US) LLC, as Sagard administrative 
+agent (in such capacity, the “Side-Car Sagard Agent”), GLAS USA LLC, as GLAS 
+administrative agent (in such capacity, the “Side-Car GLAS Agent”) and collateral agent (in such 
+capacity, the “Side-Car GLAS Collateral Agent”) and the lenders from time to time party thereto 
+(the “Side-Car Lenders” and, together with the Side-Car Sagard Agent, the Side-Car GLAS 
+Agent, the Side-Car Collateral Agent and any other “Secured Parties” (as defined in the Side-Car 
+Term Loan Agreement), collectively, the “Side-Car Secured Parties”).  Under the Side-Car Term 
+Loan, term loans in an aggregate principal amount of $250 million were extended to the Company 
+on June 16, 2025.  On September 24, 2025, as a result of the Company’s failure to make an interest 
+payment that was due on September 16, 2025, the Side Car Lenders accelerated the Side Car Loan, 
+including a make-whole premium of approximately $26 million.  As a result, the total amount 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 20 of 43
+
+ 
+21 
+ 
+outstanding on account of the Side-Car Term Loan as of the Petition Date on account of principal 
+and the make-whole premium is approximately $276 million. 
+46. 
+FBG’s obligations under the Side-Car Term Loan Agreement are 
+guaranteed by the other ABL/Term Loan Obligors, and the obligations of the ABL/Term Loan 
+Obligors under the Side-Car Term Loan Agreement are secured by (i) a first priority lien on the 
+Term Priority Collateral (as defined in the ABL/Term Loan Intercreditor Agreement) and (ii) a 
+second priority lien on the ABL Priority Collateral (as defined in the ABL/Term Loan Intercreditor 
+Agreement) and, in each case, subject to the terms of the ABL/Term Loan Intercreditor Agreement 
+and the First Lien/Second Lien Intercreditor Agreement.   
+47. 
+Additionally, contemporaneously with the execution of the Side-Car Term 
+Loan Agreement, FBGI and the Side Car Secured Parties also entered into that certain Side Letter 
+(the “Side Letter”).  Under the terms of the Side Letter, FBG agreed to certain restrictions and 
+negative covenants, including with respect to FBG’s ability to incur new money indebtedness other 
+than as contemplated by the Side Letter, absent the consent of the Side Car Secured Parties.  
+(ii) 
+Off-Balance Sheet Obligations 
+48. 
+The SPV Debtors’ Off-Balance Sheet Obligations generally consist of 
+inventory financing programs, pursuant to which a Debtor borrower will agree to purchase or 
+exchange in-kind inventory and/or raw materials from other Debtor subsidiaries.  The borrower 
+may then utilize the purchased or exchanged inventory as borrowing base assets to obtain loans 
+from the financier and may sell the completed inventory to other Debtor entities or third parties in 
+the ordinary course.   
+49. 
+Aequum Facilities.  On March 28, 2024, Debtor Broad Street Financial, 
+LLC, as borrower (the “Aequum Borrower”), entered into that certain Credit Agreement (as may 
+be amended, restated, amended and restated, supplemented or otherwise modified from time to 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 21 of 43
+
+ 
+22 
+ 
+time, the “Aequum Facility”) with, among others, Aequum Capital Financial II, LLC, as 
+administrative agent and collateral agent, and the lenders from time to time party thereto 
+(the “Aequum Lenders”).  Under the Aequum Facility, the Aequum Lenders provided an asset-
+based revolving credit facility in an aggregate principal amount of $45 million to the Aequum 
+Borrower.   
+50. 
+The Aequum Facility allows the Aequum Borrower to purchase inventory 
+directly from FBG and its subsidiaries, including brake parts, electronics, steering components, 
+calipers, pumps, and motors, and utilize that inventory as a borrowing base to obtain credit from 
+the Aequum Lenders.  Subsequently, the Aequum Borrower may sell the inventory back to the 
+Debtors, which must be purchased by Viceroy if not by another Debtor entity.  As of the Petition 
+Date, on information and belief, the Aequum Borrower holds approximately $66 million in 
+inventory as of July 31, 2025.  The Aequum Borrower’s obligations under the Aequum Facility 
+are guaranteed by Debtor Broad Street Financial Holdings, LLC and are secured by a lien on all 
+assets of the Aequum Borrower and Broad Street Financial Holdings, LLC.   
+51. 
+On December 2, 2024, Debtors Global Assets LLC, as US borrower, Global 
+Assets GmbH, a German limited liability company and an affiliate of the Debtors, as German 
+borrower (together with Global Assets LLC, the “UMB Borrowers”), entered into that certain 
+Credit Agreement (as may be amended, restated, amended and restated, supplemented or otherwise 
+modified from time to time, the “Global Assets Facility,” and together with the Aequum Facility, 
+the “Aequum Facilities”) with, among others, UMB Bank, N.A., as administrative agent and 
+collateral agent, and the lenders party thereto from time to time (the “UMB Lenders”).  Under the 
+Global Assets Facility, the UMB Lenders provided an asset-based revolving credit facility in an 
+aggregate principal amount of $45 million to the UMB Borrowers.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 22 of 43
+
+ 
+23 
+ 
+52. 
+The Global Assets Facility enables the UMB Borrowers to use finished 
+parts, raw materials, and semi-finished products purchased directly from certain of the Debtors as 
+a borrowing base to draw down credit from the UMB Lenders.  The UMB Borrowers may then 
+sell the inventory back to the Debtors, which, similarly to the U.S.-based Aequum facility, must 
+be purchased by Viceroy if not by another Debtor entity.  As of the Petition Date, on information 
+and belief, the UMB Borrowers hold approximately $68 million in inventory as of July 31, 2025.  
+The UMB Borrowers’ obligations under the Global Assets Facility are guaranteed by Debtor 
+Carnaby Capital Holdings, LLC and secured by a lien on all assets of the UMB Borrowers and 
+Carnaby Capital Holdings, LLC. 
+53. 
+As of the Petition Date, approximately $77.8 million in principal of 
+obligations under the Aequum Facilities are outstanding. 
+54. 
+The Company Advisors’ current understanding of the Aequum Facilities are 
+summarized in the graphic below: 
+ 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 23 of 43
+
+ 
+24 
+ 
+55. 
+CarVal II Facility.  On May 31, 2022, Debtor Carnaby Inventory II, LLC 
+(the “CarVal II Borrower”) entered into that certain Credit Agreement (as may be amended, 
+restated, amended and restated, supplemented or otherwise modified from time to time, 
+the “CarVal II Facility”) with, among others, GLAS Trust Company LLC, as administrative 
+agent, and the lenders party thereto from time to time (the “CarVal II Lenders”).  Under the 
+CarVal II Facility, the CarVal II Lenders provided an asset-based revolving credit facility in an 
+aggregate principal amount of $60 million to the CarVal II Borrower.  The CarVal II Borrower 
+may also engage certain subsidiaries of the Debtors to manufacture inventory on its behalf, which 
+have contractual relationships with certain maquiladora entities that import materials from 
+domestic Debtor subsidiaries and export finished goods.  Such finished goods may be entitled to 
+United States-Mexico-Canada exemptions for certain tariffs.  The CarVal II Borrower may 
+purchase manufactured inventory such as brake parts or raw materials from the Debtors and may 
+utilize that inventory as a borrowing base to obtain credit from the CarVal II Lenders.  As of the 
+Petition Date, on information and belief, the CarVal II Borrower holds approximately $116 million 
+in inventory as of August 2, 2025.  The CarVal II Borrower’s obligations under the CarVal II 
+Facility are guaranteed by Debtors First Brand Group Holdings, LLC and Carnaby Inventory 
+Holdings II, LLC and secured by a lien on all assets of the CarVal II Borrower and Carnaby 
+Inventory Holdings II, LLC.   
+56. 
+CarVal III Facility.  On July 6, 2022, Debtor Carnaby Inventory III, LLC 
+(the “CarVal III Borrower”) entered into that certain Credit Agreement (as may be amended, 
+restated, amended and restated, supplemented or otherwise modified from time to time, 
+the “CarVal III Facility,” and together with the CarVal II Facility, the “CarVal Facilities”) with, 
+among others, GLAS Trust Company LLC, as administrative agent, and the lenders party thereto 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 24 of 43
+
+ 
+25 
+ 
+from time to time (the “CarVal III Lenders”).  Under the CarVal III Facility, the CarVal III 
+Lenders provided an asset-based revolving credit facility in an aggregate principal amount of $100 
+million to the CarVal III Borrower.  Similar to the CarVal II Facility, the CarVal III Borrower may 
+engage certain subsidiaries of the Debtors with manufacturing contracts with certain maquiladora 
+entities to manufacture inventory on its behalf.  The CarVal III Borrower may purchase 
+manufactured inventory and raw materials from the Debtors, and may utilize that inventory as a 
+borrowing base to obtain credit from the CarVal II Lenders.  As of the Petition Date, on 
+information and belief, the CarVal III Borrower holds approximately $133 million in inventory as 
+of August 2, 2025.  The CarVal III Borrower’s obligations under the CarVal III Facility are 
+guaranteed by Debtors First Brand Group Holdings, LLC and Carnaby Inventory Holdings III, 
+LLC and secured by a lien on all assets of the CarVal III Borrower and Carnaby Inventory 
+Holdings III, LLC. 
+57. 
+As of the Petition Date, approximately $159.0 million of principal 
+obligations under the CarVal Facilities are outstanding. 
+58. 
+The Company Advisors’ current understanding of the CarVal Facilities are 
+summarized in the graphic below: 
+ 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 25 of 43
+
+ 
+26 
+ 
+59. 
+Evolution Facilities.  On November 9, 2023, Debtor Patterson Inventory, 
+LLC (the “Patterson Borrower”) entered into that certain Uncommitted Inventory Finance 
+Agreement (as may be amended, restated, amended and restated, supplemented or otherwise 
+modified from time to time, the “Patterson Facility”) with Evolution Credit Opportunity Master 
+Fund II-B, L.P., as lender (“Evolution”).  Under the Patterson Facility, Evolution provided an 
+uncommitted asset-based revolving credit facility with maximum aggregate amount of advances 
+of $150 million to the Patterson Borrower. The Patterson Borrower’s obligations under the 
+Patterson Facility are (i) guaranteed by Debtor Patterson Inventory Holdings, LLC, (ii) secured by 
+a pledge of 100% equity of the Patterson Borrower that the Patterson Parent owns, and (iii) secured 
+by a lien on all assets of the Patterson Borrower.   
+60. 
+On March 28, 2024, Starlight Inventory I, LLC (the “Starlight Borrower,” 
+and together with the Patterson Borrower, the “Evolution Borrowers”) entered into that certain 
+Uncommitted Inventory Finance Agreement (as may be amended, restated, amended and restated, 
+supplemented or otherwise modified from time to time, the “Starlight Facility” and, together with 
+the Patterson Facility, collectively, the “Evolution Facilities,” and the Evolution Facilities 
+together with the CarVal Facilities, and the Aequum Facilities, the “Inventory Financing 
+Facilities”).  Under the Starlight Facility, Evolution provided an uncommitted asset-based 
+revolving credit facility with maximum aggregate amount of advances of $150 million to the 
+Starlight Borrower. The Starlight Borrower’s obligations under the Starlight Facility are 
+(i) guaranteed by Starlight Inventory Holdings I, LLC, (ii) secured by a pledge of 100% equity of 
+the Starlight Borrower that the Starlight Parent owns, and (iii) secured by a lien on all assets of the 
+Starlight Borrower.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 26 of 43
+
+ 
+27 
+ 
+61. 
+Under each of the Evolution facilities, the applicable Evolution Borrower 
+may purchase eligible inventory pursuant to purchase orders from FBG and its subsidiaries, which 
+they may use as a borrowing base to obtain loans from Evolution.  The Evolution Borrowers 
+collectively held approximately $376 million in inventory as of August 2, 2025.  As described in 
+paragraph 95 below, Evolution inventory may have been commingled with the inventory of the 
+FBG Debtors prior to the Petition Date.  The Special Committee will review these issues. 
+62. 
+As of the Petition Date, approximately $230 million in principal obligations 
+under the Evolution Facilities are outstanding. 
+63. 
+The Company Advisors’ current understanding of the Evolution Facilities 
+are summarized in the graphic below: 
+ 
+64. 
+Onset Obligations.10  On June 28, 2022, Carnaby Inventory IV, LLC 
+(“Carnaby IV”) entered into that certain Master Lease Agreement No. OFI1445416 (as may be 
+amended, restated, amended and restated, supplemented or otherwise modified from time to time, 
+ 
+10  Notwithstanding the description of the Onset Master Leases herein, the Debtors believe the Onset Master Leases 
+may not be true leases, and the Debtors reserve all rights and remedies, and waive none, in connection therewith, 
+including their rights to seek to recharacterize the Onset Master Leases as financings.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 27 of 43
+
+28 
+the “Onset Master Lease IV”) with Onset Financial, Inc. (“Onset”).  Specific leases of property 
+under the Onset Master Lease IV are documented under separate schedules that are entered into 
+and delivered by Carnaby IV to Onset from time to time.  Obligations of Carnaby IV under the 
+Onset Master Lease IV are guaranteed by each of First Brands Group Holdings, LLC, Viceroy 
+Private Capital, LLC, Carnaby Capital Holdings, LLC, Carnaby Capital, LLC and Carnaby 
+Inventory Holdings IV, LLC.  
+65.
+On October 24, 2023, Carnaby FA, LLC (“Carnaby FA” and, together with
+Carnaby IV, the “Carnaby Lessees” or the “Carnaby Debtors”) entered into that certain Master 
+Lease Agreement No. OFI1545465 (as may be amended, restated, amended and restated, 
+supplemented or otherwise modified from time to time, the “Onset Master Lease FA” and, 
+together with the Onset Master Lease IV, collectively, the “Onset Master Leases”) with Onset. 
+Specific leases of property under the Onset Master Lease FA are documented under separate 
+schedules that are entered into and delivered by Carnaby FA to Onset from time to time. 
+Obligations of Carnaby FA under the Onset Master Lease FA are guaranteed by each of Carnaby 
+Capital Holdings, LLC, Viceroy Private Capital, LLC, First Brands Group Holdings, LLC, 
+Carnaby Capital, LLC, Carnaby FA Holdings, LLC, Eagle Casting Holdings, LLC and Eagle 
+Casting, LLC. 
+66.
+Under the Onset Master Leases, Onset will initially lend funds to Carnaby
+IV to acquire inventory or equipment from FBG on Onset’s behalf.  Subsequently, the inventory 
+will be leased back to Carnaby IV and may ultimately be repurchased by FBG. The Company 
+Advisors’ current understanding of the Onset Master Leases is reflected in the graphic below: 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 28 of 43
+
+ 
+29 
+ 
+ 
+67. 
+As set forth in more detail below, the Debtors entered into three 
+forbearances with respect to the Onset Master Leases. 
+68. 
+As of the Petition Date, including all outstanding and accrued interest, fees, 
+forbearance fees, approximately $1.9 billion of obligations under the Onset Master Leases and 
+related forbearances are outstanding. 
+1. Other Financing Arrangements 
+69. 
+Accounts Receivable Factoring.  Prior to the Petition Date, the Company 
+utilized various factoring arrangements to support liquidity.  Under these arrangements, the 
+Company would sell accounts receivables generated from the sale of goods in exchange for near-
+term payment on invoices with extended payment terms.  The Company historically entered into 
+two types of factoring arrangements, including (i) factoring arrangements with customers and their 
+financial institution partners (“Customer Factoring”) and (ii) factoring arrangements with 
+unaffiliated third parties (“Third-Party Factoring”).   
+70. 
+Under the Customer Factoring arrangements, the Company entered into 
+factoring arrangements with their large retail customers that had lengthy payment terms (up to 365 
+days).  Under these arrangements, the Company would sell receivables to financial institutions that 
+partner with their customers in exchange for near-term payment, often within 30 days.  When the 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 29 of 43
+
+ 
+30 
+ 
+receivables later become due, the customer may pay the receivable to the financial institution 
+directly, instead of payment coming from the Company.  
+71. 
+Under the Third-Party Factoring arrangements, the Company would sell a 
+receivable to an unaffiliated third-party factor (i.e., a factor that had not partnered with a customer 
+of the Company).  The factor would pay the Company for the receivable in the near-term, 
+sometimes within seven (7) days, in exchange for a payment approximately 105 days later.  Unlike 
+the Customer Factoring arrangements, when a payment is often made by the customer directly to 
+the customer’s financial institution partner, the payment is required to be made directly by the 
+Company to the Third-Party Factor, rather than the customer that owes the receivable.  
+72. 
+Following diligence performed by the Company’s Advisors, the Debtors 
+believe that an unpaid prepetition balance of approximately $2.3 billion has accrued with respect 
+to the Third-Party Factoring arrangements as of the Petition Date.  The Debtors’ factoring practices 
+are subject to the Special Committee’s ongoing Investigation including (i) whether receivables had 
+been turned over to third party factors upon receipt, and (ii) whether receivables may have been 
+factored more than once.  Pending the results of the Investigation, the Debtors will segregate funds 
+received on account of receivables that were factored prior to the Petition Date by the Company.  
+IV. 
+Key Events Leading to Chapter 11 
+A. 
+Challenges Facing Debtors’ Business 
+73. 
+I understand several factors have contributed to the commencement of these 
+chapter 11 cases, including significant liabilities related to (i) tariffs, (ii) capital expenditures 
+related to both the Company’s acquisitions and integration costs, and (iii) leverage.  These 
+compounding factors have strained operations and the Company’s liquidity.   
+74. 
+Tariffs.  Recent fluctuations in United States policies for foreign 
+commercial partners have led to increased capital expenditures and significant costs for the 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 30 of 43
+
+ 
+31 
+ 
+Company.  Specifically, in April 2025, the United States government imposed new tariffs that 
+increased the cost of landed inventory across the entire aftermarket parts industry, with certain 
+products being tariffed at rates as high as 73%.  In response, I understand the Company incurred 
+various costs, not only as a direct result of the increased price of goods, but as a means to hedge 
+against the potential consequences of supply chain disruption in the event certain parts or materials 
+became cost prohibitive or unavailable.  Specifically, in 2024 and 2025 the Company:  
+(i) 
+expended approximately $60 million to pre-buy inventory ahead of tariff 
+effectiveness;  
+(ii) 
+incurred landed inventory cost increases of approximately $99 million 
+between April and August 2025; 
+(iii) 
+suffered an approximately $25 million gross margin reduction before 
+product prices could be increased to counteract the effects of tariffs; and  
+(iv) 
+paid an additional $35 million in capital investments to cover costs of a new 
+“Made-In-USA Rotor Project” in the twelve months leading up to August 
+2025.11 
+75. 
+Moreover, the price increases of necessary materials for the Company’s 
+manufacturing processes and industry-level confusion regarding these policies—particularly due 
+to shutdowns in foreign supply chains amid tariff negotiations—caused operational inefficiencies 
+throughout the Company’s enterprise and diminished cost savings that historically have been 
+central to First Brand’s competitive advantage. 
+76. 
+Capital Expenditure Requirements.  The Company’s strategy of pursuing 
+synergistic brand acquisitions requires significant capital before an acquisition is integrated and 
+cost savings are realized.  It is common practice for the Company to make capital expenditures up-
+ 
+11  Although the project has significant demand and is intended to minimize the Company’s tariff exposure by 
+bringing manufacturing of rotors from facilities in China to the United States, domestic foundry and machining 
+costs have required an additional $35 million capital investment to realize the project and created inefficiencies 
+in the ramp-up process. 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 31 of 43
+
+ 
+32 
+ 
+front to integrate brands into their enterprise and attempt to recoup those payments over time 
+through savings.  Similarly, winning new business necessitates up-front expenditures to build 
+inventory, stock retailers, and meet demand.  
+77. 
+Over the past twelve months, I understand the Company has incurred a total 
+of nearly $160 million of up-front costs in the twelve months leading up to June 2025 related to 
+plant consolidation, cash severance, purchasing, insourcing, and other integration-related 
+investments to position itself to realize cost savings from recent acquisitions.  At the same time, 
+new business has required the Company to expend approximately $200 million for the launch of 
+new programs between June and September 2025.  Altogether, these costs in conjunction with 
+increased costs related to the Company’s tariff exposure, which totaled approximately $220 
+million as of the end of August 2025, have strained the Company’s liquidity.  
+78. 
+Leverage.  As of the Petition Date, according to the Company’s financial 
+statements, the Company was levered approximately 5 times based on total on-balance sheet 
+funded debt of $6.1 billion and reported EBITDA of $1.133 billion.  A significant portion of the 
+Company’s funded debt was raised in connection with the acquisitions between 2019 and 2024, 
+which were primarily debt-financed.  The Company’s leveraged balance sheet has compounded 
+liquidity issues both prior to and as a result of tariff costs and capital expenditure requirements.  
+Due to the floating-rate interest obligations in conjunction with the elevated cost of capital, the 
+Company has over $900 million in annual debt service costs12 on top of its numerous Off-Balance 
+Sheet Obligations.   
+ 
+12  The Company’s over $900 million in annual debt service costs has been calculated without taking into account 
+any of the Debtors’ obligations under the Onset Master Leases. 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 32 of 43
+
+33 
+B.
+Prepetition Restructuring Efforts
+79.
+As stated, in response to the challenges described above, the Company
+proactively sought to address its capital structure and liquidity challenges in the months leading 
+up to the Debtors’ chapter 11 filing. These efforts included (i) seeking to raise approximately 
+€1.3 to 1.5 billion in debt financing by separating its European and other non-U.S. operations to 
+form a new entity (the “ROW Financing Process”); (ii) pursuing a $6.2 billion global refinancing 
+of the Company’s capital structure (the “Global Refinancing Process”); and (iii) pursuing bridge 
+financing to fund a potential out-of-court sale process (the “Bridge Financing Process”).  Once 
+those efforts did not materialize and as a result the Company Advisors’ discovery of the Third-
+Party Factoring irregularities, following which the Company’s liquidity became even more 
+constrained, the Debtors immediately pivoted to a chapter 11 strategy.  Each of the Debtors’ 
+initiatives ahead of these chapter 11 cases are described in more detail below.    
+1. ROW Financing Process
+80.
+Beginning in mid- to late-2024, the Company sought to raise new debt
+financing by separating the Company’s operations outside North America, including Europe, Asia, 
+Africa, and Latin America, into an independent entity with its own capital structure separate and 
+apart from First Brands.  The newly created enterprise would have included a number of First 
+Brands’ non-North American portfolio brands, including Trico and ANCO, as well as several other 
+recently acquired businesses.  Through this process, the Company sought to raise new term loans 
+of approximately €1.3 to 1.5 billion.  The marketing process was led by Banco Santander, S.A. 
+(“Santander”).  However, after not receiving sufficient interest from potential lenders, including 
+as a result of external factors and a changing geopolitical environment, the Company ended its 
+efforts to pursue a potential transaction centered around its non-U.S. assets. 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 33 of 43
+
+34 
+2. Global Refinancing Process
+81.
+In July 2025, the Company launched a refinancing process led by Jefferies
+seeking to raise approximately $6.2 billion that would be used to comprehensively refinance its 
+capital structure by paying down its existing funded debt obligations.  The Company sought to 
+raise the following new debt facilities as part of the Global Refinancing Process: 
+•
+5-year $500 million ABL Revolving Credit Facility;
+•
+5-year $2,700 million First Lien Term Loan;
+•
+5-year $1,000 million Fixed-Rate First Lien Term Loan;
+•
+5-year €850 million ($995 million equivalent) First Lien Term Loan; and
+•
+5.5-year $1,500 million Second Lien Term Loan.
+82.
+The Global Refinancing Process was designed to enhance the Company’s
+liquidity profile and hedge against increasing interest rates.  However, the process was paused in 
+August 2025 for the Company to complete a quality of earnings report requested by certain 
+potential lenders. 
+3. Forbearances
+83.
+Onset Forbearance.  Beginning in May 2025, while the Company was
+pursuing the various processes described above, Debtors Carnaby Inventory IV, LLC and Carnaby 
+FA, LLC (together, the “Carnaby Debtors”) entered into three forbearance agreements with 
+Onset.  The first forbearance agreement (the “First Onset Forbearance”) was entered into on 
+May 1, 2025 after the Carnaby Debtors failed to make monthly payments totaling approximately 
+$208 million due on May 1, 2025 (the “May Monthly Payment”).  Under the First Onset 
+Forbearance, the deadline for the Carnaby Debtors to make the May Monthly Payment was 
+extended by twenty-nine (29) days to May 30, 2025 in exchange for late fees and forbearance fees 
+totaling approximately $35 million.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 34 of 43
+
+ 
+35 
+ 
+84. 
+On June 1, 2025, after the Carnaby Debtors were unable to make the May 
+Monthly Payment as well as monthly payments totaling $198.5 million due under the Onset Master 
+Leases on June 1, 2025 (the “June Monthly Payment”), the Carnaby Debtors and Onset entered 
+into a second forbearance agreement (the “Second Onset Forbearance”).  Under the Second 
+Onset Forbearance, the deadlines for the Carnaby Debtors to make the May Monthly Payment and 
+the June Payment were extended to June 27, 2025 and July 27, 2025, respectively, in exchange for 
+late and forbearance fees totaling approximately $73.5 million.  In addition, the Carnaby Debtors 
+agreed to make one additional monthly payment to Onset totaling approximately $223 million to 
+Onset. 
+85. 
+Finally, on June 30, 2025, after the Carnaby Debtors failed to timely pay 
+the May Monthly Payment under the Second Onset Forbearance, the Carnaby Debtors and Onset 
+entered into a third forbearance agreement (the “Third Onset Forbearance”), layering on late 
+fees in excess of the Debtors’ original obligations once again.  For example, the monthly payment 
+schedules under the Onset Master Leases were restructured under the Third Onset Forbearance to 
+provide for total payments to Onset of $1.9 billion, an increase of approximately $380 million due 
+to Onset under the Onset Master Leases before the First Onset Forbearance.  Under the Third 
+Forbearance, the Carnaby Debtors agreed to make a $20 million payment to Onset on or before 
+July 3, 2025 (which they made), a $570 million payment to Onset on August 29, 2025, various 
+monthly payments to Onset through August 20, 2026, followed by a balloon payment of 
+$645 million to Onset on August 31, 2026.  In connection with the Third Onset Forbearance, 
+Viceroy entered into a pledge agreement pursuant to which it pledged 15% of its membership 
+interests in Debtor FBG Holdings to Onset.   
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 35 of 43
+
+ 
+36 
+ 
+86. 
+On September 9, 2025, after the Carnaby Debtors failed to make the 
+$570 million payment due on August 29, 2025, Onset delivered a notice of event of default and 
+acceleration of the amounts due under the Third Onset Forbearance.  The Special Committee is 
+reviewing the facts and circumstances related to the Onset transactions and forbearances.  
+87. 
+ABL Forbearance.  On September 15, 2025, the Company attempted to 
+draw down the remaining approximately $23 million available under the ABL Facility in light of 
+increased liquidity pressure.  The same day, the Company received a letter from BOA, the 
+administrative and collateral agent under ABL Credit Agreement, informing the Company that the 
+ABL Lenders would be establishing reserves under the ABL Credit Agreement.  BOA further 
+asserted that once reserves had been established, an overadvance of credit may occur, at which 
+point the ABL Lenders would have no obligation to make any further extensions of credit under 
+the ABL Credit Agreement because the maximum aggregate principal of the facility would be 
+exceeded.  BOA, further, refused to fund the Debtors’ request to draw down the remainder of the 
+ABL Facility pending implementation of the reserves. 
+88. 
+On September 18, 2025, the Company received a second letter from BOA 
+alleging that an event of default had occurred and was continuing under the terms of the ABL 
+Credit Agreement due to an inability of the Company to pay its debts as they become due.  The 
+same day, the Company received a third letter from BOA stating that it had established a $200 
+million reserve under the ABL Credit Agreement, resulting in an overadvance of approximately 
+$168 million.  Accordingly, BOA informed the Debtors that it would promptly implement cash 
+dominion remedies.   
+89. 
+The following day, on September 19, 2025, the Company received a fourth 
+letter from BOA stating that the purchase price paid for certain of the Debtors’ inventory that was 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 36 of 43
+
+ 
+37 
+ 
+factored constituted the ABL Lenders’ collateral, and therefore, must be deposited into an account 
+subject to a control agreement in favor of the collateral agent under the ABL Facility. 
+90. 
+In light of the risk of BOA attempting to exercise remedies against the 
+Company, the parties began discussions regarding a potential forbearance.  On September 25, 2025 
+the Company, BOA, and the ABL Lenders executed a forbearance agreement under which the 
+lenders agreed to temporarily refrain from exercising any remedies under the ABL Credit 
+Agreement until October 5, 2025.  In return, the Company agreed to provide reporting data, such 
+as a daily budget, cash flow forecast, a bank account schematic, and all material information 
+provided to other stakeholders to BOA, as well as certain restrictions on the movement of 
+collateral.  The Company also agreed to immediately discontinue certain factoring practices and 
+implement already in process governance changes, such as appointing myself as Chief 
+Restructuring Officer. 
+91. 
+Forbearances with Non-Debtor Affiliates.  Simultaneously with the 
+Debtors’ restructuring efforts leading up to the Petition Date, the Company also worked closely 
+with stakeholders and creditors of non-Debtor affiliated entities in light of upcoming maturity dates 
+and, once it became clear that the Company would be pursuing a chapter 11 strategy, to forbear 
+against any defaults that might occur under non-U.S. credit facilities as a result of the Debtors’ 
+filing.  As a result, various non-Debtor affiliates executed forbearance agreements with lenders in 
+the months leading up to September 2025, in which the Company’s lenders agreed to forbear from 
+exercising remedies for a limited period in exchange for certain concessions, such as monetary 
+consideration, information reporting requirements, and satisfaction of limited advisors’ fees.  
+4. Out of Court Bridge Financing and Sale Process 
+92. 
+In early August 2025, following the pause of the Global Refinancing 
+Process, the Company retained Weil and Lazard to assist with addressing the Company’s capital 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 37 of 43
+
+ 
+38 
+ 
+structure and liquidity situation.  Lazard immediately began outreach to raise bridge financing to 
+provide the Debtors with additional runway to explore potential solutions to its capital structure. 
+93. 
+Contemporaneously with their efforts to market a bridge loan, Lazard began 
+outreach to third parties regarding a potential sale or other investment in the Company.  In 
+connection therewith, in early August 2025, Lazard contacted four (4) third parties, in addition to 
+certain of the Debtors’ prepetition secured lenders, to gauge their interest in providing a proposal 
+to the Debtors for bridge financing or to purchase an equity stake in the Company.   The Debtors 
+only received one (1) financing proposal despite these efforts, which contained insufficient 
+financing to meet the Company’s liquidity needs and was subject to significant diligence, among 
+other things.  Due to the Company’s rapidly declining liquidity and the time needed for potential 
+investors to complete further diligence, it became clear that any potential transaction would need 
+to be implemented in court.  Accordingly, the Company and the Company’s Advisors turned their 
+focus to raising a debtor-in-possession financing facility. 
+5. Other Prepetition Actions Taken by and Notices Received from Stakeholders 
+94. 
+Evolution Default and Termination Notice.  On September 22, 2025, the 
+Debtors received a notice from Evolution claiming that a default had occurred under the Starlight 
+Facility because the Debtors had failed to make a payment of approximately $110 million in 
+principal and $7.8 million in accrued interest thereunder.  Evolution indicated that it would be 
+imposing a default interest rate as a result of the alleged breach.  The same day, Evolution also 
+sent the Debtors a notice indicating that the Debtors had failed to make an additional payment of 
+approximately $4.7 million on account of purchased receivables, and reserved rights to enforce all 
+remedies.   
+95. 
+Evolution Collateral.  Recently, the Company Advisors became aware that 
+certain inventory subject to a security interest in favor of Evolution pursuant to the Evolution 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 38 of 43
+
+ 
+39 
+ 
+Facilities may have been commingled with collateral securing the ABL Facility.  Subsequently, 
+the Debtors and their advisors reached out to the applicable stakeholders to make them aware of 
+the foregoing and begin work to understand the facts (the “Evolution Collateral Dispute”).  The 
+Evolution Collateral Dispute is subject to the Investigation by the Special Committee, which is 
+ongoing.  
+96. 
+Southstate Dispute.  On September 23, 2025, the Company was made 
+aware that Southstate Bank had set off debts allegedly owed by the Company against an account 
+held by the Company with Southstate, which contained approximately $27 million in working 
+capital funds, the last remaining liquidity of the U.S. entities.  Southstate alleged that the Company 
+had failed to pay Southstate approximately $30 million, and therefore, Southstate could assert a 
+right of setoff to remove the total amount of funds owed from any account held by the Company 
+with Southstate.  As a result of Southstate setting off the funds, the Company was left with only 
+$14 million in cash as of September 22, 2025, which was insufficient to fund its operating expenses 
+through the remainder of the week, including the funding of payroll.  Accordingly, the Company 
+engaged in discussions with the Ad Hoc Group regarding incremental financing to bridge the 
+Company to a chapter 11 filing, as discussed in more detail below. 
+6. Bridge Amendment 
+97. 
+At the time Southstate setoff the funds, the Company was in discussions 
+with the Ad Hoc Group regarding potential transactions to stabilize the Debtors’ business, as well 
+as preparing for a chapter 11 filing in the near-term.  Southstate’s actions, however, left the 
+Company with little working capital to operate, and absent a short-term liquidity infusion, would 
+have forced the Company to file for chapter 11 haphazardly and without a financing commitment 
+or the ability to continue to operate.  Accordingly, the Company quickly pivoted discussions with 
+the Ad Hoc Group Lenders to discussions of the potential willingness of the Ad Hoc Group lenders 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 39 of 43
+
+ 
+40 
+ 
+to provide a prepetition bridge facility that would provide additional runway for the Debtors to 
+finalize their chapter 11 preparations and ensure a smooth transition into chapter 11.  On 
+September 25, 2025, the Debtors and the First Lien Lenders entered into an amendment to the First 
+Lien Term Loan Agreement pursuant to which the First Lien Lenders extended an additional $24.5 
+million in incremental loans to the Company.   
+7. Filing of Petitions of SPV Debtors 
+98. 
+As the Debtors continued to approach the Petition Date, it became clear that 
+the Debtors would be unable to secure forbearances in time with certain lenders associated with 
+the Debtors’ Inventory Financing Facilities before the Debtors would be at risk of default or 
+exercise of remedies under such facilities.  Certain of the Debtors’ Inventory Financing Facility 
+lenders could exercise remedies against Debtor entities including, in some cases, proxy rights or 
+foreclosure.  Recognizing that the exercising of any of such remedies by the Debtors’ Inventory 
+Financing Facility lenders could be prejudicial to the Debtors’ ability to smoothly transition into 
+chapter 11 and pursue a value-maximizing transaction, on September 24, 2025, the SPV Debtors 
+filed voluntary petitions for chapter 11 as a protective measure. These Debtors’ chapter 11 cases 
+are proposed to be jointly administered with the remaining Debtors’ chapter 11 cases pursuant to 
+the Emergency Motion of Debtors for Order Directing Joint Administration of Chapter 11 Cases, 
+filed contemporaneously herewith. 
+ 
+ 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 40 of 43
+
+ 
+41 
+ 
+I declare under penalty of perjury that, after reasonable inquiry, the foregoing is 
+true and correct to the best of my knowledge, information, and belief. 
+Executed this 29th day of September 2025. 
+ 
+ 
+Respectfully submitted, 
+ 
+ 
+By: 
+/s/ Charles M. Moore 
+ 
+ 
+Charles M. Moore, Managing Director 
+Alvarez & Marsal 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 41 of 43
+
+ 
+ 
+Exhibit A 
+Organizational Chart 
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 42 of 43
+
+Senior Facilities Borrower
+Senior Facilities Guarantor
+Debtor Entity
+CarVal Facilities Guarantor
+Onset Guarantor
+Senior Credit Facilities
+Aggregate Principal Amount
+ABL Loans and L/C Obligations: 
+$226.9mm
+1L Term Loans:    
+$4,749.9mm
+1L L/C Facility:  
+$100mm
+1L Term Loans (USD): 
+$3,886.9mm
+1L Term Loans (EUR): 
+$763mm
+Side-Car Term Loans: 
+$250mm
+2L Term Loans:    
+$540mm
+Equity 
+Owner
+Brake Parts 
+Holdings, Inc.
+Aztec Corporation
+$226.9 million 
+(ABL Loans and L/Cs)
+2 non-U.S. borrowers
+Carnaby SPV Silo
+100%
+~66%
+~33%
+~1%
+Foreign
+Borrowers
+(ABL Loans)
+Domestic
+Non-Loan Party 
+Subsidiaries
+First Brands
+Group, LLC
+First Brands Group 
+Intermediate, LLC
+First Brands Group 
+Holdings, LLC
+Viceroy Private 
+Capital, LLC
+Senior Facilities 
+U.S. Guarantors**
+SPV
+Holding Entities
+Carnaby Capital, 
+LLC
+Carnaby Capital 
+Holdings, LLC
+Carnaby FA, 
+LLC
+Carnaby 
+Inventory IV, 
+LLC
+$1,880 million 
+Onset Leases
+Carnaby 
+Inventory II, 
+LLC
+Carnaby 
+Inventory III, 
+LLC
+$159 million
+CarVal Facilities
+Starlight 
+Inventory I, 
+LLC
+Patterson 
+Inventory, 
+LLC
+$230 million
+Evolution Facilities
+Broad Street 
+Financial, 
+LLC
+Global Assets LLC
+$77.8 million
+Aequum Facility
+Foreign
+Non-Loan Party 
+Subsidiaries
+Global Assets 
+GmbH
+*This simplified organizational chart is included for ease of reference only and
+should not be relied upon.  First Brands’ full organizational chart is attached 
+to each chapter 11 petition filed in these cases.
+**One senior facilities guarantor, Eagle Casting, LLC, is also an Onset 
+Guarantor.
+Eagle Casting 
+Holdings, LLC
+Case 25-90399   Document 22   Filed in TXSB on 09/29/25   Page 43 of 43

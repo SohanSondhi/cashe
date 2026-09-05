@@ -1,0 +1,3246 @@
+          Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 1 of 56
+
+
+
+
+                      IN THE UNITED STATES BANKRUPTCY COURT
+                         FOR THE SOUTHERN DISTRICT OF TEXAS
+                                  HOUSTON DIVISION
+
+In re:                                                 §     Chapter 11
+                                                       §
+FIRST BRANDS GROUP, LLC, et al.,                       §     Case No. 25-90399 (CML)
+                                                       §
+                                                       §     (Jointly Administered)
+                           1
+                 Debtors.                              §
+
+                           DECLARATION OF MARC S. KIRSCHNER
+
+                 I, Marc S. Kirschner, pursuant to 28 U.S.C. § 1746, hereby declare under penalty
+
+of perjury that the following is true and correct to the best of my knowledge, information, and
+
+belief:
+
+                 1.      I submit this Declaration (this “Declaration”) expressing my opinions in
+
+connection with certain issues relating to the Joint Chapter 11 Plan of First Brands Group, LLC
+
+and Certain Affiliated Debtors (Docket No. 3019)2 (as may be amended, supplemented, or
+
+otherwise modified from time to time, the “Plan”) filed by the FBG Debtors.3
+
+                 2.      If called to testify, I would testify competently to the opinions set forth in
+
+this Declaration. My qualifications, experience, and background are set forth in greater detail
+
+below.
+
+
+
+
+1
+    A complete list of the Debtors in these chapter 11 cases may be obtained on the website of the Debtors’ claims
+    and noticing agent at https://restructuring.ra.kroll.com/FirstBrands. The Debtors’ service address for these
+    chapter 11 cases is 127 Public Square, Suite 5300, Cleveland, OH 44114.
+2
+    Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to such terms in the
+    Plan.
+3
+    “FBG Debtors” means, collectively, First Brands Group Holdings, LLC, its direct and indirect Debtor
+    subsidiaries, and Viceroy Private Capital, LLC, as debtors and debtors in possession in the above-captioned
+    chapter 11 cases.
+      Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 2 of 56
+
+
+
+
+                                           Qualifications
+
+               3.      I have been working with distressed companies and companies involved in
+
+bankruptcy proceedings for over 50 years, including as a bankruptcy/reorganization lawyer,
+
+chapter 11 trustee, litigation trustee, financial advisor, investment professional, and fiduciary.
+
+               4.      I am Founder and President of Kirschner Consulting Company. I am also
+
+presently Senior Advisor to Teneo, a global consulting and financial advisory firm. Prior to my
+
+involvement with Teneo, I was Senior Managing Director of Goldin Associates, a boutique
+
+financial advisory firm specializing in distressed securities, which was purchased by Teneo.
+
+               5.      Earlier in my career, I founded and led (from 1987 through 2001) the
+
+bankruptcy reorganization group in the New York office of the global law firm Jones Day, Reavis
+
+& Pogue (now called Jones Day). I was also a member of the Jones Day firm-wide Executive
+
+Committee during various periods.
+
+               6.      Following my retirement from Jones Day, I was Managing Director and one
+
+of the key senior investment professionals of Resurgence Asset Management (“Resurgence”), an
+
+investment advisor registered with the Securities and Exchange Commission under the Investment
+
+Advisors Act of 1940, as amended. Resurgence invested in distressed securities with a view to
+
+substantial involvement in the reorganization process. In connection with this role, I analyzed
+
+legal issues relating to all investments that Resurgence considered, developed legal strategy, and
+
+played a pivotal role in managing the investments through the reorganization process. I was also
+
+Chief Operating Officer, General Counsel, member of the Executive Committee, and Chair of the
+
+Pricing Committee of Resurgence and in charge of the legal affairs of Resurgence’s affiliate, First
+
+Commercial Credit Corporation, which provided credit protection to suppliers of companies in
+
+financial distress. Major components of Resurgence’s business (and my work there) included
+
+acquiring and prosecuting claims against debtors, as well as objecting to claims of other creditors.
+
+
+                                                  2
+      Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 3 of 56
+
+
+
+
+               7.      Over the course of my career, I have been involved in many significant
+
+“mega” bankruptcy cases, including Mansfield Tire and Rubber Company (the first major case
+
+under the then-new Bankruptcy Code), Drexel Burnham Lambert Group (at the time by far the
+
+largest global financial services bankruptcy case which was driven into bankruptcy by the abuse
+
+of junk bonds by Michael Milken, the founder of the junk bond business), Federated Department
+
+Stores, Macy’s Department Stores, Resorts International, Coleco Industries Inc., Anchor Glass
+
+Container Company, ICO Global Communications, New York Daily News (part of the Maxwell
+
+Newspapers precedent-setting cross-border cases), Shea & Gould, Washington Group
+
+International, Sterling Chemicals, Refco Capital Markets (the largest global financial services
+
+bankruptcy case after Drexel and before the Lehman Brothers bankruptcy), Tribune Company,
+
+Millennium Health, Nine West Holdings, Le-Nature’s Bottling Company, and Highland Capital
+
+Management, among others.
+
+               8.      I have extensive experience serving as a litigation or liquidation trustee,
+
+including as trustee for the Tribune Litigation Trust, Millennium Health Corporate Claims Trust
+
+and Lenders Claims Trust, Nine West (NWHI Litigation Trust), Yellowstone Mountain Trust, Le-
+
+Nature’s Bottling Company Trust, and Highland Capital Management Litigation Sub-Trust. The
+
+purpose of these trusts was to pursue litigation claims and causes of action and to distribute the
+
+proceeds thereof to the beneficiaries of the trusts, which included secured and unsecured creditors
+
+of the debtors in those cases.
+
+               9.      My roles as a litigation or liquidation trustee have involved undertaking
+
+complex factual investigations and pursuing litigation in an effort to recover billions of dollars of
+
+losses resulting from fraud and management misconduct. These investigations and lawsuits have
+
+involved actual and constructive fraudulent transfer claims, securities law violations, common law
+
+
+
+
+                                                 3
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 4 of 56
+
+
+
+
+fraud, breach of fiduciary duty, malpractice, misappropriation of assets, preferential transfers,
+
+equitable subordination, recharacterization of leases, claims against insurance companies, and
+
+related causes of action. The defendants in those actions have included major financial institutions,
+
+private equity firms, professional firms, equity holders, members of management, and members of
+
+boards of directors.
+
+                10.     In 2006, I was appointed as the chapter 11 trustee of Refco Capital Markets,
+
+Ltd. (“RCM”), the unregulated securities broker and largest unit of the Refco companies. In that
+
+role, I established and successfully implemented a procedure to resolve, in a compressed period of
+
+time set by the court, over $9 billion of claims scheduled by RCM as disputed or unliquidated. I
+
+also spearheaded the settlement of complex disputes among RCM’s securities and foreign
+
+exchange customers as a building block to the global Refco settlement and chapter 11 plan, and
+
+negotiated the economic terms of the global settlement in the Refco cases. Many participants in
+
+the Refco cases have recognized the central role I played in bringing a prompt conclusion to one
+
+of the largest chapter 11 cases in history. I was later appointed as the post-effective date Plan
+
+Administrator for RCM and Litigation Trustee for the Refco Litigation Trust and Refco Private
+
+Actions Trust. As chapter 11 trustee, Plan Administrator, and Litigation Trustee in the Refco
+
+cases, I litigated and resolved billions of dollars of claims against the estate and on behalf of the
+
+estate against third parties.
+
+                11.     I also have substantial experience in fiduciary duty and corporate
+
+governance matters, and I regularly act as a fiduciary and in oversight roles. From 2010 to 2013,
+
+I was on the post-confirmation Audit Committee and the Governance Committee of Spectrum
+
+Brands, a large publicly traded company, and was the sole independent director of First Equity
+
+Card Corporation, a privately held company, during its out-of-court restructuring. From 2012 to
+
+
+
+
+                                                 4
+      Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 5 of 56
+
+
+
+
+2018, I served on the Board of Directors of Washington Mutual Bank Liquidating Trust and as a
+
+member of its Special Litigation Committee. I was also a member of the Board of Directors of
+
+certain companies in which Resurgence invested.
+
+               12.    I have served as an expert witness and have testified regarding the
+
+reasonableness of settlements in large, complex bankruptcy matters. For example, I served as a
+
+rebuttal expert witness for plaintiffs Residential Funding Company, LLC and the ResCap
+
+Liquidating Trust, as to the reasonableness of a settlement in a multibillion-dollar residential
+
+mortgage-backed securities litigation.
+
+               13.    Many of the matters in which I have been involved present fact patterns
+
+similar to those at issue in the FBG Debtors’ chapter 11 cases, including arrests and indictments
+
+of controlling insiders (e.g., Refco and Le-Nature’s Bottling Company) at the beginning of the
+
+cases and with Millennium Health being charged with Medicare fraud, aggressive steps to conceal
+
+fraudulent conduct and massive losses, unsuccessful acquisitions, false and misleading audited
+
+financial statements, multiple off balance sheet transactions, massive claims against and on behalf
+
+of debtors, leases which were subject to recharacterization or equitable subordination claims, and
+
+creation of false books and records.
+
+               14.    I have a J.D. from the University of Michigan Law School and an
+
+undergraduate degree from Dartmouth College, where I graduated with distinction in economics.
+
+In 1994, I was inducted into the American College of Bankruptcy in its fifth class. I have also
+
+published and lectured extensively on bankruptcy and restructuring topics.
+
+               15.    My qualifications and experience are disclosed in more detail in my CV,
+
+which is attached hereto as Exhibit A.
+
+
+
+
+                                                5
+      Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 6 of 56
+
+
+
+
+                                          Compensation
+
+               16.      Subject to Court approval, I am being compensated in accordance with the
+
+following terms and conditions:
+
+                       i.   a fixed fee of $200,000 through the completion of this Declaration,
+                            which serves as my expert report;
+
+                      ii.   $1,500 per hour from completion of this Declaration through and
+                            including any hearing related to confirmation of the Plan; and
+
+                     iii.   reimbursement for any reasonable and documented out-of-pocket
+                            expenses in connection with my services.
+
+               17.      My fees and expenses are not contingent upon the opinions I provide or the
+
+outcome resulting from my work.
+
+                                       Scope of Assignment
+
+               18.      I have been retained by the Debtors’ counsel, Weil, Gotshal & Manges LLP,
+
+to provide expert consulting services and expert testimony regarding the FBG Debtors’ Estate
+
+Claims that will be transferred to the Litigation Trust in accordance with the terms of the Plan. In
+
+particular, I have been asked to provide expert analysis and opinions as to the amount of proceeds
+
+that are reasonably expected to be generated from such Estate Claims and the anticipated timing
+
+thereof. In connection with these services, I have prepared this Declaration reflecting my analysis
+
+and opinions regarding the Estate Claims.
+
+               19.      Since I began work for the FBG Debtors on June 20, 2026, I have engaged
+
+with the FBG Debtors and their advisors to better understand the FBG Debtors’ Estate Claims,
+
+including through a review of documents and other applicable materials associated with such
+
+claims and causes of action.
+
+               20.      In addition to relying on my relevant experience, the materials I considered
+
+in connection with providing my opinions are reflected in Exhibit B attached hereto.
+
+
+
+                                                 6
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 7 of 56
+
+
+
+
+                                                   Opinions
+
+                 21.      As more fully detailed below, and for the reasons stated herein, my opinions
+
+in this matter are as follows: (i) that the Estate Claims are valuable assets of the FBG Debtors,
+
+(ii) that it is reasonable to conclude that the various Estate Claims are reasonably probable to result
+
+in the recovery of proceeds in excess of what I understand is the approximately $2 billion required
+
+to satisfy certain obligations under the Plan, and (iii) that it is reasonably probable that at least
+
+these amounts could be recovered by a litigation trustee by the end of 2028.
+
+                              Common Issues Supporting Estate Claims
+
+                 22.      I am aware that certain separate criminal proceedings have been initiated
+
+against former executives of FBG4 for actions related to certain of the Estate Claims, including:
+
+        •        Patrick James, the Debtors’ founder and former CEO, and his brother Edward
+                 James were indicted on January 29, 2026 in the Southern District of New York on
+                 charges including operating a continuing financial crimes enterprise, conspiracy to
+                 commit wire fraud and bank fraud, conspiracy to commit money laundering, and
+                 numerous substantive counts of wire fraud and bank fraud;
+
+        •        Stephen Graham, the Debtors’ former CFO, has pled guilty to various counts of
+                 (i) wire fraud affecting a financial institution, (ii) bank fraud, and (iii) conspiracy
+                 to commit wire fraud; and
+
+        •        Peter Andrew Brumbergs, the Debtors’ former Senior VP of Finance, has pled
+                 guilty to various counts of (i) wire fraud affecting a financial institution, (ii) bank
+                 fraud, (iii) conspiracy to commit wire fraud affecting a financial institution and
+                 bank fraud, and (iv) conspiracy to commit money laundering.
+
+                 23.      I understand that in connection with his guilty plea, Stephen Graham
+
+admitted under oath that as CFO he agreed with others to “inflate and report the financial
+
+performance of FBG on financial statements that were issued to FBG’s lenders,” knowing those
+
+statements contained false and misleading information, and that he personally presented the false
+
+
+
+
+4
+    “FBG” or “First Brands” means, collectively, the Debtors and their non-Debtor affiliates.
+
+
+                                                        7
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 8 of 56
+
+
+
+
+and inflated statements in lender presentations to obtain financing on better terms.5 I also
+
+understand that in connection with his guilty plea, Andy Brumbergs admitted that, from
+
+approximately 2018 through 2025, he agreed with others to provide misleading financial
+
+statements and balance sheets to lenders that “included accounting adjustments that misstated First
+
+Brands’ financial condition and results,” and misrepresented the existence of inventory and
+
+equipment pledged or sold as collateral.6
+
+                24.      I am also aware that the Examiner’s Report7 in these chapter 11 cases
+
+identified that Patrick James and other insiders operated First Brands, SPVs, and non-Debtor
+
+entities as a “single liquidity generating and value extracting enterprise” and that third-party
+
+factoring and off-balance sheet structures raised financing based on receivables and collateral that,
+
+as the Examiner stated, were double-pledged, enlarged, or fabricated.8 The Examiner’s Report
+
+also discusses the more than $700 million in identified transfers to Patrick James, the Patrick James
+
+Trust, and entities under his control. Furthermore, the Examiner represents that various structures
+
+concealed the true representation of FBG’s assets and liabilities; FBG did not “merely become
+
+insolvent.”9
+
+                25.      In addition, I am familiar with the law in the Fifth Circuit, where courts
+
+recognize a “Ponzi Scheme Presumption” in connection with fraudulent transfer claims that allows
+
+courts to presume insolvency and actual intent to hinder, delay, or defraud for purposes of
+
+avoidance under section 548(a)(1)(A) if the plaintiff proves that the transferor operated as a Ponzi
+
+
+
+
+5
+    Plea, United States v. Stephen Graham, No. 26-cr-00025 (AT) at 24–25 (S.D.N.Y.) (Mar. 2, 2026).
+6
+    Plea, United States v. Peter Andrew Brumbergs, No. 26-cr-00025 (AT) at 24–25 (S.D.N.Y.) (Jan. 27, 2026).
+7
+    Report of E. Martin De Luca, Examiner (Docket No. 2538).
+8
+    Id.
+9
+    Id.
+
+
+                                                       8
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 9 of 56
+
+
+
+
+scheme.10 In general terms, a Ponzi scheme is a situation where money contributed by subsequent
+
+investors or customers is used to pay original investors at substantial rates, which further helps to
+
+perpetuate a fraudulent enterprise.
+
+                  26.      Moreover, I have extensive experience prosecuting and handling claims
+
+based on, among other things, actual and constructive fraudulent conveyances, breach of fiduciary
+
+duty, and professional negligence and have also successfully recovered on D&O insurance
+
+policies. As it relates to actual fraudulent conveyance claims, the Bankruptcy Code provides for
+
+avoidance of transfers made less than two years prior to the petition date “if the debtor voluntarily
+
+or involuntarily . . . made such transfer . . . with actual intent to hinder, delay, or defraud any
+
+[creditor].”11 Based on my experience, state law fraudulent transfer statutes also provide remedies
+
+for actual fraudulent transfer claims under similar circumstances. Even though actual fraud may
+
+be difficult to show on its face, courts generally review what are referred to as “badges of fraud”
+
+as proxies for direct evidence of the actual fraud. I am familiar with badges of fraud analysis and
+
+have supported bringing claims against parties based on that analysis in prior cases where I was
+
+the litigation or chapter 11 trustee. These badges are well known, as recognized by the Fifth
+
+Circuit, and include the following:
+
+                  (1) the lack or inadequacy of consideration; (2) the family,
+                  friendship or close associate relationship between the parties; (3) the
+                  retention of possession, benefit or use of the property in question;
+                  (4) the financial condition of the party sought to be charged both
+                  before and after the transaction in question; (5) the existence or
+                  cumulative effect of the pattern or series of transactions or course of
+                  conduct after the incurring of debt, onset of financial difficulties, or
+
+
+
+10
+     I rely on the following cases for this statement: Smith v. Suarez (In re IFS Fin. Corp.), 417 B.R. 419, 439 (Bankr.
+     S.D. Tex. 2009), aff'd sub nom. IFS Fin. Corp. v. Garcia Suarez, No. 09-CV-3059 (VDG), 2010 WL 11652027
+     (S.D. Tex. Sept. 11, 2010), aff'd sub nom. In re IFS Fin. Corp., 803 F.3d 195 (5th Cir. 2015), and subsequently
+     aff'd, 669 F.3d 255 (5th Cir. 2012); Sec. and Exch. Comm’n v. Res. Dev. Int’l, LLC, 487 F.3d 295, 301 (5th Cir.
+     2007); Janvey v. Alguire, 647 F.3d 585, 589 (5th Cir. 2011).
+11
+     11 U.S.C. § 548(a)(1)(A).
+
+
+                                                           9
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 10 of 56
+
+
+
+
+                  pendency or threat of suits by creditors; and (6) the general
+                  chronology of the events and transactions under inquiry.12
+
+                  27.      In addition, to prevail on a claim for constructive fraudulent transfer, a
+
+litigation trustee would have to show that a debtor was insolvent on the date of the transfer or
+
+became insolvent as a result of the transfer and that the debtor received less than reasonably
+
+equivalent value in connection with the transfer.
+
+                  28.      Other claims that are often asserted by litigation trustees, and which I have
+
+asserted in such roles in the past, are claims for breach of fiduciary duty, aiding and abetting breach
+
+of fiduciary duty, aiding and abetting fraudulent conveyance, professional negligence, and others.
+
+I am familiar with the elements of each such claim.
+
+                  29.      I also believe it is significant that substantial work has already been
+
+undertaken to investigate the FBG Debtors’ claims and causes of action and to understand the
+
+various transactions that support these claims. This work has been done not only by the FBG
+
+advisors, but also by the Examiner, who separately has obtained additional information and
+
+conducted several interviews. Because a litigation trustee will not be starting from scratch, and
+
+indeed there are already at least two adversary proceedings that have been commenced, I believe
+
+this will allow the litigation trustee to hit the ground running in pursuing these Estate Claims.
+
+                                                  Estate Claims
+
+                  30.      The FBG Debtors’ remaining assets include what in my opinion are
+
+valuable Estate Claims, including the following: (i) claims against third-party factors, including
+
+Katsumi Servicing, LLC (“Katsumi”), Leucadia Asset Management (“LAM”), an affiliate of
+
+Jefferies Financial Group Inc. (“Jefferies”), and others (the “Third-Party Factoring Claims”),
+
+and claims in connection with supply chain financing (“SCF”) programs (the “Supply Chain
+
+
+12
+     Pavy v. Chastant (In re Chastant), 873 F.2d 89, 91 (5th Cir. 1989) (citation omitted).
+
+
+                                                          10
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 11 of 56
+
+
+
+
+Financing Claims”), (ii) claims against lenders to the SPV Debtors,13 including Onset Financial,
+
+Inc. (“Onset”) and others (the “SPV Lenders” and such claims, the “SPV Lender Claims”),
+
+(iii) claims against Patrick James and other former insiders of the FBG Debtors (the “Insider
+
+Claims”), (iv) claims regarding the FBG Debtors’ acquisition of business units at purchase prices
+
+that may have exceeded the fair market value of the assets acquired (the “Suspect Acquisition
+
+Claims”), and (v) certain other claims detailed herein, including preference claims (the “Other
+
+Claims”).
+
+                 31.      From information provided by the Debtors, I understand that the total gross
+
+amount potentially available with respect to all Estate Claims is as set forth in the chart below,
+
+broken down by type of claim.
+
+                                     Estate Claims               Assertable Value
+                             Third-Party Factoring Claims           $15.4 billion
+                                Supply Chain Financing
+                                                                    $4.7 billion
+                                        Claims
+                                  SPV Lender Claims                 $2.5 billion
+
+                                     Insider Claims                 $1.0 billion
+                              Suspect Acquisition Claims            $1.6 billion
+
+                                     Other Claims                   $280 million
+                                          Total                     $25.4 billion
+
+                 i.       Factors Applicable To Third-Party Factoring Claims and Supply
+                          Chain Finance Claims
+
+                 32.      I believe that the FBG Debtors hold significant claims against third-party
+
+Factors as well as in connection with its SCF program on account of allegedly fraudulent practices
+
+in connection with the FBG Debtors’ factoring and supply chain financing programs. Based on
+
+
+
+
+13
+     “SPV Debtors” means the direct and indirect Debtor subsidiaries of Viceroy other than the FBG Debtors.
+
+
+                                                       11
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 12 of 56
+
+
+
+
+the facts set forth in paragraphs 80–102 of the Moore Declaration,14 other materials I have
+
+reviewed and the reasons set forth herein, I believe the FBG Debtors hold valuable claims against
+
+these parties, including fraudulent transfer claims, that are meritorious and likely to result in
+
+significant recoveries by a litigation trustee.
+
+                  33.      I believe that a litigation trustee in this case could invoke the Ponzi Scheme
+
+Presumption to establish actual fraud by providing evidence that a Ponzi scheme existed and that
+
+each transferee received transfers of money from the Ponzi scheme. In this regard, applicable case
+
+law supports that proof that a company operated as a fraudulent enterprise at the time of the transfer
+
+can be sufficient for purposes of the Ponzi Scheme Presumption.15 Significant here is also the fact
+
+that the mere presence of some legitimate investments or assets should not preclude the existence
+
+of a Ponzi scheme or application of the Ponzi Scheme Presumption.16 A litigation trustee would
+
+also only need to prove that a transferee received the subject transfers, even if they did not
+
+knowingly participate in the scheme.17 Even if the presumption does not prove applicable, it is
+
+my understanding that a litigation trustee would still be able to support an actual fraudulent transfer
+
+claim by showing the existence of “badges of fraud.”
+
+                           a.       FBG’s Third-Party Factoring and Supply Chain Financing
+                                    Programs Support a Ponzi Scheme Conclusion
+
+                  34.      Based on my experience and review of the relevant documents and the facts
+
+set out in the Moore Declaration, it is my belief that FBG’s prepetition practices involving third-
+
+party factoring and supply chain financing support a claim that they were Ponzi schemes, and that
+
+
+
+14
+     Declaration of Charles M. Moore in Support of Confirmation of FBG Debtors’ Chapter 11 Plan (Docket
+     No. 3188) (the “Moore Declaration”).
+15
+     See In re IFS Fin. Corp., 669 F.3d at 265; In re Agric. Research & Tech. Group, Inc., 916 F.2d 528, 534-35 (9th
+     Cir. 1990).
+16
+     See United States v. Murray, 648 F.3d 251, 256 (5th Cir. 2011); Scholes v. Lehmann, 56 F.3d 750, 762 (7th Cir.
+     1995).
+17
+     See Warfield v. Byron, 436 F.3d 551, 558 (5th Cir. 2006).
+
+
+                                                        12
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 13 of 56
+
+
+
+
+a litigation trustee would be able to invoke the Ponzi Scheme Presumption for actual fraudulent
+
+transfer claims.
+
+                 35.     The investigation into FBG’s prepetition third-party factoring and supply
+
+chain financing practices revealed substantial evidence that the Debtors’ former officers engaged
+
+in a sustained, coordinated scheme to fraudulently obtain funds and misrepresent the Debtors’
+
+financial condition.18 The investigation uncovered pervasive manipulation and doctoring of the
+
+FBG Debtors’ financial records, and the improper commingling of funds of the FBG Debtors and
+
+certain affiliates used to conceal other financial misconduct.19 Notably, the investigation found
+
+that $12 billion flowed through the Bowery Account between January 2022 and October 2025.20
+
+                 36.     It appears that these falsified financial records likely served multiple
+
+purposes: first, to obtain financing by fabricating and inflating the collateral, receivables, and
+
+liabilities underlying FBG’s factoring and supply chain financing; and second, to avoid detection
+
+by FBG’s ABL and Term Lenders (among others) by presenting a picture of FBG’s liquidity,
+
+profitability, and general solvency that were known to be false.21
+
+                 37.     This commingling of funds would have obscured the true source of any
+
+given dollar once it arrived.22 Since it does not appear that FBG’s underlying business was
+
+generating sufficient cash to satisfy factoring obligations, the FBG Debtors necessarily applied
+
+funds from new factoring submissions to fund existing factoring obligations as they matured.23
+
+This conduct appears to have created a cycle whereby new falsified invoices were continuously
+
+
+
+
+18
+     Moore Decl. ¶ 59.
+19
+     Id. ¶¶ 70–71.
+20
+     Id. ¶ 73.
+21
+     Id. ¶ 59.
+22
+     Id. ¶¶ 73–74.
+23
+     Id. ¶¶ 59–60.
+
+
+                                                 13
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 14 of 56
+
+
+
+
+needed to satisfy obligations to existing investors,24 which I believe demonstrates the existence of
+
+a classic Ponzi scheme.
+
+                 38.   Additionally, as to the SCF programs, I understand that facts uncovered
+
+through the investigation demonstrate that the FBG Debtors’ former management created fake
+
+invoices, either Excel schedules of fake supplier invoices or fake invoices themselves, and
+
+submitted them to the third-party bill payers in order to maximize funding capacity available under
+
+the SCF programs.25 As just one example, the company created cover invoices, also referred to
+
+internally as “Dummy Invoices,” which were then submitted to Crescendo Asset Management
+
+under the Raistone factoring program to support funding on invoices that apparently never
+
+existed.26 The facts support that this practice was not an isolated event.27
+
+                 39.   These examples, in both the third-party factoring and SCF programs,
+
+support a conclusion that the FBG Debtors’ prior management committed fraudulent acts to obtain
+
+additional credit that was used to pay off older credit, which, in my opinion, support a finding of
+
+a Ponzi scheme. Accordingly, I believe it is reasonable to conclude that the Ponzi Scheme
+
+Presumption would apply to an actual fraudulent transfer claim that a litigation trustee would bring.
+
+                       b.      Recovery in the Absence of Ponzi Scheme
+
+                 40.   Even if a litigation trustee were unable to rely on the Ponzi Scheme
+
+Presumption, in my opinion the facts support a conclusion that there are substantial grounds for
+
+actual and constructive fraud claims. Notably, and as described above, there exist facts to support
+
+the conclusion of a persistent illegal course of conduct, including many acts of intentional fraud to
+
+support the “badges of fraud.” Additionally, based on my review and understanding of the facts
+
+
+24
+     Id.
+25
+     Id. ¶ 97.
+26
+     Id.
+27
+     Id.
+
+
+                                                 14
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 15 of 56
+
+
+
+
+relevant to FBG’s financial condition at the time, including documentary evidence and analysis of
+
+FBG’s financial condition demonstrating, among other things, unreported liabilities in excess of
+
+$5 billion and guilty pleas from executives admitting that the fraudulent conduct dated back to as
+
+early as 2018, I believe there is a good faith basis to conclude that the FBG Debtors were insolvent
+
+when making the subject transfers.28 Furthermore, I understand from Mr. Moore’s declaration that
+
+A&M has identified billions of dollars of transfers to factoring/supply chain financing parties made
+
+on account of false and fraudulent invoices. Accordingly, in my opinion a litigation trustee would
+
+be able to establish fraudulent transfers claims, even without the benefit of the Ponzi Scheme
+
+Presumption.
+
+                           c.     Specific Third-Party Factor Examples
+
+                   41.     As an illustrative example of the FBG Debtors’ Third-Party Factoring
+
+Claims, I believe that Katsumi—one of FBG’s largest factoring counterparties, purchasing
+
+approximately $4.9 billion of prepetition factored invoices from the FBG Debtors from September
+
+2023 until the Petition Date—would face liability because it appears that Katsumi had knowledge
+
+of particular facts such that it “should have known” of FBG’s fraudulent scheme.29
+
+                   42.     Specifically,   facts   exist   demonstrating   that   Katsumi   possessed
+
+contemporaneous evidence of unreliable financial reporting but continued transacting with FBG.
+
+For example, in September 2023, as part of an audit, Katsumi discovered that receivables it
+
+purchased from FBG did not match the underlying invoices, but instead, were falsified, fabricated,
+
+and inflated, in some instances by more than 180,000%.30 In that most extreme instance, an invoice
+
+worth $240.35 had been funded by Katsumi as if it were worth $434,997.58.31 Shortly thereafter,
+
+
+28
+     Id. ¶¶ 77, 79, 143.
+29
+     Id. ¶¶ 86–89.
+30
+     Id. ¶ 86.
+31
+     Id.
+
+
+                                                     15
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 16 of 56
+
+
+
+
+Katsumi informed FBG of the discrepancies it discovered in its audit, but rather than cease
+
+purchasing apparently fraudulent invoices, Katsumi continued to participate in FBG’s factoring
+
+practice for more than two years.32
+
+                  43.      There are also facts demonstrating that within a few months of Katsumi’s
+
+suspicions of FBG’s fraud, Katsumi sought to exit its investment by re-selling its purchased
+
+receivables.33 Another sophisticated observer, Apollo, based on information available to any
+
+financing counterparty of First Brands, identified serious misgivings regarding FBG’s financial
+
+condition and prepared an internal deck suggesting that Apollo short FBG’s debt.34 Based on these
+
+facts, I believe it is reasonable to conclude that Katsumi, which had access to even more specific
+
+information plus direct evidence of falsified invoices, knew or should have known that it was being
+
+paid on invoices that were, at least in part, fraudulent.
+
+                  44.      The FBG Debtors’ reconciliation reflects that Katsumi received
+
+approximately an estimated $3.8 billion in payment on account of fraudulent receivables from
+
+FBG in the period following its discovery of the discrepancies in the invoice data in September
+
+2023.35
+
+                  45.      Another example with respect to Third-Party Factoring Claims is LAM, an
+
+affiliate of Jefferies, who based on the information available to me had knowledge of particular
+
+facts supporting a conclusion that they “should have known” of FBG’s fraudulent scheme. I
+
+understand that LAM was among FBG’s largest factoring counterparties, participating in more
+
+than $7.3 billion in factoring arrangements since January of 2023 with the FBG Debtors.36
+
+
+
+
+32
+     Id. ¶ 89.
+33
+     Id. ¶ 88.
+34
+     Id. ¶ 66; First Brands Overview (April 2024), Apollo.
+35
+     Moore Decl. ¶ 89.
+36
+     Id. ¶ 93.
+
+
+                                                        16
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 17 of 56
+
+
+
+
+                     46.   Information I have reviewed supports the conclusion that Jefferies and its
+
+affiliates had access to the same information as Apollo, and also possessed contemporaneous
+
+evidence of unreliable financial reporting but continued participating in FBG’s third-party
+
+factoring program.37 For example, evidence exists demonstrating that in January 2023, LAM sent
+
+FBG a series of diligence questions concerning FBG’s accounts receivable and related financing,
+
+and requested an on-site visit and call with FBG’s CFO.38 Rather than provide straightforward
+
+answers, Edward James responded by what appears to be threats to reconsider any future business
+
+with Jefferies, strongly implying that continuing to ask for diligence would foreclose future
+
+partnerships to the detriment of Jefferies’ bottom line.39 I believe this provides a reasonable basis
+
+to conclude that LAM was on inquiry notice of FBG’s fraudulent activity.
+
+                     47.   In another exchange, while advising a potential investor in an FBG-related
+
+transaction, Jefferies encountered what appear to be additional red flags.40 To respond to a
+
+potential investor’s diligence request, Jefferies bankers sent FBG’s CFO diligence requests
+
+seeking historical cash flows associated with factoring activities and a reconciliation of adjusted
+
+EBITDA. One Jefferies banker noted that FBG “[did] not want to disclose more than necessary.”41
+
+The prospective investor’s own diligence request flagged that FBG’s reported cash flows from
+
+receivables had remained positive despite significantly growing revenues, which the investor
+
+flagged as inconsistent with typical accounting results.42 In my opinion, this is a red flag that a
+
+diligent counterparty reasonably could have discovered, and one that Jefferies’ own investment
+
+banking arm appears to have identified internally in real time.
+
+
+
+37
+     Id. ¶¶ 90–93.
+38
+     Id. ¶ 90.
+39
+     Id.
+40
+     Id. ¶ 92.
+41
+     Id.
+42
+     Id.
+
+
+                                                   17
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 18 of 56
+
+
+
+
+                  48.   Subsequent to these events, LAM participated in $7.3 billion of additional
+
+third-party factoring, and LAM/Jefferies was paid more than $6.9 billion.43 The A&M team’s
+
+reconciliation reflects that LAM/Jefferies received more than an estimated $4.2 billion in transfers
+
+on account of fraudulent receivables from FBG in the period since Jefferies/LAM became aware
+
+of these additional facts that also tend to show that Jefferies/LAM knew or should have known
+
+about the fraud in 2023.44
+
+                  49.   Based on the above, I believe it is reasonable to conclude that a litigation
+
+trustee holds significant and valuable Third-Party Factoring Claims against Katsumi and
+
+Jefferies/LAM. This would be in addition to recoveries against multiple other potential defendants
+
+that would be subject to similar Third-Party Factoring Claims.
+
+                        d.     Supply Chain Financing Examples
+
+                  50.   FBG’s counterparties in its SCF program represent additional potential
+
+claims that could be pursued by a litigation trustee. I understand that FBG’s SCF program was
+
+run through a variety of portals that enabled FBG to pass off fabricated vendor or supplier invoices
+
+to a range of banks and institutional lenders.45
+
+                  51.   I understand from the Moore Declaration that A&M has identified billions
+
+of dollars of transfers to SCF counterparties based on fraudulent payables supposedly but not
+
+actually owed by FBG to third-party vendors, suppliers and other creditors.
+
+                  52.   For example, the facts uncovered through the investigation demonstrate that
+
+the FBG Debtors’ former management created fake invoices, either Excel schedules of fake
+
+supplier invoices or fake invoices themselves, and submitted them to the third-party bill payers to
+
+
+
+43
+     Id. ¶ 93.
+44
+     Id.
+45
+     Id. ¶¶ 96–100.
+
+
+                                                   18
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 19 of 56
+
+
+
+
+maximize funding capacity available under the SCF programs.46 As just one example, in February
+
+2024 the company created a “cover” invoice, also referred to internally as a “Dummy Invoice,”
+
+which was submitted to Crescendo Asset Management under the Raistone factoring program to
+
+support funding for $2.1 million of supposed freight invoices that in reality never existed.47 The
+
+SCF platform provider would then approve the fake invoices for payment on behalf of one or more
+
+financing parties, and based on the dummy invoices, funds were routed to a third-party bill payer,
+
+which in turn routed the funds to an account controlled by former management, based on payment
+
+instructions FBG provided.48 I understand these transactions were referred to internally as “round
+
+trip” payments and were tracked in an internal spreadsheet titled “Approved ROUNDTRIP
+
+Master.”49 The facts support that this practice was not an isolated event.
+
+                 53.   I further understand that a portion of the funds received from SCF lenders
+
+flowed through Bowery Finance II (“Bowery”) and was transferred to operating entities in
+
+accordance with the “Bowery Splits,” and that amounts received from Bowery relating to the SCF
+
+program were recorded on individual sites’ books in various accounts and ultimately adjusted out
+
+at the direction of Andy Brumbergs and others.50 I understand Bowery was a Wells Fargo bank
+
+account belonging to Bowery Finance II, LLC, a non-Debtor entity that listed Patrick and Edward
+
+James as President and Executive Vice President, that was originally opened to run a self-
+
+administered factoring program funded by Wells Fargo but eventually was used to re-route funds
+
+from Patrick James affiliated entities to a variety of other Patrick James affiliated entities.51 In
+
+connection with this practice, just prior to the Debtors’ bankruptcy, Andy Brumbergs instructed
+
+
+
+46
+     Id. ¶ 97.
+47
+     Id.
+48
+     Id.
+49
+     Id.
+50
+     Id. ¶ 98.
+51
+     Id. ¶ 73.
+
+
+                                                19
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 20 of 56
+
+
+
+
+individuals in the Debtors’ corporate accounting department to add a $1.2 billion SCF liability to
+
+the Debtors’ books, effectively recording outstanding SCF liabilities that had previously been
+
+concealed.52 This adjustment stands in stark contrast to the SCF liabilities FBG had disclosed in
+
+prior years—approximately $543 million for 2023 and $682 million for 2024—each of which
+
+understated the actual SCF liabilities by hundreds of millions of dollars.53
+
+                  54.   Further, PrimeRevenue is an example of a portal that FBG Debtors used in
+
+their SCF program, which served to connect vendors and suppliers, but also First Brands when it
+
+sought to pay vendors and seek reimbursement, with specific financial institutions working with
+
+PrimeRevenue.54 Specifically, there are facts to support that PrimeRevenue had actual knowledge
+
+that the cover invoices FBG submitted under the SCF program were fabricated.55 I understand
+
+that in the summer of 2024, PrimeRevenue employees working primarily with Edward James on
+
+the SCF program contacted FBG employees responsible for creating the cover invoices and told
+
+them to check the document’s file properties going forward, effectively alerting them that
+
+PrimeRevenue had identified FBG employees, rather than any actual vendor, as the document’s
+
+author in the file metadata.56 I understand that FBG understood PrimeRevenue’s comment as
+
+confirmation that PrimeRevenue was aware the cover invoices were being generated internally by
+
+FBG rather than by its vendors.57
+
+                  55.   Based on the above, I believe it is reasonable to conclude that a litigation
+
+trustee would have colorable claims relating to the SCF programs.
+
+
+
+
+52
+     Id. ¶ 98.
+53
+     Id.
+54
+     Id. ¶ 101.
+55
+     Id.
+56
+     Id.
+57
+     Id.
+
+
+                                                 20
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 21 of 56
+
+
+
+
+                  ii.        SPV Lender Claims
+
+                  56.        Based on my review of various materials, I understand the prepetition
+
+Debtors engaged in multiple off-balance sheet financing arrangements using special purpose
+
+vehicles (“SPVs” and the “SPV Facilities”). This included, for example, off-balance sheet
+
+arrangements with (i) Onset, (ii) lenders to Carnaby Inventory II, LLC (“Carnaby II”) and
+
+Carnaby Inventory III, LLC (“Carnaby III” and, together with Carnaby II, the “CarVal
+
+Lenders”), (iii) Aequum Capital Financial II LLC (“Aequum”), and (iv) Evolution Credit
+
+Opportunity Master Fund II-B, L.P., Evolution Credit Partners Trade Finance Master L.P.,
+
+Evolution Credit Opportunity Master Fund III-B, LP, and certain other Evolution affiliated funds
+
+(collectively, “Evolution”).
+
+                  57.        As I explain in more detail below, I believe the SPV Facilities, from a
+
+structural standpoint, were unworkable, as they could not function as independent SPVs from the
+
+face of their transaction documents alone, and the SPV Facilities give rise to what I believe are
+
+numerous cognizable claims for fraudulent transfer and other avoidance actions against the
+
+counterparties to the SPV Facilities, including because of the following:
+
+                  58.        The materials I reviewed support the conclusion that FBG, primarily
+
+through its officer Edward James, caused FBG-dominated and controlled SPV entities to enter into
+
+more than $2 billion dollars in inventory (or in the case of Onset also equipment) financings that
+
+neither the SPV entities nor FBG could afford to repay from operations.58 This conclusion is based
+
+on what appears to be insufficient value in the collateral that was the intended and only source of
+
+repayment.59 Based on my review and understanding of the facts relevant to the SPV entities’
+
+financial condition at the time, including documentary evidence and analysis of the SPV entities’
+
+
+58
+     Id. ¶¶ 106, 124, 128.
+59
+     Id. ¶¶ 105, 109.
+
+
+                                                    21
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 22 of 56
+
+
+
+
+financial condition, there is a good faith basis to believe that the SPV entities were insolvent from
+
+the start, and FBG could not generate from sales of inventory or its legitimate operations more
+
+generally the amounts required to satisfy this debt (which required more than $200 million a month
+
+to service its debts in 2025).60 At the same time, FBG needed to pay the debt service timely or
+
+risk losing its inventory or equipment against which liens had been granted under the SPV
+
+financing documents.61
+
+                 59.        Contrary to presenting a legitimate profit-making opportunity, the materials
+
+I reviewed provide a reasonable basis to conclude that the SPV financings were dependent on
+
+repayment by FBG from other sources of cash (e.g., from the SPV Lenders themselves, whose
+
+loans were rerouted and used to pay other SPV Lenders, as well as funds received through factoring
+
+and supply chain transactions) that was used to pay and re-borrow from SPV Lenders.62 The
+
+information I reviewed also supports a conclusion that the SPV financings were part of a scheme
+
+to defraud FBG’s existing lenders by concealing the existence of billions of dollars in debt and to
+
+use the same collateral already subject to ABL and Term Lender liens to obtain those loans.63 As
+
+a result, a litigation trustee could reasonably assert a claim that the transfers to SPV Lenders
+
+ultimately sourced from FBG were made in furtherance of a fraudulent scheme.
+
+                 60.        There also is significant evidence to support a conclusion that the SPV
+
+Lenders knew or should have known about that fraudulent scheme. This includes that (i) the SPV
+
+entities could not satisfy their obligations under the economics of the SPV Facilities as written,
+
+(ii) Onset, and perhaps other SPV Lenders, issued debt on well-above market terms, (iii) the
+
+control exerted by Patrick James and his prior legal troubles, (iv) initial transaction documents
+
+
+60
+     Id. ¶¶ 105–106, 137.
+61
+     Id. ¶ 105.
+62
+     Id. ¶¶ 105–106, 137.
+63
+     Id. ¶¶ 105, 124–127.
+
+
+                                                     22
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 23 of 56
+
+
+
+
+often contained no purchase prices or schedules of assets, (v) facially deficient borrowing base
+
+certificates, (vi) all functions of the SPV entities were performed by FBG employees and
+
+transaction documents were negotiated by FBG employees, and (vii) the SPV entities had no
+
+employees, assets, or inventory of their own, and deal documents did not provide them a means to
+
+generate profit from the inventory or assets that remained in the possession, use and control of
+
+FBG entities.64
+
+                 61.       Based on the Moore Declaration, the amounts of what could reasonably
+
+support fraudulent transfer claims against the SPV Lenders are summarized below:
+
+
+
+
+                 62.       The SPV lending program conducted by Onset (the “Onset Facility”)
+
+serves as a primary example. Based on materials I reviewed, it appears that the Onset Facility was
+
+ostensibly structured as a three-step process: (i) an SPV such as Carnaby FA, LLC (a “Carnaby
+
+Entity”) would purport to purchase PP&E or inventory from an FBG Debtor entity, (ii) the
+
+Carnaby Entity would then purportedly sell that PP&E or inventory to Onset in exchange for the
+
+funds that Onset had provided for the Carnaby Entity to purchase the PP&E or inventory, and
+
+(iii) the Carnaby Entity would then purportedly lease the PP&E or inventory back from Onset in
+
+exchange for monthly rental payments.65 At all times, the Carnaby Entity would also have to
+
+replace or replenish all inventory it purportedly leased from Onset.66
+
+
+
+64
+     Id. ¶¶ 105, 130–135
+65
+     Id. ¶¶ 110–111.
+66
+     Id. ¶ 110.
+
+
+                                                 23
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 24 of 56
+
+
+
+
+                 63.     However, from a basic structural standpoint, the facts support that this
+
+facility could not operate as papered. For example, Onset might provide a Carnaby Entity with
+
+$100 million. The Carnaby Entity would have to use this $100 million to purportedly purchase
+
+$100 million in inventory from an FBG entity, replace any inventory sold, and service its debt
+
+obligations to Onset with interest rates as high as approximately 200%.67 Moreover, the FBG
+
+seller entity, and not the Carnaby Entity, retained possession and control of all inventory or PP&E
+
+purportedly subject to the sale leaseback arrangement.68              And, with respect to the PP&E
+
+transactions, while the deal documents require the FBG seller to act as a bailee for Onset, and
+
+therefore allow Onset to repossess all PP&E in the event of default, they do not require the FBG
+
+seller to remit any proceeds from the sale or use of PP&E to the Carnaby Entity purportedly leasing
+
+said PP&E.69 Thus, with no excess cash following a purported purchase of PP&E or inventory,
+
+no possession or control of the PP&E or inventory, and no means to generate profit from the PP&E
+
+or inventory, the Onset Facility obligated the Carnaby Entity, as a “lessee,” to continually replace
+
+that PP&E or inventory and pay substantial debt servicing obligations to Onset.70 In my opinion,
+
+based on these structural facts alone, it is reasonable to conclude that Onset knew or should have
+
+known that the Carnaby Entities could not, in the absence of cash from other sources, service their
+
+debt obligations and abide by the terms of the Onset Facility.
+
+                 64.     There are also facts supporting that the SPVs did not act independently and
+
+frequently failed to observe corporate formalities and did not operate as discrete corporate
+
+entities.71 Instead, I understand that the SPVs held no board meetings, adopted no resolutions, had
+
+
+
+67
+     Id.
+68
+     Id. ¶ 111.
+69
+     Id.; See Acknowledgement and Waiver between Hopkins Manufacturing Corporation and Onset Financial, Inc.
+     dated February 12, 2024.
+70
+     Id. ¶¶ 109–112.
+71
+     Id. ¶ 115.
+
+
+                                                     24
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 25 of 56
+
+
+
+
+no employees, and were at all times undercapitalized shells that required cash from other FBG and
+
+Patrick James-controlled entities to service their debt.72 Further, any limited functions performed
+
+by the SPVs were at all times performed by only a small number of employees of FBG.73
+
+Additionally, I understand the SPVs had dedicated accounts, but did not in practice maintain
+
+segregated cash accounts and instead commingled their cash with a host of other Patrick James
+
+entities.74 I further understand that Edward James barred all FBG employees other than a select
+
+few from dealing with or talking to Onset in relation to the SPV entities.75
+
+                  65.   In addition, I understand facts exist demonstrating that proceeds that flowed
+
+into the SPVs were promptly transferred out, commingled, and disbursed to affiliates or to pay
+
+creditors.76 Many funds flowed to Bowery, the bank account described above that was used to
+
+commingle funds and facilitate transfers to a host of Patrick James entities.77 For example, in a
+
+December 2024 financing, approximately $41.5 million advanced by an SPV Lender was split
+
+across five FBG operating entities at arbitrary percentages, disguised as customer receipts.78 Facts
+
+also demonstrate that repayments to the off-balance-sheet lenders were likewise disguised.79
+
+                  66.   I also understand that although the deal documents contemplated ongoing
+
+replacement of inventory and corresponding sale agreements, none of these follow-on agreements
+
+were ever entered into.80 And the same collateral that was purportedly sold to the SPV entities, as
+
+further described below, remained at all times in the possession of the FBG seller, and even on the
+
+FBG seller’s balance sheet and borrowing base. This meant that the same collateral was often
+
+
+72
+     Id. ¶¶ 105, 115.
+73
+     Id. ¶ 133.
+74
+     Id. ¶¶ 116, 133.
+75
+     Id. ¶ 135.
+76
+     Id. ¶ 116.
+77
+     Id. ¶ 125.
+78
+     Id. ¶¶ 125–126.
+79
+     Id. ¶ 126.
+80
+     Id. ¶ 119.
+
+
+                                                 25
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 26 of 56
+
+
+
+
+double-pledged between SPV financers and existing FBG lenders.81 The facts demonstrate that
+
+despite what appears to be FBG’s control over the SPV entities, practical and contractual
+
+requirements to pay the SPV debt obligations, and cross-pledged inventory, the SPV obligations
+
+were not disclosed on FBG’s audited financials.82
+
+                  67.   Further, I understand that there are other characteristics of the SPV
+
+Facilities suggesting that the SPVs did not operate as independent entities capable of undertaking
+
+the steps contemplated by their respective deal documents.83 For example, I understand the
+
+lending facility operated by the CarVal Lenders (the “CarVal Facility”) contemplated a three-
+
+step process where: (i) an FBG entity, either Brake Parts Inc LLC (“BPI”), Trico Technologies
+
+Corporation, or Trico Products Corporation (collectively “Trico”), sold raw materials to
+
+Carnaby II or III, (ii) Carnaby II or III then manufactured the raw materials into finished goods,
+
+and (iii) BPI or Trico purchased the finished goods, and the cycle would repeat.84
+
+                  68.   Yet, I understand that the books and records of Carnaby II and III suggest
+
+that none of these three steps were actually undertaken. For example, the facts suggest that
+
+Carnaby II received over $47 million in June 2022 purportedly for the purchase of raw materials
+
+from BPI, but there is no record of Carnaby II directly transferring these funds to BPI.85 Further,
+
+I understand that the general ledgers of Carnaby II and III do not show increases for the subsequent
+
+purchases of raw materials or decreases for the sale of finished goods but instead show that the
+
+inventory was reduced monthly for cash received from assorted Patrick James entities to make
+
+debt service payments to the CarVal Lenders.86 And finally, I understand the FBG Debtors were
+
+
+
+81
+      Id. ¶¶ 122–123.
+82
+     Id. ¶ 124.
+83
+     Id. ¶¶ 115–116.
+84
+     Id. ¶¶ 117–118.
+85
+     Id. ¶ 117.
+86
+     Id. ¶¶ 117–118.
+
+
+                                                26
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 27 of 56
+
+
+
+
+unable to locate any supplements reflecting the repurchase of finished goods following any initial
+
+transaction documents.87 Instead, it appears that the FBG Debtors recycled funds from SPV
+
+Lenders to pay preexisting creditors, including other SPV Lenders.88
+
+                  69.   Further, the structure of the purported sale leaseback transactions involving
+
+inventory strikes me as irregular, as it featured the sale and leaseback of inventory that was not
+
+owned or possessed by the SPV entity, and instead remained at all times in the possession and
+
+control of an FBG entity, who would sell the inventory in the ordinary course of its business.
+
+                  70.   Taken as a whole, the facts uncovered to date demonstrate that the SPVs
+
+had no independent revenue generating operations in the case of the PP&E financings, and
+
+insufficient revenue generating capability in the case of inventory financings, had substantial debt
+
+obligations, and relied on the continuous infusion of cash primarily from new loans from the SPV
+
+Lenders obtained mainly as a result of transfers originating from First Brands to satisfy prior debt
+
+incurred by the SPVs. SPV cash, in other words, appears to have been sourced from a variety of
+
+new lender advances, and the Bowery account (funded mainly by First Brands)—not from the
+
+FBG entities contemplated under SPV deal documents.
+
+                  71.   Based on my review of various materials, there were also numerous,
+
+discrete indicators that in my opinion support a conclusion that an SPV financer would have been
+
+on notice that the SPV Facilities were not a legitimate lending arrangement. For example, in my
+
+experience, an entity seeking to ensure its secured status would typically file a UCC-1 financing
+
+statement. Here, from the materials provided, and from what I understand was based on what
+
+appears to be consistent pushback from Edward James, Onset did not file any UCC-1 financing
+
+statements against the FBG Debtors until September 13, 2025 (just weeks before the Debtors filed
+
+
+87
+     Id. ¶¶ 118, 120.
+88
+     Id. ¶ 106.
+
+
+                                                 27
+       Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 28 of 56
+
+
+
+
+for bankruptcy).89 Further, in response to an Onset outreach email to FBG employees regarding
+
+inventory inspections, Edward James told Onset that all communications should go through him
+
+“ALONE.”90 This, in my view, supports a conclusion that Onset was aware that Edward James
+
+intended to keep the Onset Facility concealed from other FBG employees. I understand that
+
+Edward James also unilaterally imposed severe limitations on Onset’s ability to inspect its
+
+purported collateral.91 Additionally, Onset charged effective interest rates nearly as high as 200%
+
+for the sale leaseback transactions.92 I have experience with situations such as these in other cases
+
+involving allegations of fraud by insiders, who barred employees from dealing with investors.
+
+                 72.      I understand that there are materials supporting the conclusion that other
+
+SPV Lenders were aware that they were not getting complete or adequate information to verify the
+
+location and amount of their purported collateral. For example, I understand the CarVal Lenders
+
+received approximately seventy (70) borrowing base certificates over three years but these
+
+certificates only tracked inventory by generic SKU numbers, which would continuously turn
+
+over.93
+
+                          a.      Ponzi Scheme Presumption
+
+                 73.      Based on my understanding of the SPV Facilities and Debtors’ off-balance
+
+sheet lending practices, I believe a litigation trustee would likely succeed in establishing that the
+
+SPV Facilities operated as a Ponzi scheme for purposes of the Ponzi Scheme Presumption. In
+
+particular, I understand that, from a structural standpoint, the SPV transactions could not operate
+
+according to their deal documents.94 For example, the facts support the conclusion that the Onset
+
+
+
+89
+     Id. ¶ 138.
+90
+     Id. ¶ 135.
+91
+     See March 10, 2023 Email from E. James to A. Brumbergs, S. Wallace, and K. Ruminski.
+92
+     Moore Decl. ¶ 110.
+93
+     Id. ¶ 132.
+94
+     Id. ¶¶ 115–118.
+
+
+                                                      28
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 29 of 56
+
+
+
+
+Facility necessarily required the injection of outside funds, as the Carnaby Entities had no means
+
+to simultaneously purchase inventory or PP&E from an FBG entity, continually buy replacement
+
+inventory or PP&E, and pay Onset’s very high interest rates.95 In other words, the Carnaby Entities
+
+had no means to pay Onset other than from sums deposited by FBG and sums deposited by
+
+subsequent investors.
+
+                   74.      Further, the factual evidence gathered to date supports this conclusion. For
+
+example, the funds transferred into and out of Carnaby II and III pursuant to the CarVal Facility
+
+do not appear to reflect the legitimate SPV operations consistent with the CarVal Facility deal
+
+documents.96 Instead, funds transferred by the CarVal Lenders appear to have been routed to a
+
+variety of Patrick James controlled entities, not BPI and Trico.97 Further, it does not appear that
+
+funds garnered from the manufacture and sale of finished goods (as contemplated by the CarVal
+
+Facility) were used to pay the CarVal Lenders.98
+
+                   75.      Additionally, I also understand that as SPV payments came due, FBG
+
+created falsified invoices from an entity called CI Supply and routed payments through Carnaby I
+
+to whichever SPV entity had a debt payment due.99 In other words, the SPVs could only service
+
+their debt because Patrick James funneled cash to them from outside the purported transaction
+
+structure.100 Moreover, there are facts demonstrating that SPV funding was used to pay subsequent
+
+SPV debt. For example, I understand that on November 27, 2024, Onset sent $158.4 million to
+
+Carnaby FA as part of Lease 8 under the Onset Facility.101 On the very same day, Carnaby FA
+
+
+
+
+95
+      Id. ¶ 111.
+96
+      Id. ¶¶ 117–120.
+97
+      Id.
+98
+      Id. ¶ 120.
+99
+      Id. ¶ 126.
+100
+      Id. ¶ 106, 126–127.
+101
+      Id. ¶ 106.
+
+
+                                                     29
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 30 of 56
+
+
+
+
+sent $50.6 million to Carnaby IV, which helped fund the $81.2 million payment to Onset on
+
+November 29, 2024.102
+
+               76.     Taken together, I believe these factual findings would allow a litigation
+
+trustee to establish that the SPV Facilities operated as a Ponzi scheme for purposes of application
+
+of the Ponzi-Scheme Presumption.
+
+                       b.     Recovery in the Absence of a Ponzi Scheme
+
+               77.      Even in the absence of a Ponzi Scheme, I believe that a litigation trustee
+
+would still have significant and cognizable claims for recovery against Onset and other SPV
+
+lenders, including claims for recovery against subsequent transferees.
+
+                              (i)     Actual and Constructive Fraudulent Transfer
+
+               78.     Based on my understanding of the SPV facilities as not independent entities,
+
+the fact that FBG funds were being used for these transactions, and FBG’s off-balance sheet
+
+lending practices, and given my experience in prosecuting claims such as these, I believe it is
+
+reasonable to conclude that a litigation trustee would succeed in recovering funds on behalf of the
+
+FBG entities based on claims of actual fraudulent transfer as it relates to the SPV Facilities.
+
+Utilizing the Onset Facility as an example, I believe a litigation trustee would succeed in
+
+establishing the existence of numerous of the relevant “badges of fraud” associated with actual
+
+fraudulent transfer.
+
+               79.     For example, the relationship between Onset and FBG, whereunder Edward
+
+James, the principal negotiator for the Carnaby Entities, invested alongside Onset in the hopes of
+
+extracting funds from the Debtors through the Onset Facility, supports a conclusion that the
+
+
+
+
+102
+      Id.
+
+
+                                                30
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 31 of 56
+
+
+
+
+transfers were made with the intent to defraud.103 Further, based on my review and understanding
+
+of the facts relevant to FBG’s financial condition at the time, including documentary evidence and
+
+analysis of FBG’s financial condition, there is a good faith basis to believe that FBG was insolvent
+
+at the time or rendered insolvent by the Onset Facility. Based on the structure of the Onset Facility,
+
+the Carnaby Entities were obligated to pay substantial, above-market debt servicing with no viable
+
+means to pay this debt.104 Further, the SPV entities were undercapitalized shells, with no
+
+employees and no substantial capitalization or assets to perform under the SPV Facilities.105
+
+Through the use of guaranty agreements and eventual forbearance agreements, and because the
+
+FBG Debtors were functionally required and in fact did service all debt payments for the SPV
+
+entities, the Onset Facility also saddled the FBG Debtors with significant debt.106 In sum, the facts
+
+support the reasonable conclusion that the SPV entities were not truly separate and distinct
+
+corporate entities and were instead part and parcel of a larger scheme to secure additional funding
+
+for the FBG Debtors.107
+
+                    80.      Additionally, in my opinion, the fact that the transactions with Onset
+
+involved triple-digit interest rates and the inability of the Carnaby Entities to repay their debt would
+
+provide substantial evidence that these transactions were made for inadequate consideration.108
+
+Further supporting this conclusion is the fact that although the FBG seller of inventory and PP&E,
+
+and not the Carnaby Entity or Onset, at all times retained use and control of the subject inventory
+
+
+
+103
+      Id. ¶¶ 134–135. I understand Onset contends that Edward James’ role “added credibility to the deal structure,”
+      but this is evidence of lack of good-faith, arms-length negotiations and not an indicator of credibility. This should
+      also have been a red flag for Onset that Edward James was putting his personal interest ahead of those of FBG.
+      See Onset Motion to Intervene in Adversary Proceeding, First Brands Group, LLC v. Patrick James et al., Adv.
+      Pro. No. 25-03803, ECF No. 71.
+104
+      Moore Decl. ¶ 111.
+105
+      Id. ¶¶ 112–116.
+106
+      Moore Decl. ¶¶ 111–113.
+107
+      Id. ¶¶ 115–121.
+108
+      Id. ¶ 134.
+
+
+                                                            31
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 32 of 56
+
+
+
+
+or PP&E, FBG’s audited financial statements did not disclose the Onset debt or even the existence
+
+of the Carnaby Entities.109 Further, I believe a litigation trustee could pursue claims based on
+
+theories of substantive consolidation and veil piercing or other theories relying on the conclusion
+
+that the SPV and FBG entities were one and the same.
+
+                   81.   In addition, FBG’s financial statements purported to disclose related
+
+obligations, yet did not even mention, much less describe, any of the Onset or other SPV
+
+financings, nor were the SPV entities’ finances presented on a consolidated basis.110 The result is
+
+that more than $2 billion in debt secured by the same collateral utilized by First Brands’ publicly
+
+disclosed lenders (such as the Term Loan Lenders and ABL Lenders) was not disclosed to First
+
+Brands’ lenders and other stakeholders.111 The SPV entities and financial transactions were
+
+therefore used to conceal and mislead First Brands’ creditors about First Brands’ true financial
+
+condition.
+
+                   82.   Taken together, these “badges of fraud” would likely allow a litigation
+
+trustee to establish the existence of actual fraudulent transfers as related to the SPV Facilities, even
+
+assuming failure to establish the Ponzi Scheme Presumption.
+
+                   83.   Additionally, I believe it is reasonable to conclude that a litigation trustee
+
+would likely succeed in obtaining recoveries on claims of constructive fraudulent transfer.
+
+                   84.   Based on my review and understanding of the facts relevant to FBG’s
+
+financial condition at the time, including documentary evidence and analysis of FBG’s financial
+
+condition, there is a good faith basis to believe that FBG was insolvent at the time, or rendered
+
+insolvent by the Onset Facility, to use one SPV entity as an example. For example, based on the
+
+
+
+109
+      Id. ¶¶ 111, 124.
+110
+      Id. ¶ 124.
+111
+      Id. ¶¶ 103, 105.
+
+
+                                                  32
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 33 of 56
+
+
+
+
+structure of the Onset Facility, the Carnaby Entities were saddled with substantial, above-market
+
+debt obligations with no viable means to pay this debt. And, despite issues with FBG’s accounting
+
+and business practices that obscured the true financial condition of the company, FBG’s business
+
+was losing money on the actual business of the sale of inventory related to the Onset Facility.112
+
+Further, I believe a litigation trustee would be able to demonstrate that the transactions with Onset
+
+were made for inadequate consideration and a lack of reasonably equivalent value given the triple-
+
+digit interest rates and the inability of the Carnaby Entities to repay their debts.113
+
+                  85.      Finally, given the facts available to me, I believe the SPV financers’ primary
+
+defense, taking as a “good faith transferee,” is unlikely to succeed.114 To establish such a defense,
+
+the SPV financers would need to prove that they operated without “knowledge or inquiry notice
+
+of fraud or insolvency.”115 Based on my understanding of the numerous “red flags” reflected in
+
+the materials and discussed above, I believe SPV financers would be unlikely to succeed on such
+
+good faith defense. It bears noting in that regard that Onset admittedly had reviewed First Brands’
+
+financial statements and therefore would have known that they did not disclose, in the related
+
+parties section or otherwise, the purported inventory and PP&E transactions between First Brands
+
+and the SPV entities.116 I also have reviewed evidence suggesting that Onset did not file UCC-
+
+1s/perfection statements against FBG at Edward James’ request.
+
+                  86.      Based on the above, I believe that a litigation trustee would have significant
+
+and cognizable claims for recovery against Onset and other SPV Lenders. I understand that the
+
+FBG Debtors’ investigation has identified: (i) more than $2.3 billion in transfers to Onset, with
+
+
+
+
+112
+      Id. ¶¶ 109–114.
+113
+      Id. ¶¶ 110, 134.
+114
+      See 11 U.S.C. § 550(b)(2).
+115
+      Janvey v. GMAG, L.L.C., 977 F.3d 422, 427 (5th Cir. 2020).
+116
+      Id. ¶ 138.
+
+
+                                                        33
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 34 of 56
+
+
+
+
+approximately $1 billion occurring in the year leading up to the Petition Date, (ii) more than
+
+$70 million in transfers to CarVal subject to recovery as fraudulent transfers, (iii) more than
+
+$92 million in transfers to another entity called Aequum subject to recovery as fraudulent transfers,
+
+and (iv) more than $29 million in transfers to Evolution subject to recovery as fraudulent
+
+transfers.117
+
+                  iii.     Insider Claims
+
+                  87.      On November 3, 2025, the Debtors filed an adversary proceeding against
+
+Patrick James and certain affiliates (the “James Adversary Proceeding”), seeking over $830
+
+million in damages and asserting eleven (11) counts of, among others, actual and constructive
+
+fraudulent transfers, turnover of estate property, and unjust enrichment. Based on the allegations
+
+in the amended complaint in the James Adversary Proceeding (the “James Complaint”), as well
+
+as additional facts set forth in the Moore Declaration, I believe the Insider Claims are meritorious
+
+and reasonably likely to result in significant recoveries by the Litigation Trust.
+
+                  88.      As explained in greater detail in the James Complaint and the Moore
+
+Declaration, there is a significant amount of support for concluding that Patrick James frequently
+
+engaged in widespread prepetition fraud. Based on my review of the relevant facts, I believe a
+
+litigation trustee will be able to demonstrate that Patrick James’ prepetition conduct included
+
+(i) the misappropriation of hundreds of millions of dollars of FBG Debtor funds to enrich himself
+
+and his family, (ii) the falsification of invoices for the purpose of obtaining company financing,
+
+and (iii) the entry into several fraudulent transactions involving the SPV Debtors.
+
+
+
+
+117
+      Moore Decl. ¶ 139.
+
+
+                                                  34
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 35 of 56
+
+
+
+
+                           a.      Background
+
+                                   (i)     Misappropriation of FBG Debtor Funds
+
+                  89.      I believe there is a reasonable basis to conclude that sufficient facts exist to
+
+support causes of action that establish Patrick James misappropriated hundreds of millions of
+
+dollars of FBG Debtor funds to enrich himself and his family, including (a) the improper transfer
+
+of company dividends to the Patrick James Trust, (b) fraudulent transfers of the proceeds of
+
+company financing transactions for personal use, and (c) the use of company funds to pay for his
+
+and his family’s lifestyle and personal business.118 Examples of such misappropriation include,
+
+among others:
+
+                          i.    the transfer of over $708 million, with over $229 million in 2025 alone,
+                                out of FBG bank accounts and into the Patrick James Trust,119
+
+                         ii.    the transfer of approximately $38 million of FBG cash to Larchmont
+                                LLC, an entity owned and controlled by Patrick James that is unrelated
+                                to FBG and appears to bear no legitimate business relationship to
+                                FBG,120
+
+                        iii.    the transfer of more than $18 million from 2019 to 2025 from the FBG
+                                Debtors to Battery Park Holdings LLC (“Battery Park”), another
+                                non-FBG entity controlled by Patrick James, to pay for his and his
+                                family’s personal expenses, and121
+
+                        iv.     the use of $455,000 of FBG funds paid to Patrick James’ private chef,
+                                in addition to other payments made for Patrick James’ personal benefit
+                                including rent and interior design expenses.122
+
+                  90.      As such, I believe the FBG Debtors have facts to support and recover on
+
+their claims that Patrick James fraudulently transferred hundreds of millions of dollars of funds
+
+belonging to the FBG Debtors prior to the start of the chapter 11 cases.
+
+
+
+118
+      James Compl. ¶¶ 70–74.
+119
+      Moore Decl. ¶ 142.
+120
+      Id. ¶ 145.
+121
+      Id. ¶ 147.
+122
+      Id. ¶ 146.
+
+
+                                                     35
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 36 of 56
+
+
+
+
+                                       (ii)    Falsification of Invoices
+
+                       91.      According to investigations conducted by the FBG Debtors and their
+
+advisors, as of the Petition Date, Patrick James had caused FBG to incur at least $10.6 billion in
+
+total payments on account of fraudulent invoices.123 I understand that A&M conducted a forensic
+
+audit and investigation related to third-party factoring liabilities, which led to the discovery of
+
+significant discrepancies, including erroneous and fabricated invoices, between the data acquired
+
+from the third-party factors and the FBG Debtors’ books and records, as explained in detail
+
+above.124 I also understand that the FBG Debtors’ advisors identified three significant issues with
+
+the FBG Debtors’ prepetition factoring practices under the leadership of Patrick James:
+
+                               i.   First, in many instances, the amount set forth on a factored invoice did
+                                    not accurately reflect a customer’s order, without any apparent reason
+                                    for the discrepancy. For example, in some instances, the amount set
+                                    forth in a factored invoice was ten or more times higher than the actual
+                                    amount of an invoice.
+
+                              ii.   Second, in many instances, purported invoices representing customer
+                                    orders were created and submitted to third-party factoring parties for
+                                    payment even though the FBG Debtors’ books and records, in some
+                                    cases, do not reflect that such customer invoices existed.
+
+                             iii.   Third, in many instances the same invoice was factored more than once
+                                    to different third-party factors.125
+
+                                       (iii)   SPV Debtor Transactions
+
+                       92.      Based on the facts I have reviewed, I believe that the FBG Debtors can show
+
+that the SPV Debtors engaged in several prepetition fraudulent transfers of FBG Debtor property
+
+to Patrick James.
+
+
+
+
+123
+      Id. ¶¶ 82, 97.
+124
+      Id. ¶¶ 80–95.
+125
+      Id. ¶ 83.
+
+
+                                                         36
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 37 of 56
+
+
+
+
+                  93.     The James Complaint alleges eleven causes of action against Patrick James;
+
+the Patrick James Trust; the Entity Defendants;126 Michael Baker; Andy Brumbergs; Stephen
+
+Graham; John and Jane Doe(s) 1-100; and ABC Corporation(s) 1-100. The Onset Complaint
+
+alleges further causes of action against Edward James, another corporate insider.127
+
+                  94.     Patrick James is the founder and former Chief Executive Officer of FBG.
+
+On January 29, 2026, Patrick James was indicted in the Southern District of New York on charges
+
+of conspiracy to commit wire fraud and bank fraud, conspiracy to commit money laundering,
+
+operating a continuing financial crimes enterprise, and numerous counts of wire fraud and bank
+
+fraud.128
+
+                  95.     Edward James, Patrick James’ brother and former Executive Vice President
+
+of FBG, was indicted on the same charges on January 29, 2026.129
+
+                  96.     Michael Baker is FBG’s former Chief Corporate Strategy Officer.130
+
+                  97.     Andy Brumbergs is FBG’s former Senior Vice President of Finance.131
+
+Brumbergs pleaded guilty in January 2026 to eight counts, including wire fraud, conspiracy to
+
+commit wire fraud, bank fraud, and conspiracy to commit money laundering.132 In his plea,
+
+Brumbergs admitted that between 2018 and 2025, he worked with others to provide lenders with
+
+misleading statements, including misstating FBG’s financial condition, as well as the existence of
+
+inventory and equipment pledged or sold as collateral.133
+
+
+126
+      “Entity Defendants” means Albion Realty, LLC (“Albion Realty”), Alester Technologies LLC (“Alester”),
+      Battery Park Holdings LLC (“Battery Park”), Larchmont LLC (“Larchmont”), and Pegasus Aviation, LLC
+      (“Pegasus Aviation”).
+127
+      Compl., First Brands Group, LLC v. Onset Financial, Inc., No. 26-03005 (CML), Docket No. 1 ¶ 28.
+128
+      See Indictment, United States v. Patrick James & Edward James, No. 26-cr-00029 (AT) (S.D.N.Y.) (Jan. 29,
+      2026).
+129
+      Id. ¶ 8; see also Moore Decl. ¶ 79.
+130
+      James Compl. ¶ 27.
+131
+      Moore Decl. ¶ 59.
+132
+      Plea, United States v. Peter Andrew Brumbergs, No. 26-cr-00025 (AT) (S.D.N.Y.) (Jan. 27, 2026).
+133
+      Id.
+
+
+                                                      37
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 38 of 56
+
+
+
+
+                  98.      Stephen Graham is FBG’s former Chief Financial Officer.134 Graham
+
+pleaded guilty on March 2, 2026, to four counts of bank fraud, wire fraud, and conspiracy to
+
+commit bank fraud and wire fraud. In his plea, Graham admitted working with others to inflate
+
+and misrepresent FBG’s finances in statements to lenders.135
+
+                  99.      The Patrick James Trust was created on March 10, 2005 with Patrick James
+
+as Grantor and Thomas A. Haught as Trustee.136 Albion Realty, LLC is Patrick James’ real estate
+
+holding company.137 Alester Technologies, LLC, I believe, is James’ intellectual property holding
+
+company.138 Battery Park is a “personal” business of Patrick James.139 Larchmont, LLC is Patrick
+
+James’ family office.140 And Pegasus Aviation, LLC is James’ personal aircraft company.141
+
+                  100.     Based on my review and experience, I believe these Insider Claims are
+
+meritorious and are reasonably likely to result in substantial recoveries.
+
+                           b.       Claims
+
+                            (i)     Actual Fraudulent Transfer (against Patrick James, the
+Patrick James Trust, and the Entity Defendants)
+
+                  101.     I previously outlined the elements for an actual fraudulent transfer claim,
+
+including the badges of fraud that support such a claim. Here, a majority of the badges of fraud
+
+are present. Exhibit A to the James Complaint, which itself states it is a non-exhaustive list, traces
+
+835 transfers totaling approximately $830 million from FBG’s accounts to accounts held by James,
+
+entities under his control, or third parties for his and his family’s personal benefit.142 I understand
+
+
+
+134
+       Moore Decl. ¶ 59.
+135
+      See Plea, United States v. Stephen Graham, 26-cr-00025 (AT) (S.D.N.Y.) (Mar. 2, 2026).
+136
+      James Compl. ¶ 21.
+137
+      Moore Decl. ¶ 150.
+138
+      Id. ¶ 149.
+139
+      Id. ¶ 147.
+140
+      Id. ¶ 145.
+141
+      Id. ¶ 151.
+142
+      James Compl. ¶¶ 11, 72.
+
+
+                                                        38
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 39 of 56
+
+
+
+
+that A&M has also identified $136 million in additional transfers that may have been for Mr.
+
+James’ benefit.143 The evidence of fraudulent intent that I have seen is overwhelming. I
+
+understand that the Debtors and their advisors’ investigations uncovered that more than $708
+
+million in misappropriated funds was transferred to the Patrick James Trust with no apparent
+
+consideration to First Brands.144 For example, on April 5, 2022, Patrick James’ Chief of Staff
+
+emailed Andy Brumbergs, writing that James “want[ed] a $10M tax distribution paid to him this
+
+week.”145 Three days later, on April 8, 2022, FBG transferred $10 million to the Patrick James
+
+Trust.146 In October 2024, Andy Brumbergs indicated that he had been “instructed to make a
+
+$25 million USD distribution” to a Patrick James Trust account, and that same day FBG distributed
+
+$25 million into the specified account.147 I understand that the FBG Debtors’ investigation
+
+revealed evidence of multiple badges of fraud, including: (i) no or inadequate consideration for
+
+these transfers, (ii) a close relationship between the transferor and the transferee (namely, that both
+
+were controlled by Patrick James), (iii) the retention of such property by the Patrick James entities,
+
+(iv) the improvement of Patrick James’ financial condition after the transfers, and (v) the onset of
+
+financial difficulties after the transfers.
+
+                  102.    In November 2025, the Court stated there was already “credence to
+
+establishing a likelihood of success of showing an actual intent to hinder [] or defraud creditors,”
+
+which was when the facts were far less developed.148 I believe it is reasonable that a litigation
+
+trustee will establish liability for all transfers listed in Exhibit A of the James Complaint.
+
+
+
+
+143
+      Moore Decl. ¶ 141.
+144
+      Id. ¶ 142.
+145
+      Id.
+146
+      Id.
+147
+      Id.
+148
+      Transcript of Oral Ruling 22:11–15, First Brands Group, LLC v. Patrick James et al., No. 25-03803 (CML),
+      (Nov. 12, 2025).
+
+
+                                                      39
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 40 of 56
+
+
+
+
+                           (ii)    Constructive Fraudulent Transfer (against Patrick
+James, the Patrick James Trust, and the Entity Defendants)
+
+                  103.    As explained, I am familiar with the elements necessary to establish
+
+constructive fraudulent transfer; I believe these elements are present here and would support
+
+recovery for a litigation trustee.
+
+                  104.    For example, from the facts presented and as alleged, FBG received no—or
+
+in rare instances, little—value for the transfers to entities under Patrick James’ control. The
+
+hundreds of transfers, totaling at least $830 million from 2018 through 2025,149 conferred no value
+
+on FBG and included payments to Battery Park (Patrick James “personal” business), payments for
+
+James’ New York City townhouse, and distributions to the Patrick James Trust.150
+
+                  105.    As explained, there is a good faith basis to believe that FBG was insolvent
+
+at the time or rendered insolvent by these transfers.
+
+                  106.    Based on the facts known to date and the allegations in the James
+
+Complaint, I believe the constructive fraudulent transfer claims are viable and likely to result in a
+
+substantial return of funds to a litigation trustee.
+
+                             (iii) Turnover of Estate Property, Money Had and Received,
+Unjust Enrichment, Constructive Trust, Illegal Dividend and Unlawful Distributions (against
+Patrick James, the Patrick James Trust, and the Entity Defendants)
+
+                  107.    I believe that a litigation trustee would reasonably be expected to establish
+
+that Patrick James, the Patrick James Trust, and the various James entities fraudulently transferred
+
+property of the FBG Debtors’ estate, in which case, the trustee will have myriad avenues to
+
+recovery: through the federal turnover statute (11 U.S.C. § 542), money had and received, unjust
+
+enrichment, constructive trust, and illegal dividend and unlawful distribution statutes. I have
+
+
+
+149
+      See James Compl. Ex. A; James Compl. ¶¶ 11, 72.
+150
+      See generally Moore Decl. ¶¶ 141–148.
+
+
+                                                        40
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 41 of 56
+
+
+
+
+extensive experience with each of these types of causes of action and believe the facts here
+
+reasonably support claims and recovery based on these causes of action.
+
+                   108.     The facts also support the reasonable conclusion that Patrick James and
+
+entities under his control engaged in conduct that diverted and misappropriated corporate funds to
+
+himself and his entities. Patrick James, through his affiliated entities, received more than $708
+
+million to the Patrick James Trust, $38 million to Larchmont (his family office), $34 million to
+
+Alester Technologies (an LLC owned by Patrick James) through a fraudulent intellectual property
+
+licensing scheme, and $18 million to Battery Park (a “personal” business).151 I further understand
+
+that between 2018 and 2025, approximately $38 million was paid to Larchmont, a company that
+
+when asked by an auditor what services it provided to First Brands, answered “Patrick James.”152
+
+I understand that FBG and its advisors believe that Larchmont provided no services to First
+
+Brands.153
+
+                   109.     I understand that all transfers identified in Exhibit A of the James Complaint
+
+originated from FBG’s accounts and were directed to Patrick James and entities he controlled.154
+
+I further understand that the Debtors’ investigation uncovered no legitimate corporate purpose that
+
+supports these expenses and that Patrick James has no lawful claim to these sums. While serving
+
+as President and CEO of numerous FBG entities, Patrick James directed these substantial transfers
+
+to himself, the Patrick James Trust, and other entities he controlled, including $25 million to Trust
+
+accounts in January 2024 and $10 million in April 2022.155 These payments do not appear to have
+
+
+
+
+151
+      Id. ¶¶ 142, 145, 147, 149.
+152
+      Id. ¶ 145.
+153
+      Id.
+154
+      James Compl. ¶ 11.
+155
+      Moore Decl. ¶¶ 73, 142.
+
+
+                                                     41
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 42 of 56
+
+
+
+
+been “reasonable compensation” or ordinary-course payments,156 but rather, were payments used
+
+to fund Patrick James’ family’s lavish lifestyle at the company’s expense.
+
+                  110.     As previously stated, there is a good faith basis to believe that FBG was
+
+insolvent or nearing insolvency when these distributions were made and had no surplus from which
+
+to lawfully make them. Because Delaware LLCs cannot make distributions to members other than
+
+for fair compensation for services while insolvent, and because James was already paid as CEO
+
+and allegedly directed falsification of company records, his knowledge of insolvency can
+
+reasonably be inferred.157
+
+                  111.     Accordingly, for these reasons, and in my opinion based on my experience,
+
+a litigation trustee is likely to succeed in a claim to recover these wrongfully withheld funds.
+
+                            (iv)   Breach of Fiduciary Duty, Aiding and Abetting Breach of
+Fiduciary Duty, and Civil Conspiracy (against Patrick James, Edward James, Michael Baker,
+Andy Brumbergs, and Stephen Graham)
+
+                  112.     I have personal experience prosecuting breach of fiduciary duty and
+
+conspiracy claims. While breach of fiduciary duty claims are dependent on the terms of the
+
+relevant agreements governing an LLC and will likely be hotly litigated, in my experience some
+
+aspect of these types of claims survive and may lead to recovery under Directors’ & Officers’
+
+insurance.158 At a minimum, the conduct of these insiders is also relevant to establishing the
+
+overall nature of what appears to be the fraudulent enterprise the facts reasonably support, the
+
+indictments allege and the guilty pleas admit.
+
+
+
+
+156
+      See 6 Del. Code § 18-607 (2025).
+157
+      See Miller v. Mott, No. 23-50004 (CTG), 2023 WL 6467368, at *8 (Bankr. D. Del. Oct. 4, 2023) (holding that a
+      Delaware LLC cannot “make distributions to members other than for fair compensation for services” when
+      insolvent); Ballantyne Brands, LLC v. Wiesehan (In re Ballantyne Brands, LLC), 656 B.R. 117, 165 (Bankr.
+      W.D.N.C. 2023) (applying Delaware law) (holding that knowledge of insolvency can be reasonably inferred).
+158
+      See Moore Decl. ¶ 159 (referencing up to $190 million in D&O insurance that may be available).
+
+
+                                                        42
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 43 of 56
+
+
+
+
+                  113.     The facts here support a conclusion that Patrick James, Edward James,
+
+Michael Baker, Andy Brumbergs, and Stephen Graham all consciously and recklessly
+
+subordinated FBG’s interests to secure fraudulent financing and divert company funds for Patrick
+
+James’ personal use. Patrick James, in particular, appears to have exposed FBG to ruinous
+
+liabilities by misappropriating FBG Debtor funds, falsifying invoices, and directing SPVs to
+
+engage in fraudulent transfers of FBG Debtor property to himself. He set target financial outcomes
+
+for FBG and directed his senior officers to manufacture entities, invoices, and disclosures to
+
+achieve the desired outcomes.159
+
+                  114.     Edward James benefitted from sitting on both sides of transactions between
+
+Onset and FBG.160 For example, he was the sole representative for FBG and the SPV entities
+
+across the table from Onset in transactions from which he personally profited; his interest,
+
+therefore, was in direct conflict with that of FBG.161 Edward James exercised his power to benefit
+
+himself, acting in bad faith to the detriment of the company. The FBG Debtors and their creditors
+
+suffered damages proximately caused by Edward James’ conduct.
+
+                  115.     I understand that the FBG Debtors’ investigation revealed that Brumbergs
+
+personally manipulated invoice nomination files, including in one instance altering a package of
+
+invoices valued at approximately $2.3 million to reflect $11.2 million before submission to the
+
+factoring company.162 And Brumbergs admitted under oath that between 2018 and 2025, he
+
+worked with others to provide misleading financial statements to lenders.163
+
+
+
+
+159
+      Id. ¶ 71.
+160
+      Id. ¶¶ 134–135.
+161
+      Id.
+162
+      Id. ¶ 83.
+163
+      Plea, United States v. Peter Andrew Brumbergs, No. 26-cr-00025 (AT) at 27–29 (S.D.N.Y.) (Jan. 27, 2026).
+
+
+                                                        43
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 44 of 56
+
+
+
+
+                  116.     Stephen Graham admitted under oath that from approximately 2018 to
+
+2025, he agreed with others to inflate FBG’s financial performance and personally presented false
+
+and inflated statements in lender presentations to obtain financing on better terms.164 Graham’s
+
+willful misconduct facilitated the incurrence of unsustainable debt, directly and proximately
+
+causing the very bankruptcy that now burdens the estate.
+
+                  117.     The James Adversary Complaint also alleges that Michael Baker assisted in
+
+structuring off-balance sheet debt and SPV financing facilities, causing FBG to incur debt that it
+
+could not repay, and failing to ensure reporting or controls to identify risks with FBG’s fraudulent
+
+financing.165
+
+                  118.     To the extent any purported waiver of fiduciary duties in FBG’s
+
+organizational documents exculpates directors for monetary liability for breaches of the duty of
+
+care,166 it remains my opinion that a litigation trustee should still seek relief against these
+
+individuals to the maximum extent permitted by law, including for breach of the duty of good faith
+
+and fair dealing, willful misconduct, actions undertaken in bad faith, and equitable remedies;
+
+FBG’s organizational documents do not extend exculpation to actions undertaken in bad faith or
+
+willful misconduct. And as noted, these claims could still potentially provide a basis for the
+
+litigation trustee to recover from the Directors’ and Officers’ insurance policies.
+
+                  119.     Separate from any breach of fiduciary duty claims, I believe it is reasonable
+
+to conclude that a litigation trustee will be able to demonstrate that Patrick James, Michael Baker,
+
+Andy Brumbergs, and Stephen Graham worked together to effectuate the fraud that caused FBG
+
+to suffer damages. Each individual’s contribution was central: without Brumbergs manipulating
+
+
+
+164
+      Plea, United States v. Stephen Graham, 26-cr-00025 (AT) at 24–25 (S.D.N.Y.) (Mar. 2, 2026).
+165
+      James Compl. ¶ 198.
+166
+      Id. ¶ 203.
+
+
+                                                        44
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 45 of 56
+
+
+
+
+invoices, Graham certifying false financials, Baker structuring the SPV Facilities, and Patrick
+
+James conducting the orchestra, the fraud could not have carried on for years. A civil conspiracy
+
+requires only a “common understanding or design, even if tacit, to commit an unlawful act.”167
+
+Here, this threshold is exceeded.
+
+                   120.      The intra-corporate conspiracy doctrine does not bar this claim, as all
+
+employees acted outside the scope of their employment when colluding in illegal activities.168
+
+These individuals conspired to inflate FBG’s assets, and then directed the funds to Patrick James’
+
+accounts, causing damage to First Brands.
+
+                   121.      This claim is particularly valuable because it allows for punitive damages
+
+as a malice tort.169 A litigation trustee, therefore, may recover beyond compensatory damages for
+
+the Defendants’ fraud and misconduct.
+
+                   122.      The litigation of the claims against all the insiders—mainly, defendants in
+
+the James Complaint and those against Edward James in the Onset Complaint—is likely to be
+
+resolved expeditiously after the conclusion of the parallel criminal proceedings.170 The James
+
+Adversary Proceeding and the Onset Adversary Proceeding are both currently stayed.171
+
+                   123.      Given that both Andy Brumbergs and Stephen Graham have already
+
+pleaded guilty, it is likely that the civil claims against them, requiring a lower burden of proof than
+
+
+
+167
+      Gosden v. Louis, 687 N.E. 2d 481, 486 (Ohio Ct. App. 1996).
+168
+      See Barrow v. City of Hillview, 775 F.App’x 801, 807 (6th Cir. 2019) (holding that there is “a distinction between
+      collaborative acts done in pursuit of an employer’s business and private acts done by persons who happen to work
+      at the same place”).
+169
+      See Williams v. Aetna Fin. Co., 700 N.E.2d 859, 870 (Ohio 1998).
+170
+      See Order First Brands Group, LLC v. Patrick James, Adv. Pro. No. 25-03803 (CML), Docket (staying all
+      discovery in the James Adversary Proceeding pending the resolution of the parallel criminal case and directing
+      the parties to file as to the status of the parallel criminal case no later than July 13, 2026 to advise whether any
+      modification of the stay is warranted).
+171
+      See id.; Order Extending Stay of Adversary Case Deadlines and Discovery, First Brands Group, LLC v. Onset
+      Fin., Inc., Adv. Pro. No. 25-03005 (CML), Docket No. 136; Statement Regarding Order Extending Stay of
+      Adversary Case Deadlines and Discovery, First Brands Group, LLC v. Onset Fin., Inc., Adv. Pro. No. 25-03005
+      (CML), Docket No. 139.
+
+
+                                                            45
+      Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 46 of 56
+
+
+
+
+their criminal counterparts, will resolve with particular speed. As noted, the investigations to date
+
+will provide a litigation trustee with a robust, comprehensive factual record upon which to build a
+
+winning case.
+
+                124.    Many of these Insider Claims provide alternative theories of liability for a
+
+litigation trustee to recover the same fraudulent transfers. A litigation trustee, therefore, is likely
+
+to establish liability. Though the funds sought in the James Adversary Proceeding could go to the
+
+government via forfeiture in the first instance, a litigation trustee can coordinate with the
+
+government for the return of these funds to their rightful place, with the estate. I have worked with
+
+the Government in multiple cases to coordinate the return of such funds to the estate and am
+
+confident that such coordination would be successful.
+
+                125.    As explained, significant evidence supports the contention that the transfers
+
+at issue in Exhibit A of the James Complaint were made for no reasonably equivalent value, for
+
+the benefit of James—the transfers were made to entities under his direct control—the financial
+
+condition of FBG clearly worsened as a result of these transfers, and there is a good faith basis to
+
+believe that FBG was insolvent or became insolvent as a result of these transfers. I have reviewed
+
+and considered the various defenses asserted by the defendants in the adversary proceedings but
+
+believe it remains reasonable to conclude that these claims are viable and valuable and that a
+
+litigation trustee should prevail.
+
+                iv.     Suspect Acquisition Claims
+
+                126.    As discussed above, under section 548(a)(1)(B) of the Bankruptcy Code, a
+
+transaction may be avoided if a debtor “received less than a reasonably equivalent value in
+
+exchange for such transfer or obligation; and . . . was insolvent on the date that such transfer was
+
+made or such obligation was incurred, or became insolvent as a result of such transfer or
+
+
+
+
+                                                  46
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 47 of 56
+
+
+
+
+obligation.”172 The value of a transfer is determined as of the date of the transfer, and courts
+
+consider all aspects of a transaction to determine whether a debtor received reasonably equivalent
+
+value.173 “The salient issue is whether the estate lost value.”174
+
+                   127.     The Estate Claims include fraudulent transfer claims to recover FBG
+
+Debtors’ assets that were transferred through a series of transactions (the “Suspect Acquisitions”)
+
+in which the FBG Debtors acquired business units at purchase prices that unreasonably exceeded
+
+the fair market value of the acquired assets. Specifically, I understand that from 2022 to 2025, at
+
+the direction of Patrick James, FBG engaged in a series of acquisitions at well-above-market
+
+prices, receiving less than reasonably equivalent value; based on my review and understanding of
+
+the facts relevant to FBG’s financial condition at the time, including documentary evidence and
+
+analysis of FBG’s financial condition, there is a good faith basis to believe that FBG was already
+
+insolvent at this time as a result of James’s widespread misconduct.175
+
+                   128.     Based on the investigation, I believe that a litigation trustee will be able to
+
+meet its burden of establishing that through each of the Suspect Acquisitions, the FBG Debtors
+
+received less than reasonably equivalent value. The investigation uncovered evidence that Patrick
+
+James caused the FBG Debtors to acquire entities that James owned, or in which he held an
+
+interest, through holding companies, at prices that likely far exceeded market value.176 For
+
+example, as detailed in the Moore Declaration, in 2023 and 2024, the FBG Debtors engaged in
+
+three acquisitions in which they paid aggregate purchase prices totaling approximately
+
+$488 million, where the assets were already owned or controlled by James, typically through
+
+
+
+
+172
+      German Pellets La., L.L.C. v. Wessel G M B H (In re La. Pellets, Inc.), 838 F. App’x 45, 49 (5th Cir. 2020).
+173
+      See In re Smith v. Suarez (In re IFS Fin. Corp.), 417 B.R. 419, 441 (Bankr. S.D. Tex. 2009).
+174
+      Id. 442.
+175
+      Moore Decl. ¶¶ 161–162.
+176
+      Id. ¶ 157.
+
+
+                                                          47
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 48 of 56
+
+
+
+
+holding companies for aggregate purchase prices of approximately $66 million.177 While it is
+
+possible these assets may have increased in value following acquisition by the FBG Debtors, the
+
+gross disparity in purchase prices paid by the FBG Debtors and the purchase prices paid by the
+
+James-controlled entities (approximately $422 million) strongly suggests the FBG Debtors did not
+
+receive reasonably equivalent value in the acquisitions.178
+
+                  129.    The investigation identified additional acquisitions that suggest the FBG
+
+Debtors did not receive reasonably equivalent value in the acquisitions.179 Even as to these
+
+transactions, however, the evidence indicates that James used the acquisitions as an opportunity to
+
+extract value from the FBG Debtors and to support his prepetition scheme.180 The Examiner’s
+
+Report likewise found that James further extracted value through FBG’s acquisitions, including
+
+through discrepancies between internally reported acquisition values and transaction payments,
+
+“side payments,” and inflated purchase prices—for example, in connection with the
+
+FRAM/Autolite and “Winning” company acquisitions.181 For example, I understand that between
+
+2022 and 2024, the FBG Debtors paid $1.6 billion in connection with ten acquisitions they
+
+consummated for various businesses. Of those acquisitions, only three business units yielded
+
+going concern sales during these chapter 11 cases for an aggregate value of $195 million, against
+
+a combined acquisition cost of more than $641 million.182 The remaining seven businesses proved
+
+to be unsellable in these chapter 11 cases and were liquidated, yielding only $35 million to date,
+
+meaning that these assets lost 85% of their value.183
+
+
+
+
+177
+      Id.
+178
+      Id.
+179
+      Id. ¶ 161.
+180
+      Id.
+181
+      Examiner’s Report § VI.B.
+182
+      Moore Decl. ¶ 162.
+183
+      Id.
+
+
+                                                  48
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 49 of 56
+
+
+
+
+                  130.     Based on my review of the investigation conducted by A&M, it is evident
+
+that in each of the Suspect Acquisitions, the FBG Debtors’ estates lost tremendous value. The
+
+sellers of these business units benefitted from exorbitant purchase prices authorized by Patrick
+
+James as a means of extracting money from the FBG Debtors, rather than in exchange for
+
+reasonably equivalent value. At this same time, based on my review and understanding of the facts
+
+relevant to FBG’s financial condition, including documentary evidence and analysis of FBG’s
+
+financial condition, there is a good faith basis to believe that FBG was already insolvent due to
+
+James’s widespread misconduct.
+
+                  131.     The other element required to establish a fraudulent transfer claim under
+
+section 548(a)(1)(B) is that the debtor was insolvent on the date that such transfer was made or
+
+became insolvent as a result of such transfer. A corporate debtor is insolvent when its “financial
+
+condition [is] such that the sum of such entity’s debts is greater than all of such entity’s property,
+
+at a fair valuation . . . .”184 Based on my review and understanding of the facts relevant to FBG’s
+
+financial condition at the time, including documentary evidence and analysis of FBG’s financial
+
+condition demonstrating, among other things, unreported liabilities in excess of $5 billion and
+
+guilty pleas from executives admitting that the fraudulent conduct dated back to as early as 2018,
+
+I believe there is a good faith basis to conclude that FBG was insolvent when making the subject
+
+transfers.185
+
+                  v.       Other Claims.
+
+                           a.     Helios Claims.
+
+                  132.     Based on the facts set forth in paragraphs 165–167 of the Moore
+
+Declaration, my review of A&M’s forensic investigation, and the reasons set forth herein, I believe
+
+
+184
+      11 U.S.C. § 101(32)(A).
+185
+      Moore Decl. ¶¶ 77–79.
+
+
+                                                   49
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 50 of 56
+
+
+
+
+the FBG Debtors hold significant claims for fraudulent transfer against Helios Strategic Advisors
+
+LLC (“Helios” and such claims, the “Helios Claims”).
+
+                   133.   It is my understanding that Helios operated as a broker retained to identify
+
+and arrange sources of funding for the Debtors in exchange for fees.186 In that capacity, Helios
+
+was responsible for brokering SPV financing arrangements, as well as the arrangements with
+
+certain factoring counterparties, including Katsumi.187 On the transactions it brokered, Helios
+
+collected fees which, based on the evidence uncovered, were used in part to funnel kickback
+
+payments to Edward James.188
+
+                   134.   The investigation uncovered evidence establishing Edward James’s
+
+undisclosed financial interest in Helios.189 Specifically, the investigation identified an Excel file
+
+maintained by Edward James tracking his personal investments, which reflects his interest in
+
+Helios in the amount of $20.5 million.190
+
+                   135.   I believe a litigation trustee would likely succeed in a claim to recover funds
+
+based on claims of actual fraudulent transfer against Helios. Based on the foregoing, it is my
+
+opinion that substantial evidence exists to support that Helios received substantial value from the
+
+Debtors in the form of brokerage fees and related payments, and that Helios served as a conduit
+
+for the diversion of estate assets to Edward James. Accordingly, a litigation trustee can reasonably
+
+allege that these transfers were made with actual intent to hinder, delay, or defraud creditors. As
+
+such, the fees collected by Helios and the kickbacks funneled through Helios to Edward James
+
+
+
+
+186
+      Id. ¶ 165.
+187
+      Id.
+188
+      Id. ¶¶ 156, 167.
+189
+      Id. ¶ 167.
+190
+      Id.
+
+
+
+                                                    50
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 51 of 56
+
+
+
+
+would constitute transfers that may be avoided and recovered for the benefit of the FBG Debtors’
+
+estate.
+
+                   136.    I also believe a litigation trustee would likely succeed in recovering funds
+
+based on constructive fraudulent transfer against Helios.             Given the apparent kickback
+
+arrangement, it is likely that Helios’s fees exceeded the reasonably equivalent value of brokerage
+
+services actually provided, which the estate may recover under § 548(a)(1)(B) of the Bankruptcy
+
+Code if the Debtors were insolvent at the time of transfer.191 As such, I believe the Helios claims
+
+are meritorious and worthwhile for a litigation trustee to pursue, with FBG to Helios having
+
+transferred approximately $27.5 million from 2022 to 2025.
+
+                           b.     Preference Claims
+
+                   137.    The Estate Claims include preference claims (the “Preference Claims”)
+
+that the FBG Debtors hold against creditors and counterparties who received transfers from the
+
+FBG Debtors during the applicable preference period prior to the Petition Date.192 In my
+
+experience, litigation trustees or debtors typically bring claims like these in most cases. Here, a
+
+litigation trustee would likely consider bringing Preference Claims against potential defendants
+
+including trade vendors, suppliers, and other creditors who received payment on account of
+
+antecedent debt in the 90 days preceding the bankruptcy filing, or up to one year preceding the
+
+bankruptcy filing for transfers to “insiders” (as that term is defined in the Bankruptcy Code),
+
+including officers, directors, and affiliated entities of the FBG Debtors.
+
+                   138.    As a general matter, to establish liability on the Preference Claims, a
+
+litigation trustee will need to prove by a preponderance of the evidence that the transfer at issue
+
+was made (i) to or for the benefit of a creditor, (ii) on account of a debt incurred before the transfer,
+
+
+191
+      Id. ¶¶ 156, 167.
+192
+      See 11 U.S.C. § 547(b).
+
+
+                                                    51
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 52 of 56
+
+
+
+
+(iii) while the applicable Debtor was insolvent, (iv) within the applicable statutory period, and
+
+(v) allowed the creditor to receive more than they otherwise would have if this were a chapter 7
+
+liquidation. I have substantial experience prosecuting or supervising the prosecution of preference
+
+claims.
+
+                   139.     Based on the analysis conducted to date by the FBG Debtors’ advisors, I
+
+understand that total gross transfers that may be subject to avoidance under section 547 of the
+
+Bankruptcy Code is more than $1.7 billion.
+
+                   140.     There are, however, defenses under the Bankruptcy Code to a preference
+
+claim that limit a transferee’s liability. These defenses include: (i) the transfer occurred in the
+
+“ordinary course of business” between the parties, (ii) following the transfer, the creditor provided
+
+“new value” to the debtor that was (x) not secured by an otherwise unavoidable security interest
+
+and (y) not repaid by another unavoidable transfer, and (iii) the transfer was intended, and was in
+
+fact a substantially contemporaneous exchange for new value given to the debtor by the
+
+transferee.193 In addition, I am aware that the Plan contains a “Preference Settlement” pursuant to
+
+which Trade Creditors could receive a complete release from Preference Claims and Factors and
+
+Supply Chain Financers could receive the benefits of a modified “new value” defense.194 A Trade
+
+Creditor, Factor, or Supply Chain Financer may only receive these benefits if it (i) does not meet
+
+the definition of Adverse Conduct, as determined by a Final Order, (ii) is not a Specified Non-
+
+Released Party, and (iii) affirmatively elects to be a Preference Settlement Electing Creditor.
+
+                   141.     These defenses have the potential to reduce the amount of proceeds a
+
+litigation trustee could ultimately recover on account of the Preference Claims. Furthermore,
+
+although the Litigation Trust is being funded with $75 million to pursue the Estate Claims, it is
+
+
+193
+      11 U.S.C. § 547(c)(1),(2),(4).
+194
+      See Plan § 6.11.
+
+
+                                                   52
+      Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 53 of 56
+
+
+
+
+possible that the Litigation Trust will retain contingency counsel to prosecute the Preference
+
+Claims, which would further reduce the amount of proceeds generated from the Preference Claims.
+
+While a more detailed analysis of defenses has not yet been performed, I understand that the FBG
+
+Debtors’ advisors have analyzed total transfers which have been made to potential preference
+
+counterparties during the same period, and that gross transfers exceed these transfers by
+
+$304 million.
+
+                142.   In my experience, preference claims are often resolved without having to
+
+commence litigation. Furthermore, preference claims are often settled in a matter of weeks or
+
+months once the debtor reaches out to the creditor to make a demand or commences an adversary
+
+proceeding.     Preference litigation is typically relatively straightforward and can proceed
+
+expeditiously. Accordingly, I believe the Litigation Trust will be able to resolve a significant
+
+majority, if not all, of the Preference Claims by the second half of 2028. Based on my experience,
+
+litigation trustees recover approximately 10% of the amount of preference claims.
+
+       B.       Conclusions
+
+                143.   Based on the above and my extensive experience as a litigation trustee, I
+
+believe a litigation trustee can assert claims against the various defendants totaling in excess of
+
+$25 billion. Because of the extensive work done in the various investigations, the overlapping
+
+nature of the claims, the $75 million in initial funding provided to a litigation trustee under the
+
+FBG Debtors’ Plan, that adversary proceedings have been initiated, and the tools available to
+
+expedite proceedings through consolidation of common issues, I believe it is reasonably possible
+
+that recoveries in excess of $2 billion could be received by the end of 2028. This amount represents
+
+less than 8% of the total amount of Estate Claims that I believe could be asserted by a litigation
+
+trustee and accounts for the uncertainty and time associated with litigation, and the potential that
+
+the FBG Debtors might settle certain litigation claims for less than the asserted amounts.
+
+
+                                                53
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 54 of 56
+
+
+
+
+                  144.     Collectability: My opinion also takes into account collectability of
+
+judgments. There always is risk that a plaintiff secures a large judgment but is unable to actually
+
+collect. This risk is inherent in all litigation, but there are reasons to believe a litigation trustee
+
+will be able to collect on significant settlements or judgments involving the Estate Claims.
+
+                  145.     First, as it pertains to Patrick and Edward James, I understand they have
+
+substantial assets, including from distributions that are the subject of the Estate Claims.195 While
+
+I understand neither is currently subject to an asset freeze, both have been indicted by the federal
+
+government, and it is reasonable to conclude that the Department of Justice would take steps to
+
+prevent the Jameses from dissipating assets if that were occurring. I have extensive experience
+
+working alongside the government in matters that involved overlapping civil and criminal
+
+litigation, including with state attorneys general and US attorneys, and believe that a litigation
+
+trustee could successfully cooperate with government attorneys to further ensure collectability of
+
+recoveries. Also, as mentioned above, there are significant D&O proceeds that may be available
+
+to satisfy Insider Claims against the Jameses.
+
+                  146.     Second, as it pertains to other significant defendants, including Katsumi and
+
+LAM/Jefferies, I understand these entities are well capitalized and could sustain a significant
+
+judgment. For example, Jefferies is a publicly traded company with a market capitalization
+
+exceeding $10 billion.196
+
+                  147.     Timing: I believe it is reasonable to believe that a litigation trustee will
+
+recover sufficient funds by the end of 2028 to make the payments that I understand are required
+
+under the Plan for the Plan to become effective. The Estate Claims represent a diverse portfolio
+
+
+
+195
+      See Moore Decl. ¶ 142.
+196
+      Jefferies Fin. Grp. Inc. (JEF:US), Bloomberg, https://www.bloomberg.com/quote/JEF:US (last visited July 9,
+      2026).
+
+
+                                                       54
+        Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 55 of 56
+
+
+
+
+of claims and causes of action. While a litigation trustee will not be able to fully control the speed
+
+at which litigation proceeds, it is reasonable to anticipate that certain of the claims and causes of
+
+action will result in settlements without full litigation. Further, numerous claims, including those
+
+against Patrick James and Onset, have already been significantly investigated and are the subject
+
+of filed adversary proceedings, which will allow a litigation trustee to expeditiously seek recovery
+
+on those claims. Numerous claims are also the subject of overlapping and ongoing criminal
+
+proceedings. Based on my experience, I believe that a litigation trustee would be able to
+
+successfully cooperate with the government to further expedite recovery under the Estate Claims.
+
+                   148.     Additionally, many of the avenues of recovery share common issues and
+
+questions, such as the application and effect of the Ponzi-Scheme Presumption, the badges of
+
+fraud, and solvency issues. Given my successful experience in consolidating common issues in
+
+similar circumstances, I believe a litigation trustee could seek to have these issues resolved through
+
+consolidated and streamlined procedures that will allow for Estate Claims to be resolved more
+
+efficiently and expeditiously, recognizing that the individual due process rights of the varying
+
+defendants would have to be accounted for under any procedures established for consolidation.197
+
+Further, there are a significant number of claims that are based on theories of fraudulent transfer
+
+which have specific and discrete elements and causes of action and which can be heard by the
+
+Bankruptcy Court that may generate quicker recoveries than other Estate Claims given their nature.
+
+Additionally, based on my experience, I believe a litigation trustee could also seek to expedite
+
+matters through other methods such as (i) negotiating settlement agreements in advance of filing
+
+proceedings, (ii) seeking bilateral settlement negotiations, and (iii) entering into mediation with
+
+certain parties. Given the strength of the claims, diversity of defendants and theories of recovery,
+
+
+
+197
+      See, e.g., The Refco Litigation War, attached hereto as Exhibit C.
+
+
+                                                          55
+     Case 25-90399 Document 3190 Filed in TXSB on 07/14/26 Page 56 of 56
+
+
+
+
+significant advancement of many claims, and the potential for consolidation of common issues, I
+
+believe it is reasonable to conclude that a litigation trustee will succeed in recovering at least
+
+$2 billion on account of the Estate Claims by the end of 2028.
+
+               149.     I declare under penalty of perjury that the foregoing is true and correct to
+
+the best of my knowledge, information, and belief.
+
+
+
+ Dated: July 14, 2026                            /s/ Marc S. Kirschner
+ New York, NY                                    Marc S. Kirschner
+
+
+
+
+                                                 56
+

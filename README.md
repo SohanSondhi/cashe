@@ -59,6 +59,52 @@ Every source result is stored as an artifact plus individual assertions with pro
 
 The browser path is intentionally bounded: OpenAI chooses among visible, semantic actions, while application code controls which source, origin, route, query field, and HTTP method may be used. This makes it useful for financial portals and public-record systems without granting arbitrary web access. New portal types are added through a source-registry entry and a browser profile; see [Browser agent](docs/browser-agent.md).
 
+Evidence layer for the MONEY TALKS hackathon. Starts from an authoritative cash result. Everything else is an assertion.
+
+## The story
+
+Finance already knows what settled. The bank statement is not the mystery. The mystery is why: which invoice, which portal, which legal entity, which call. That evidence lives in five systems that disagree. A normal agent averages them into a paragraph.
+
+Cashe does not average. It starts from the authoritative cash result and treats every other source as a claim. MCP, API, browser, voice. Conflicts stay on the board. Voice is provisional. A human only sees a packet after every authorized path is exhausted.
+
+The live demo is September cash down $620k. Three expected receipts. Three channels. One legal-entity fight Cashe refuses to paper over.
+
+That is the product. The experiment is whether the same method still works when the corpus is a real bankruptcy, not a mock ERP.
+
+First Brands Group filed Chapter 11 in the Southern District of Texas. The public story is easy: founder indicted, about $2.7 billion of fake receivables, a June 2025 invoice walked from $8,976 to $463,735. A chat agent stops there. That is a category. You cannot act on a category. You cannot ask “who knew, on what day, and what cash moved after.”
+
+Cashe looks for a collision — two exclusive dollar structures on the same invoice, dated, hashed to a primary the indictment does not recite.
+
+On September 22, 2023, Katsumi asked First Brands for copies of seven invoices it had already funded. On September 25 a Romania AR analyst sent them without routing through the usual gatekeepers. None of the seven matched. The extreme pair: an invoice worth **$240.35** had been funded as **$434,997.58**. Katsumi escalated on September 27. Thereafter it funded about **$4.9 billion more**.
+
+That is the significant part. According to the CRO’s declaration, a sophisticated factor **saw the collision almost two years before the indictment’s example and the machine kept running**. $240.35 is the control failure. **$4.9 billion is the subsequent funding exposure.** That is the unit finance actually uses: a dated disagreement between books and funding, plus the cash that moved after someone compared them. A recap cannot name that date. A collision can.
+
+Hashed: CRO confirmation declaration, Dkt. 3188 ¶ 86, in [`data/research/first-brands/RESULT.json`](data/research/first-brands/RESULT.json). Discriminating files stay sealed. Allegations stay allegations. We did not beat DOJ’s private file. We showed what an evidence layer is for.
+
+## 90-second demo script
+
+**[0:00 — Opening]**
+
+We chose the money-operations track, but we did not want to prove our idea on a synthetic benchmark. So we started with the First Brands bankruptcy, where prosecutors allege billions of dollars in fake receivables, and asked a narrow, harder question on financial analysis: **could we reconstruct the moment the warning became knowable?**
+
+Cashe is a multi-agent orchestrator. It decides what evidence is missing, then dispatches Tavily research, MCP, API, browser, and voice agents. Only acquired records become evidence, and conflicting claims stay separate.
+
+We found a **seven-for-seven control failure** almost two years before the indictment’s example: every invoice Katsumi tested failed to match First Brands’ books. The starkest collision was **$240.35 on the books versus $434,997.58 funded**. After Katsumi escalated the discrepancy, roughly **$4.9 billion in additional funding** followed. The result identifies when the risk became observable and quantifies the exposure that came afterward.
+
+That is what Cashe is built to surface: not another summary of a scandal, but the dated collision between two financial records, the evidence behind it, and the exposure that followed.
+
+**[1:00 — Run the demo: ask “Why did cash decrease in September?”]**
+
+Now watch that orchestrator explain a $620,000 cash decline across MCP, API, browser, and voice.
+
+**[As the evidence appears]**
+
+It finds a missing PO, an entity conflict, and a provisional voice claim—then pauses for a human instead of inventing certainty.
+
+**[1:25 — Show the evidence board and close]**
+
+Cashe is not another agent that summarizes financial data. It shows **what happened, when the warning became knowable, and what money remained at risk**.
+
 ## Run
 
 ```bash

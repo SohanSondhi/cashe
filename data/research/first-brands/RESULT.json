@@ -1,0 +1,425 @@
+{
+  "run_id": "fb-public-2026-09-05",
+  "ran_at": "2026-09-05T18:46:00Z",
+  "status": "public_record_reconstruction",
+  "honest_verdict": {
+    "beat_doj": false,
+    "proved_absent_from_training_data": false,
+    "produced_independently_verified_new_fact": false,
+    "what_this_run_actually_did": "Hashed Moore Dkt 3188, Kirschner Dkt 3190, and Moore deck Dkt 3466. Extracted a Katsumi invoice-amount collision ($240.35 vs $434,997.58) that is not in Adv. 25-03803 Doc. 17 ¶ 54 / ¶¶ 72–74 or the public indictment example amounts. Examiner 2538-2 PDF still not retrieved."
+  },
+  "best_cashe_shaped_finding": {
+    "id": "INV-KATSUMI-2023-09-240.35",
+    "kind": "invoice_amount_mutation",
+    "status": "allegation_in_sworn_confirmation_declaration",
+    "claim": "On September 22, 2023 Katsumi asked First Brands for copies of seven invoices it had already funded. On September 25 a Romania AR analyst sent the invoices without routing them through Brumbergs or Edward James. None of the seven matched funded amounts. The extreme instance: an invoice actually worth $240.35 had been funded as $434,997.58 (more than 180,000% inflation). Katsumi escalated September 27-28 and then funded about $4.9 billion more.",
+    "why_it_matters": "Invoice-amount collision with two named dollar amounts, a dated audit path, and a named factor. Not the Doc. 17 ¶ 54 GM $179.84 / $9,271.25 example and not the public indictment June 2025 $8,976.24 / $17,826.26 / $463,734.92 example. No invoice number or customer name is given.",
+    "novelty_vs_public_indictment": "different_invoice_amounts_than_indictment_example",
+    "novelty_vs_world": "already_public_in_dkt_3188_and_3190_july_2026",
+    "source": {
+      "doc": "Declaration of Charles M. Moore, In re First Brands, Case 25-90399, Dkt. 3188 (filed July 14, 2026) ¶ 86, ECF p. 37",
+      "local": "pdfs/dkt3188.pdf",
+      "sha256": "65f355d5d2c86d23c9ba8604fbb903e6de4a3d0b7d8f59273a1dc95cb0a405d4",
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3188.0.pdf"
+    }
+  },
+  "prior_best_cashe_shaped_finding": {
+    "id": "CARNABY-FA-2025-04-04",
+    "kind": "same_day_cash_path",
+    "status": "allegation_in_civil_complaint",
+    "claim": "On April 4, 2025, SPV Carnaby FA opened the day with $4,833.98, received $67.2 million from an Onset sale-leaseback, and the same day paid approximately $17 million to the Patrick James Trust.",
+    "why_it_matters": "This is a falsifiable, three-node cash path (opening balance -> financing inflow -> insider outflow) on a single calendar day. The public indictment excerpts describe invoice fraud and enrichment generally; they do not recite this Carnaby FA day.",
+    "novelty_vs_public_indictment": "more_specific_than_indictment_excerpts",
+    "novelty_vs_world": "already_public_in_adv_25-03803_doc_17",
+    "source": {
+      "doc": "First Brands v. James, Adv. Proc. No. 25-03803, Doc. 17 (filed Nov. 3, 2025) ¶ 72",
+      "local": "pdfs/james-complaint-bloomberg.pdf",
+      "sha256": "6c88789e539c6bdf4b9d4c5284a901fb376b6f1971de11eefee8c3156ac766a2",
+      "url": "https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rW0IW_F6VoJY/v0"
+    }
+  },
+  "strongest_candidate_pending_primary": {
+    "id": "CARDONE-AEQUUM-BOWERY",
+    "kind": "title_vs_cash_path",
+    "status": "secondary_report_of_admission_and_pi_observations",
+    "claim": "Aequum lent about $43.8 million to SPV Broad Street against Cardone inventory First Brands purported to sell. Debtors' May 4, 2026 amended answer (Adv. 26-03091 ECF 25) is reported to admit FBG did not have an interest in the goods it purported to sell. Jerneycic is reported to have found about $42.9 million routed through Bowery Finance II. Judge Lopez signed a PI on June 25, 2026 (ECF 140; amended ECF 174 on Aug 3) and is reported to have observed that substantially all proceeds went to Bowery, no funds reached Cardone, and the record lacked transfer documents — while not deciding ultimate ownership. Aequum later liquidated the inventory for about $20 million.",
+    "why_it_matters": "Named asset (Cardone inventory) plus named cash path (Aequum -> Broad Street -> Bowery) plus a reported debtor admission of no title. Not in the public indictment or first-day declaration at this granularity.",
+    "novelty_vs_public_indictment": "instance_not_named_in_indictment",
+    "novelty_vs_world": "already_reported_by_octus_may_june_2026",
+    "source_quality": "Octus citing Adv. 26-03091. CourtListener docket 73132045 confirms ECF 25 (amended answer, May 4 2026), ECF 30 (PI motion, May 5), ECF 140 (PI order, June 25), ECF 174 (amended PI, Aug 3). Zero RECAP copies; PI exhibits ECF 35/86-90/110 sealed. No primary PDF retrieved.",
+    "urls": [
+      "https://octus.com/resources/articles/first-brands-prepetition-lenders-seek-preliminary-injunction-to-freeze-aequum-sale-proceeds/",
+      "https://octus.com/resources/articles/court-grants-prepetition-lenders-preliminary-injunction-against-spv-lender-aequum-escrows-cardone-liquidation-proceeds/"
+    ]
+  },
+  "collisions": [
+    {
+      "id": "INV-BPI-GM-2025-05-09",
+      "kind": "invoice_amount_mutation",
+      "status": "allegation",
+      "facts": {
+        "seller": "Brake Parts Inc. LLC",
+        "customer": "General Motors Corporation SPO",
+        "invoice_date": "2025-05-09",
+        "books_amount_usd": 179.84,
+        "nominated_date": "2025-05-19",
+        "nominated_amount_usd": 9271.25,
+        "factor": "Katsumi Global, LLC d/b/a Ja Mitsui Capital America",
+        "package_purchased_usd": 11180000,
+        "package_actual_usd": 2300000
+      },
+      "source": "Adv. 25-03803 Doc. 17 ¶ 54",
+      "in_public_indictment": "mechanism_yes_this_invoice_not_seen_in_indictment_excerpts"
+    },
+    {
+      "id": "INV-KATSUMI-2023-09-240.35",
+      "kind": "invoice_amount_mutation",
+      "status": "allegation_in_sworn_confirmation_declaration",
+      "facts": {
+        "factor": "Katsumi",
+        "audit_request_date": "2023-09-22",
+        "romania_analyst_response_date": "2023-09-25",
+        "sample_size": 7,
+        "sample_match": "none_of_seven_matched",
+        "books_amount_usd": 240.35,
+        "funded_amount_usd": 434997.58,
+        "inflation_pct_claimed": ">180000",
+        "follow_on_funding_after_audit_usd": 4900000000
+      },
+      "source": "Moore confirmation decl. Dkt 3188 ¶ 86, ECF p. 37; repeated Kirschner Dkt 3190 ¶ 42, ECF pp. 15-16",
+      "local": "pdfs/dkt3188.pdf",
+      "sha256": "65f355d5d2c86d23c9ba8604fbb903e6de4a3d0b7d8f59273a1dc95cb0a405d4",
+      "in_adv_25-03803_doc17_para54_or_72_74": false,
+      "in_public_indictment_example_amounts": false,
+      "named_invoice_number": null
+    },
+    {
+      "id": "CARNABY-FA-2025-04-04",
+      "kind": "same_day_cash_path",
+      "status": "allegation",
+      "facts": {
+        "entity": "Carnaby FA (under Viceroy Private Capital, LLC)",
+        "date": "2025-04-04",
+        "opening_usd": 4833.98,
+        "onset_inflow_usd": 67200000,
+        "trust_outflow_usd": 17000000
+      },
+      "source": "Adv. 25-03803 Doc. 17 ¶ 72"
+    },
+    {
+      "id": "CARNABY-IV-2025-01-15",
+      "kind": "same_day_cash_path",
+      "status": "allegation",
+      "facts": {
+        "entity": "Carnaby Inventory IV LLC",
+        "date": "2025-01-15",
+        "opening_usd": 22137.4,
+        "onset_inflow_usd": 192000000,
+        "trust_outflow_usd": 25000000
+      },
+      "source": "Adv. 25-03803 Doc. 17 ¶ 73"
+    },
+    {
+      "id": "CARNABY-IV-2025-03-10",
+      "kind": "same_day_cash_path",
+      "status": "allegation",
+      "facts": {
+        "entity": "Carnaby Inventory IV LLC",
+        "dates": ["2025-03-10", "2025-03-12", "2025-03-13", "2025-03-17"],
+        "onset_inflows_usd": [115200000, 57600000],
+        "trust_outflows_usd": [35000000, 35000000],
+        "balance_2025-03-17_usd": 2952.95
+      },
+      "source": "Adv. 25-03803 Doc. 17 ¶ 74"
+    },
+    {
+      "id": "INVENTORY-DOUBLE-USE",
+      "kind": "collateral_used_in_two_structures",
+      "status": "allegation_not_court_holding",
+      "facts": {
+        "claim": "Inventory purportedly transferred to SPVs for Evolution and Onset allegedly remained on First Brands subsidiary balance sheets and in the ABL borrowing base.",
+        "evolution_loan_usd": 240000000,
+        "represented_inventory_usd": 370000000,
+        "bowery_finance_ii_flow_2022_2025_usd": 12000000000,
+        "named_sku_vin_warehouse_in_two_structures": null,
+        "moore_first_day": {
+          "patterson_facility_date": "2023-11-09",
+          "starlight_facility_date": "2024-03-28",
+          "inventory_held_2025-08-02_usd": 376000000,
+          "evolution_principal_outstanding_usd": 230000000,
+          "onset_master_lease": "OFI1445416",
+          "para_61": "Evolution inventory may have been commingled with the inventory of the FBG Debtors prior to the Petition Date.",
+          "para_95": "certain inventory subject to a security interest in favor of Evolution pursuant to the Evolution Facilities may have been commingled with collateral securing the ABL Facility."
+        }
+      },
+      "source": "Adv. 25-03803 Doc. 17 ¶¶ 59-60; Moore first-day decl. Dkt. 22 ¶¶ 59-64, 95"
+    },
+    {
+      "id": "EVOLUTION-UCC-VS-MRPA-5G",
+      "kind": "contract_vs_ucc_collision",
+      "status": "court_holding",
+      "facts": {
+        "holding_date": "2026-05-29",
+        "case": "Evolution v. First Brands, Adv. No. 26-03006 (Bankr. S.D. Tex.)",
+        "contract": "MRPA § 5(G) granted a security interest in all receivables, including non-purchased.",
+        "ucc_1": "Ohio, Delaware, and New York UCC-1s described only 'any and all present and future Receivables transferred or purported to be transferred' defined as Purchased Receivables, with a Seller/Buyer designation.",
+        "result": "Court held Evolution does not have a perfected security interest in approximately $60.5 million of non-purchased receivables with priority over DIP lenders."
+      },
+      "source": "Hashed S.D. Tex. opinion quoting the SJ order: Evolution Credit Partners v. First Brands, No. H-26-4705, Doc. 25 (July 27, 2026). Collateral-box paraphrase still from King & Spalding; SJ order itself is Adv. 26-03006 Doc 67 / appeal DE 1-1, not in RECAP.",
+      "in_jan_2026_public_indictment": false,
+      "order_pdf_status": "SJ order Doc 67 / DE 1-1 not retrieved; holding quoted in hashed Doc 25",
+      "hashed_quoting_opinion": {
+        "local": "pdfs/sdtx-4-26-cv-04705-doc25.pdf",
+        "sha256": "8c49c9766760c477400778836c2ba499eff83fc0236aeec90b3271801ab50e5e",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2091630/gov.uscourts.txsd.2091630.25.0.pdf",
+        "quotes": [
+          "The Bankruptcy Court held that Evolution 'does not have a perfected security interest in the non-purchased receivables with priority over the postpetition debtor-in-possession financing lenders’ interest in those receivables.' (Docket Entry No. 1-1 at 11).",
+          "The Bankruptcy Court concluded that the financing statement’s 'collateral description cannot be reasonably interpreted to include the non-purchased receivables.' (Docket Entry No. 1-1 at 22).",
+          "The Bankruptcy Court reiterated that the 'financing statements don’t say what Evolution wants them to say.' (Id. at 19)."
+        ]
+      },
+      "related_adequacy_opinion": {
+        "case": "In re First Brands, No. H-26-73 (S.D. Tex. Jan. 31, 2026) (Rosenthal)",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-txsd-4_26-cv-00073/pdf/USCOURTS-txsd-4_26-cv-00073-0.pdf",
+        "local": null,
+        "note": "Remand on adequate protection. Quotes debtor representation that Evolution $60.5M unpaid factored receivables do not match valid invoices. That is a party representation, not a finding that invoices were fake."
+      }
+    },
+    {
+      "id": "CASH-VS-DEBT-AT-FILING",
+      "kind": "balance_sheet_gap",
+      "status": "sworn_first_day_numbers",
+      "facts": {
+        "petition_dates": ["2025-09-24", "2025-09-28"],
+        "reported_2024_net_sales_usd": 5000000000,
+        "on_balance_funded_debt_usd": 6100000000,
+        "off_balance_spv_usd": 2300000000,
+        "scf_usd": 800000000,
+        "factoring_liabilities_usd": 2300000000,
+        "cash_in_corporate_accounts_usd": 12000000
+      },
+      "source": "First-day declaration Dkt. 22; complaint ¶ 12"
+    },
+    {
+      "id": "CARDONE-AEQUUM-BOWERY",
+      "kind": "title_vs_cash_path",
+      "status": "secondary_pending_primary_pdfs",
+      "facts": {
+        "lender": "Aequum Capital Financial II LLC",
+        "spv": "Broad Street Financial",
+        "asset": "Cardone Industries inventory",
+        "loan_usd": 43800000,
+        "reported_bowery_routing_usd": 42900000,
+        "reported_liquidation_usd": 20000000,
+        "adversary": "4:26-ap-03091",
+        "reported_debtor_admission": "May 5 2026 amended answer: FBG did not have an interest in the goods it purported to sell",
+        "aequum_position": "Permitted disposition under ABL section 7.05; inventory on Broad Street ledger; no overlapping borrowing-base pledge"
+      },
+      "source": "Octus May 7 and June 17 2026; PACER caption 4:26-ap-03091"
+    }
+  ],
+  "doj_public_holdout": {
+    "unsealed": "2026-01-29",
+    "caption": "United States v. Patrick James & Edward James, 26 Cr. 29 (S.D.N.Y.)",
+    "url": "https://www.justice.gov/usao-sdny/pr/first-brands-executives-charged-multibillion-dollar-fraud",
+    "local_pdf": "pdfs/doj-indictment.pdf",
+    "local_pdf_note": "Scanned image PDF; text layer empty. Use DOJ press release plus prior OCR extract.",
+    "sha256": "595f272f7875975cb081b96901802e9525a3e961438918840102e9c17174de48",
+    "alleged_in_public_record": [
+      "fake and inflated invoices",
+      "double-pledged invoices",
+      "AP round trips / corporate initiatives",
+      "concealed liabilities",
+      "double- and triple-pledged collateral",
+      "approximately $2.7 billion fake accounts receivable held by third-party factors",
+      "example: June 2025 customer invoice $8,976.24 sold as $17,826.26 then again as $463,734.92"
+    ]
+  },
+  "local_corpus": {
+    "dir": "data/research/first-brands/pdfs",
+    "files": [
+      {
+        "name": "first-day-declaration-dkt22.pdf",
+        "sha256": "0246d14f7ce75c58904539d2506100b080aa04a886598462a2789c4481befb66",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.22.0.pdf"
+      },
+      {
+        "name": "examiner-motion-dkt307.pdf",
+        "sha256": "7930d9ef986353c1a5bc1036bce749ee529f98d4e2755f42a231f0bbb6bbd942",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.307.0.pdf"
+      },
+      {
+        "name": "james-complaint-bloomberg.pdf",
+        "sha256": "6c88789e539c6bdf4b9d4c5284a901fb376b6f1971de11eefee8c3156ac766a2",
+        "url": "https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/rW0IW_F6VoJY/v0",
+        "docket": "Adv. 25-03803 Doc. 17 filed 2025-11-03"
+      },
+      {
+        "name": "doj-indictment.pdf",
+        "sha256": "595f272f7875975cb081b96901802e9525a3e961438918840102e9c17174de48",
+        "url": "https://www.justice.gov/usao-sdny/media/1425811/dl"
+      },
+      {
+        "name": "first-day-transcript-dkt307-2.pdf",
+        "sha256": "33934d25e7752c69e405336b08602e9399d718373edd8ed92ec178936a49fa75",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.307.2.pdf"
+      },
+      {
+        "name": "doj-unsealing-order.pdf",
+        "sha256": "1aeefef34929716e4ef509375dfacff7511f218d6370a2f619834e016ca39f2b",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.656995/gov.uscourts.nysd.656995.3.0_1.pdf"
+      },
+      {
+        "name": "dkt3188.pdf",
+        "sha256": "65f355d5d2c86d23c9ba8604fbb903e6de4a3d0b7d8f59273a1dc95cb0a405d4",
+        "pages": 112,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3188.0.pdf"
+      },
+      {
+        "name": "dkt3190.pdf",
+        "sha256": "99366893459aaf31a82bcfaa3cb694be19dd6d67c9482226ec2defb12492f9ab",
+        "pages": 56,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3190.0.pdf"
+      },
+      {
+        "name": "dkt3466.pdf",
+        "sha256": "7e24201c606e5759a24cd0507ede5b59b5e0f25a8276246c5c5ae3eb706bdf77",
+        "pages": 12,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3466.0.pdf"
+      }
+    ]
+  },
+  "gaps": {
+    "unit_level_sku_vin_warehouse": "none_found_in_fetched_public_primaries",
+    "may_29_2026_sj_order_adv_26-03006": "adv_doc_67_or_sdtx_4-26-cv-04705_de_1-1_cl_73483040_not_in_recap",
+    "evolution_ucc1_search": "no_file_numbers_in_any_primary_search_ohio_ucc.ohiosos.gov_and_ny_dos_by_debtor_name_de_requires_authorized_searcher_try_champion_and_champions_laboratories",
+    "doc_3644_march_2024_borrowing_base_excel": "cataloged_filed_under_seal_ecf_851-94_through_851-156",
+    "katsumi_may_19_nomination_sheet": "not_on_public_exhibit_lists_sample_po_sealed_as_3443_ex31",
+    "carnaby_fa_apr25_bank_statement": "cataloged_as_dx779_bates_FBG_CH1_00162277_reserved_or_sealed",
+    "examiner_report_public": "dkt_2538_ex_b_redacted_quoted_by_dkt_2705_at_pp_4_and_94_pdf_not_retrieved_sealed_is_2479_and_2539",
+    "jerneycic_jan_11_2026_decl": "press_paraphrase_only_pending_primary",
+    "adv_26-03091_amended_answer_and_pi_order": "ecf_25_may4_ecf_140_june25_ecf_174_aug3_zero_recap_copies",
+    "evolution_ucc1_file_numbers": "kslaw_paraphrase_only_no_ohio_de_ny_images",
+    "eugenia_wal_nyscef_complaints": "index_651123_2026_and_wal_mar_2026_confirmed_no_public_pdf_no_invoice_ids_unicourt_wire_report_walled"
+  },
+  "primary_hunt": {
+    "started_at": "2026-09-05T18:50:00Z",
+    "finished_at": "2026-09-05T19:00:00Z",
+    "verdict": "cataloged_the_collision_documents_they_are_sealed_or_not_in_recap_no_new_invoice_level_collision",
+    "subagents": ["189a5b0c-8733-47a3-9e80-eff6cf4caee5", "bc0db405-b0c2-4c68-89dd-58d59aaf1f76", "4775b8ec-cb10-44e4-ab1e-191a62dd8d51", "7566826a-81ae-43cb-97a7-30ad3cdb66a3", "78fbf3c5-85a4-4032-b4f7-8a9945176fee"],
+    "hashed_this_hunt": [
+      {
+        "name": "joint-exhibit-list-dkt3644.pdf",
+        "sha256": "74b1c51ef5b61b30e406a79631e5fbb643c3f9944999af339a7e2605103ba37c",
+        "pages": 41,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3644.0.pdf"
+      },
+      {
+        "name": "carnaby-exhibit-list-dkt3470.pdf",
+        "sha256": "03a738a8be1b73aaff6ca0a00521fda7cc03e2485b0e5e3ec640e2fea4482173",
+        "pages": 14,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3470.0.pdf"
+      },
+      {
+        "name": "katsumi-exhibit-list-dkt3443.pdf",
+        "sha256": "8e34a22615a2b43d30f008a40de3c66c386ba2a8d11d376cf1c529ff64ad7987",
+        "pages": 6,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsb.487046/gov.uscourts.txsb.487046.3443.0.pdf"
+      },
+      {
+        "name": "sdtx-4-26-cv-04705-doc25.pdf",
+        "sha256": "8c49c9766760c477400778836c2ba499eff83fc0236aeec90b3271801ab50e5e",
+        "pages": 5,
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.txsd.2091630/gov.uscourts.txsd.2091630.25.0.pdf"
+      }
+    ],
+    "sealed_or_reserved_with_bates": [
+      {
+        "what": "March 2024 Carnaby II borrowing base + Excel",
+        "cite": "Carnaby Exs. 51-52, ECF 851-94 and 851-95",
+        "status": "FILED UNDER SEAL"
+      },
+      {
+        "what": "March 2024 Carnaby Inventory III borrowing base + Excel",
+        "cite": "Carnaby Exs. 53-54, ECF 851-155 and 851-156",
+        "status": "FILED UNDER SEAL"
+      },
+      {
+        "what": "Carnaby FA April 2025 bank statement",
+        "cite": "DX 779, Bates FBG_CH1_00162277",
+        "status": "Reserved / not attached in the clear"
+      },
+      {
+        "what": "Carnaby IV April 2025 statement",
+        "cite": "DX 744, Bates FBG_CH1_00161921",
+        "status": "Reserved"
+      },
+      {
+        "what": "Katsumi RPA, amendments, true-sale opinion, sample purchase order",
+        "cite": "Katsumi Exs. 26-31, Dkt 3443; sample PO Bates FBG_KATSUMI_00147418",
+        "status": "FILED UNDER SEAL"
+      },
+      {
+        "what": "May 2025 letter to Katsumi Servicing",
+        "cite": "DX 252, Bates FBG_CH1_00103867",
+        "status": "Reserved"
+      },
+      {
+        "what": "Approved ROUNDTRIP Master spreadsheet",
+        "cite": "DX 226, Bates FBG_CH1_00098197",
+        "status": "listed_not_in_unsealed_3644_attachments"
+      },
+      {
+        "what": "Examiner report (sealed vs public)",
+        "cite": "notice 2478 (Apr 17); sealed Ex A = 2479 and 2539; public redacted Ex B = 2538-2 (Apr 27)",
+        "status": "2538-2_identified_not_downloaded_quoted_in_dkt_2705"
+      },
+      {
+        "what": "Adv. 26-03091 no-title admission and PI",
+        "cite": "ECF 25 amended answer May 4 2026; ECF 30 PI motion May 5; ECF 140 PI June 25; ECF 174 amended PI Aug 3",
+        "status": "docketed_zero_recap_copies_pi_exhibits_sealed"
+      },
+      {
+        "what": "Adv. 26-03006 May 29 2026 SJ order",
+        "cite": "Doc 67 on CL 72124142 / pacer 490833; also attached as DE 1-1 in S.D. Tex. 4:26-cv-04705 (CL 73483040 / pacer 2091630)",
+        "status": "not_in_recap"
+      },
+      {
+        "what": "A&M Summary of Findings April 2026",
+        "cite": "Katsumi Ex. 34 / Carnaby Ex. 63, Bates FBG_CH1_00206939",
+        "status": "FILED UNDER SEAL"
+      }
+    ],
+    "blockers": [
+      "The invoice- and SKU-level exhibits that would meet the crazy bar are filed under seal (borrowing-base Excels, Katsumi RPA/sample PO, A&M findings, Carnaby FA statements).",
+      "Adv. 26-03091 is CourtListener docket 73132045; RECAP has only summons entries (is_available=false).",
+      "Evolution UCC-1 images were not on any free docket; King & Spalding paraphrases collateral text but gives no file numbers.",
+      "CourtListener 429'd further RECAP pulls after the 3644 attachment dump. Public examiner report is Dkt 2538 and remains the best unsealed unread primary."
+    ],
+    "courtlistener": {
+      "aequum_docket": "https://www.courtlistener.com/docket/73132045/bank-of-america-na-v-aequum-capital-financial-ii-llc/",
+      "lead_docket": "https://www.courtlistener.com/docket/71483359/first-brands-group-llc-and-wem-us-co/",
+      "kroll": "https://restructuring.ra.kroll.com/firstbrands/Home-DocketInfo"
+    }
+  },
+  "corrections_to_secondary_sources": [
+    {
+      "claim": "Footnote Brief dated the GM invoice May 9, 2024.",
+      "primary": "Complaint ¶ 54 says May 9, 2025 and nomination May 19, 2025.",
+      "url": "https://footnotebrief.com/first-brands-group-private-credit-disclosure/"
+    }
+  ],
+  "next_discriminating_documents": [
+    "Katsumi nomination spreadsheet for May 19, 2025 (invoice-level)",
+    "Carnaby FA and Carnaby IV bank statements for Apr 4 / Jan 15 / Mar 10-17 2025",
+    "Evolution UCC-1s in OH/DE/NY and MRPA § 5(G)",
+    "March 2024 borrowing-base Excel from joint exhibit list Doc. 3644",
+    "Onset funding advices matching the same-day Trust wires",
+    "Adv. 26-03006 Doc 67 or 4:26-cv-04705 DE 1-1 (CL 73483040) May 29 2026 SJ order",
+    "Ohio ucc.ohiosos.gov and NY DOS UCC search by debtor name (Champion and Champions Laboratories); DE via Authorized Searcher",
+    "Jerneycic Jan. 11 2026 declaration on Evolution borrowing-base overstatement",
+    "Adv. 26-03091 ECF 25 May 4 2026 amended answer (verbatim no-title admission)",
+    "Adv. 26-03091 ECF 140 June 25 2026 PI order and ECF 174 Aug 3 amended PI",
+    "Examiner public redacted Dkt 2538-2 (quoted in Dkt 2705 at pp. 4 and 94)"
+  ]
+}

@@ -1,0 +1,17 @@
+Hi,
+You have hit this error because you attempted to gather too many
+documents from CourtListener during a given block of time.
+Unfortunately, it costs us money every time somebody downloads
+something, so we have to be careful that folks don't run up our bills
+too much.
+It's easy to forget in this digital era that computers are made of sand
+and metal and that real electrons course through their veins. But it's
+true, and when you have as many documents as we do, it's a real
+possibility that somebody might come along and use more of that
+raw matter than you can afford.
+If you are an individual that is hitting this error, please know that it
+will automatically reset within a few minutes. Sorry about this.
+If you are a partner or a data scraper that needs enhanced access to
+our data, let's talk if we haven't already: info@free.law.
+Sorry for the trouble,
+The Bots at Free Law Project

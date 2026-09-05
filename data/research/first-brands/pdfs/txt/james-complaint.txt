@@ -1,0 +1,1870 @@
+         Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 1 of 35
+
+
+
+
+                        IN THE UNITED STATES BANKRUPTCY COURT
+                          FOR THE SOUTHERN DISTRICT OF TEXAS
+                                   HOUSTON DIVISION
+
+---------------------------------------------------------------x----------------------------------------------------
+                                                               :
+In re                                                          :        Chapter 11
+                                                               :
+FIRST BRANDS GROUP, LLC, et al.,1                              :        Case No. 25-90399 (CML)
+                                                               :
+                  Debtors.                                     :        (Jointly Administered)
+                                                               :
+                                                               :
+---------------------------------------------------------------x-----------------------------------------------------
+                                                               :
+FIRST BRANDS GROUP, LLC, et al.,                               :
+                                                               :
+                  Plaintiffs,                                  :        Adv. Pro. No. 25-______ (CML)
+                                                               :
+v.                                                             :
+                                                               :
+PATRICK JAMES, THE PATRICK JAMES                               :
+TRUST, ALBION REALTY, LLC,                                     :
+ALESTER TECHNOLOGIES LLC,                                      :
+BATTERY PARK HOLDINGS LLC, BOND                                :
+STREET ASSET MANAGEMENT LLC,                                   :
+IGNITE ACQUISITION HOLDINGS LLC,                               :
+LARCHMONT LLC,                                                 :
+PEGASUS AVIATION, LLC,                                         :
+JOHN AND JANE DOE(S) 1-100, and ABC                            :
+CORPORATION(S) 1-100,                                          :
+                                                               :
+                  Defendants.                                  :
+                                                               :
+
+
+
+
+1
+ A complete list of Debtors in these chapter 11 cases may be obtained on the website of Debtors’
+claims and noticing agent at https://restructuring.ra.kroll.com/firstbrands. Debtors’ service address
+for these chapter 11 cases is 127 Public Square, Suite 5300, Cleveland, OH 44114.
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 2 of 35
+
+
+
+
+                                          COMPLAINT
+
+       First Brands Group, LLC and its debtor affiliates (“Debtors” or “Plaintiffs,” and together
+
+with Debtors’ non-debtor affiliates, “First Brands” or “Company”), as debtors and debtors-in-
+
+possession in the above-captioned chapter 11 cases, by their attorneys, Weil, Gotshal & Manges
+
+LLP, file this adversary proceeding against Patrick James, the Patrick James Trust, Albion Realty,
+
+LLC, Alester Technologies LLC, Battery Park Holdings LLC, Bond Street Asset Management
+
+LLC, Ignite Acquisition Holdings LLC, Larchmont LLC, Pegasus Aviation, LLC, John and Jane
+
+Doe(s) 1-100, and ABC Corporation(s) 1-100 (together, “Defendants”). Debtors allege as follows:
+
+                                 NATURE OF THE ACTION
+
+       1.      This action concerns grievous misconduct by Patrick James, the founder and former
+
+Chief Executive Officer of First Brands, who fraudulently secured billions of dollars of financing
+
+for First Brands, only to turn around and enrich himself and his family by misappropriating
+
+hundreds of millions (if not billions) of dollars from First Brands, which contributed to First
+
+Brands being insolvent and out of cash.
+
+       2.      Founded by Mr. James in 2013, First Brands—spanning five continents and
+
+comprising over 100 entities, all 100% indirectly owned by Mr. James—is a leading global
+
+supplier of aftermarket automotive parts, including brakes, filters, wipers, lights, pumps, and
+
+towing solutions. First Brands employs approximately 26,000 individuals worldwide and
+
+purported to generate net sales of approximately $5 billion in 2024.
+
+       3.      Hiding behind First Brands’ legitimate business lines, Mr. James—who resigned
+
+from his role as Chief Executive Officer on October 13, 2025—commandeered the enterprise to
+
+engage in a fraudulent conduct to enrich himself and his family at the expense of Debtors and their
+
+creditors. While Debtors’ investigation into the full extent of Mr. James’ actions remains ongoing,
+
+
+
+
+                                                2
+         Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 3 of 35
+
+
+
+
+preliminary findings already show that Mr. James misrepresented First Brands’ financial position
+
+to secure billions in debt financing that he then inappropriately used for his personal use.
+
+        4.       Specifically, Mr. James, working with others, deployed at least two discrete
+
+strategies to perpetuate this fraud and secure financing from third-party lenders.
+
+        5.       First, Mr. James caused First Brands to incur at least $2.3 billion in accounts
+
+receivable factoring liabilities based, at least in significant part, on non-existent or doctored
+
+invoices.
+
+        6.       Second, Mr. James engaged in financing transactions involving special purpose
+
+vehicles (“SPVs”), which incurred another at least $2.3 billion in debt, including by double-
+
+pledging collateral that First Brands could not itself borrow against a second time.
+
+        7.       After having secured this financing, Mr. James did not use all of those funds for the
+
+benefit of Debtors. Rather, Mr. James—aided and abetted by the other Defendants, including Jane
+
+and John Does 1-100 and ABC Corporations 1-100—secretly pilfered some of the Company’s
+
+assets to fund his and his family’s lavish lifestyle. In short, he lined his pockets at the expense of
+
+First Brands and its creditors.
+
+        8.       For example, hundreds of millions of dollars were transferred from First Brands,
+
+directly to Mr. James or his affiliated entities from 2018 to 2025, with the majority of such
+
+transfers occurring between 2023 and 2025. The Debtors also understand that during this
+
+period, funds may have been transferred into the Company from Mr. James or his affiliated
+
+entities, but Mr. James has never provided a comprehensive accounting of the amounts or
+
+purposes of all of the transfers made between and among First Brands and Mr. James and his
+
+affiliated entities.
+
+        9.       Similarly, from 2021 through 2025, First Brands transferred approximately $8
+
+
+
+
+                                                   3
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 4 of 35
+
+
+
+
+million from First Brands to his son-in-law’s “wellness” company, Archive Health LLC (“Archive
+
+Health”). At least one transfer to Archive Health was requested by Mr. James’ son-in-law to help
+
+“cover payroll.” It is unclear if fair value was received by First Brands for the funds transferred to
+
+Archive Health.
+
+       10.     Upon information and belief, Mr. James and his family are also believed to have
+
+used the misappropriated funds to pay for or otherwise maintain, among other personal expenses,
+
+an extensive collection of lavish homes and cars.
+
+       11.     In a rinse and repeat cycle, Mr. James caused First Brands to fraudulently incur debt
+
+financing only to then divert—routinely and regularly—funds from the Debtors for his and his
+
+family’s personal benefit. On information and belief, these funds have not been returned by Mr.
+
+James to First Brands and contributed to First Brands’ insolvency. Aside from entries in the
+
+Company’s general ledger, the Company’s advisors are unaware of any formal documentation
+
+indicating that these payments constituted dividends or distributions in the ordinary course.
+
+       12.     The results of Mr. James’ actions culminated on September 24, 2025 and September
+
+28, 2025 (“Petition Date”), when First Brands Group, LLC and 111 affiliated Debtors each filed
+
+with the Court a voluntary case under chapter 11 of Title 11 of the United States Code
+
+(the “Bankruptcy Code”), commencing the above-captioned chapter 11 cases. At that time, First
+
+Brands—which is comprised of entities believed to have had approximately $5 billion in net
+
+annual sales and approximately $9.3 billion in total debt obligations—held just $12 million in cash
+
+in its corporate bank accounts as of the commencement of the Debtors’ chapter 11 cases, a
+
+staggering dissipation of assets.
+
+       13.     Mr. James would have continued unabated if certain lenders had not, in July 2025,
+
+started asking questions and demanding a quality of earnings report before they would consider
+
+
+
+
+                                                  4
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 5 of 35
+
+
+
+
+issuing any additional debt financing to First Brands. It soon became clear that the quality of
+
+earnings report would not be done in any period of time necessary for a refinancing. With the
+
+pipeline of future financing screeched to a halt, Debtors were exposed as undercapitalized and
+
+unable to meet their most basic payment obligations—including employee payroll. This led to,
+
+among other things, the appointment of an independent special committee (“Special Committee”)
+
+and commencement of the ongoing investigation that continues to uncover the full extent of Mr.
+
+James’ and others’ misconduct.
+
+       14.     While the investigation into Mr. James’ misconduct is ongoing, it is already clear
+
+that Mr. James’ actions contributed to First Brands’ insolvency. He is now reported to be the subject
+
+of an investigation by the United States Attorney for the Southern District of New York, and others,
+
+concerning potential misconduct related to First Brands’ financing.2
+
+       15.     Debtors bring this action to recover significant sums of money—totaling what
+
+Debtors currently believe to be in the hundreds of millions, if not billions of dollars, from Patrick
+
+James, the Patrick James Trust, business entities controlled by Mr. James (Albion Realty, LLC,
+
+Alester Technologies LLC, Battery Park Holdings LLC, Bond Street Asset Management LLC,
+
+Ignite Acquisition Holdings LLC, Larchmont LLC, Pegasus Aviation, LLC), John and Jane Doe(s)
+
+1-100, and ABC Corporation(s) 1-100, for the benefit of Debtors’ estates and their creditors.
+
+Debtors are simultaneously moving the Court for immediate relief to freeze any and all assets
+
+owned or controlled by Defendants or any other entities under their control, before those moneys
+
+are irrevocably and irretrievably gone.
+
+
+
+
+2
+ Alexander Gladstone & Alicia McElhaney, Bankrupt Auto Supplier First Brands Faces
+Criminal Investigation, Wall St. J. (Oct. 9, 2025), https://www.wsj.com/articles/first-brands-
+creditor-raistone-seeks-probe-into-vanished-2-3-billion-5ae03547.
+
+
+
+                                                 5
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 6 of 35
+
+
+
+
+                                        THE PARTIES
+
+    A. Plaintiffs
+
+       16.     Plaintiff First Brands Group, LLC is a Delaware limited liability company with its
+
+principal place of business in Cleveland, Ohio.3 Founded by Patrick James in 2013, First Brands—
+
+through its operating subsidiaries and portfolio of brands—is a leading global supplier of
+
+aftermarket automotive parts, including brakes, filters, wipers, lighting, pumps, and towing
+
+products. First Brands employs approximately 26,000 people worldwide, including nearly 6,000
+
+in the United States.
+
+    B. Defendants
+
+       17.     Defendant Patrick James was the Chief Executive Officer of First Brands since he
+
+founded the company in 2013 until October 13, 2025, following his resignation. Upon information
+
+and belief, Mr. James is a Malaysian national who resides in the state of Ohio.
+
+       18.     Defendant Patrick James Trust was created on March 10, 2005 with Patrick James
+
+as Grantor and Thomas A. Haught as Trustee.
+
+       19.     Defendant Albion Realty, LLC, incorporated on August 4, 2020, is a Delaware
+
+limited liability company under the control of Patrick James.
+
+       20.     Defendant Alester Technologies LLC, incorporated on May 18, 2020, is a Delaware
+
+limited liability company under the control of Patrick James.
+
+       21.     Defendant Battery Park Holdings LLC, incorporated on May 30, 2012, is a
+
+Delaware limited liability company under the control of Patrick James.
+
+       22.     Defendant Bond Street Asset Management LLC, incorporated on October 24, 2022,
+
+
+
+3
+  The remaining Plaintiffs are First Brands Group, LLC’s debtor affiliates, as described in the
+caption of this action.
+
+
+
+                                                6
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 7 of 35
+
+
+
+
+is a Delaware limited liability company under the control of Patrick James.
+
+       23.     Defendant Ignite Acquisition Holdings LLC, incorporated on August 25, 2023, is a
+
+Delaware limited liability company under the control of Patrick James.
+
+       24.     Defendant Larchmont LLC, incorporated on April 17, 2006, is an Ohio limited
+
+liability company under the control of Patrick James.
+
+       25.     Defendant Pegasus Aviation, LLC, incorporated on August 24, 2021, is a Delaware
+
+limited liability company under the control of Patrick James.
+
+       26.     Defendants John and Jane Doe(s) 1-100 are persons yet to be identified that, on
+
+information and belief, received fraudulent transfers and/or participated or aided and abetted in
+
+various frauds committed by Defendants. Debtors will amend this Complaint to show the true
+
+names and capacities of John and Jane Doe(s) 1-100 when the same have been ascertained.
+
+       27.     Defendants ABC Corporation(s) 1-100 are business entities or trusts yet to be
+
+identified that, on information and belief, received fraudulent transfers and/or participated or aided
+
+and abetted in various frauds committed by Defendants. Debtors will amend this Complaint to
+
+show the true names and capacities of ABC Corporation(s) 1-100 when the same have been
+
+ascertained.
+
+                                 JURISDICTION AND VENUE
+
+       28.     The United States Bankruptcy Court for the Southern District of Texas (the
+
+“Bankruptcy Court” or the “Court”) has jurisdiction over this adversary proceeding pursuant to
+
+28 U.S.C. § 1334.
+
+       29.     This adversary proceeding is commenced pursuant to Sections 105(a), 502, 542,
+
+544, 548, 550, and 551 of Title 11 of the United States Code (the “Bankruptcy Code”), Rules
+
+3007, 6009, and 7001 of the Federal Rules of Bankruptcy Procedure (the “Bankruptcy Rules”),
+
+
+
+
+                                                  7
+          Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 8 of 35
+
+
+
+
+Rule 7008-1 of the Local Rules of the Bankruptcy Court (the “Local Rules”), and applicable non-
+
+bankruptcy law.
+
+          30.   This adversary proceeding is a core proceeding under 28 U.S.C. §§ 157(b)(2)(A),
+
+(B), (H), and (O), and this Court has jurisdiction to hear and determine this proceeding and to enter
+
+a final order and judgment. If this Court or any other court finds any part of this adversary
+
+proceeding to be “non-core,” this Court has non-core concurrent jurisdiction over this proceeding
+
+under 28 U.S.C. § 1334 because the relief sought herein relates to Debtors’ bankruptcy cases and
+
+will have a material impact on the administration of Debtors’ estates.
+
+          31.   Debtors consent to entry of final orders and judgments by this Court in this
+
+adversary proceeding pursuant to Bankruptcy Rule 7008 and Local Rule 7008-1. Debtors also
+
+consent to entry of final orders or judgment by this Court if it is determined that this Court cannot
+
+enter final orders or judgments consistent with Article III of the United States Constitution absent
+
+consent of the parties.
+
+          32.   Venue in this Court is proper pursuant to 28 U.S.C. § 1409 because it arises under
+
+the Bankruptcy Code or arises in, or is related to, Debtors’ bankruptcy cases pending before this
+
+Court.
+
+                                 PERSONAL JURISDICTION
+
+          33.   Defendants are subject to personal jurisdiction pursuant to Bankruptcy Rule 7004
+
+because Defendants have established minimum contacts with the United States. Where a federal
+
+statute or rule provides for nationwide service of process, as does Bankruptcy Rule 7004, a federal
+
+court has personal jurisdiction over any defendant having minimum contacts with the United
+
+States.
+
+          34.   Each Defendant has established minimum contacts with the United States by
+
+
+
+
+                                                 8
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 9 of 35
+
+
+
+
+conducting business within the United States, including, but not limited to, the following:
+
+           a) Defendant Patrick James owns interests in, and served as an executive of, a United
+
+               States-based company relevant to the causes of action asserted herein; owns real
+
+               and personal property in the United States; and fraudulently transferred money from
+
+               a United States-based company into other accounts within the United States,
+
+               including to accounts belonging to several United States-based companies
+
+               controlled by him as well as to accounts belonging to Defendant Patrick James
+
+               Trust, which, as set forth below, was created in and continues to be held in the
+
+               United States. Defendant James is also domiciled in at least one state of the United
+
+               States and is therefore subject to general jurisdiction within the United States.
+
+           b) Defendant Patrick James Trust was created in, and continues to be located in, the
+
+               United States. Defendant Patrick James Trust, on information and belief, holds
+
+               bank accounts located in the United States.
+
+           c) Defendant Albion Realty, LLC (“Albion Realty”) was created in, and continues to
+
+               operate in, the United States. Defendant Albion Realty is incorporated in Delaware
+
+               and, on information and belief, holds bank accounts located in the United States.
+
+           d) Defendant Alester Technologies LLC (“Alester”) was created in, and continues to
+
+               operate in, the United States. Defendant Alester is incorporated in Delaware and,
+
+               on information and belief, holds bank accounts located in the United States.
+
+           e) Defendant Battery Park Holdings LLC (“Battery Park”) was created in, and
+
+               continues to operate in, the United States. Defendant Battery Park is incorporated
+
+               in Delaware and, on information and belief, holds bank accounts located in the
+
+               United States.
+
+
+
+
+                                                 9
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 10 of 35
+
+
+
+
+             f) Defendant Bond Street Asset Management LLC (“Bond Street”) was created in,
+
+                and continues to operate in, the United States. Defendant Bond Street is
+
+                incorporated in Delaware and, on information and belief, holds bank accounts
+
+                located in the United States.
+
+             g) Defendant Ignite Acquisition Holdings LLC (“Ignite”) was created in, and
+
+                continues to operate in, the United States. Defendant Ignite is incorporated in
+
+                Delaware and, on information and belief, holds bank accounts located in the United
+
+                States.
+
+             h) Defendant Larchmont LLC (“Larchmont”) was created in, and continues to
+
+                operate in, the United States. Defendant Larchmont is incorporated in Ohio and, on
+
+                information and belief, holds bank accounts located in the United States.
+
+             i) Defendant Pegasus Aviation, LLC (“Pegasus Aviation”) was created in, and
+
+                continues to operate in, the United States. Defendant Pegasus Aviation is
+
+                incorporated in Delaware and, on information and belief, holds bank accounts
+
+                located in the United States.
+
+       35.      Accordingly, this Court has personal jurisdiction over Defendants based on their
+
+contacts with the United States.
+
+                                   FACTUAL ALLEGATIONS
+
+  I.   MR. JAMES CAUSED FIRST BRANDS TO FRAUDULENTLY INCUR
+       BILLIONS OF DOLLARS IN FINANCING
+
+       36.      On September 28, 2025 (the “Petition Date”), Debtors commenced the above-
+
+captioned chapter 11 cases.
+
+       37.      As of the Petition Date, First Brands had approximately $6.1 billion in aggregate
+
+principal of on-balance sheet outstanding funded debt obligations, at least $2.3 billion in aggregate
+
+
+
+                                                 10
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 11 of 35
+
+
+
+
+“off-balance sheet” financings incurred through special purpose vehicles, and approximately $800
+
+million in unsecured supply chain financing liabilities. First Brands, additionally, had at least $2.3
+
+billion in factoring liabilities.
+
+        38.      Despite stated annual net sales of approximately $5 billion, First Brands’ cash
+
+position is dire. As of the Petition Date, Debtors had only approximately $12 million in cash in
+
+corporate bank accounts.
+
+        39.      Since the filing of Debtors’ bankruptcy petition, First Brands has continued to
+
+vigorously investigate Mr. James’ conduct, the conduct of his co-conspirators, and potential claims
+
+held by the Debtors.
+
+        40.      Since the Petition Date, there have been significant changes to the Debtors’
+
+executive management team at the insistence of the Special Committee and recommendation of
+
+the Debtors’ advisors. Several senior managers who led the Debtors’ day-to-day operations before
+
+the chapter 11 filing are no longer with the Company, including:
+
+              a) On September 25, 2025, Mr. Michael Baker, the Debtors’ former Chief Corporate
+
+                 Strategy Officer and board member, resigned from all positions he held as an
+
+                 officer, director, manager or board member at all Company entities.
+
+              b) On September 25, 2025, Mr. Ed James, Mr. Patrick James’ brother and former
+
+                 Executive Vice President and board member, resigned from all positions he held as
+
+                 an officer, director, manager or board member at all Company entities.
+
+              c) On October 12, 2025, Mr. Patrick James, the Debtors’ founder and former Chief
+
+                 Executive Officer and controlling shareholder, resigned from all positions he held
+
+                 as an officer, director, manager or board member at all Company entities.
+
+              d) On October 30, 2025, Mr. Stephen Graham, the Debtors’ former Chief Financial
+
+
+
+
+                                                 11
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 12 of 35
+
+
+
+
+                Officer and board member, retired from all positions he held as an officer, director,
+
+                manager or board member at all Company entities. Mr. Graham stopped working
+
+                as of September 22, 2025.
+
+             e) On October 30, 2025, Mr. Andy Brumbergs, the Debtors’ former Vice President,
+
+                Finance and board member, was terminated from all positions he held as an officer,
+
+                director, manager or board member at all Company entities. Mr. Brumbergs stopped
+
+                working as of September 22, 2025.
+
+       41.      Since the Petition Date, the Debtors and their advisors have been working tirelessly
+
+to stabilize operations, confirm the value of assets, and improve the performance of the business
+
+for customers, suppliers, employees and all other stakeholders, while at the same time conducting
+
+an investigation of the Debtors’ pre-petition operations while the Debtors were under the control
+
+of their former CEO, Patrick James. To date, that investigation has involved, among other steps:
+
+(a) the collection of over 7,000,000 documents and other data from 37 custodians and email
+
+listservs; (b) the pursuit of bank account records from more than 600 bank accounts; (c) the
+
+collection of devices from on-site employees and the coordination of the collection of devices from
+
+remote employees; and (d) interviews with current and former employees.
+
+       42.      While more work needs to be done, based on information learned to date, Debtors
+
+believe Mr. James improperly secured funding for First Brands from third parties. Because of the
+
+concern that Mr. James may dissipate or hide assets, Debtors bring this action now to attempt to
+
+preserve and recover assets that properly belong to the estates based on the results to date of their
+
+ongoing investigation.
+
+       43.      On October 13, 2025, following the resignation of Mr. James, Charles Moore—
+
+Managing Director at Alvarez & Marsal North America, LLC—was appointed interim Chief
+
+
+
+
+                                                 12
+         Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 13 of 35
+
+
+
+
+Executive Officer of the Debtors. Mr. Moore had been appointed as Chief Restructuring Officer in
+
+September 2025. On October 24, 2025, Daniel Jerneycic and Gaurav Malhotra were appointed as
+
+co-Chief Restructuring Officers of the Debtors. On October 30, 2025, Paul Kosturos was appointed
+
+Chief Financial Officer of the Debtors. His appointment is effective as of November 3, 2025.
+
+         44.   The news media has reported that Mr. James is the subject of an ongoing
+
+investigation by the United States Attorney for the Southern District of New York, and others, in
+
+connection with First Brands’ financing arrangements.
+
+         45.   As described below, Mr. James and his co-conspirators’ activities included, at a
+
+minimum: (a) using erroneous or fabricated invoices in connection with accounts receivable
+
+factoring activities; and (b) issues involving off-balance sheet financing arrangements.
+
+         46.   Mr. James induced third-party lenders to lend to First Brands irrespective of its true
+
+financial condition to bring more money into First Brands only so that portions of it could be
+
+siphoned away into Defendants’ accounts for the personal use of Mr. James and his family,
+
+including on terms First Brands would never be able to repay.
+
+         A. Third-Party Factoring
+
+         47.   Prior to the Petition Date, Debtors used a variety of factoring arrangements to
+
+obtain liquidity. Under these arrangements, First Brands would sell accounts receivables generated
+
+from the sale of goods in exchange for near-term payment on invoices with extended payment
+
+terms.
+
+         48.   First Brands historically entered into two primary types of factoring arrangements
+
+before the Petition Date, including arrangements with (i) customers and their financial institution
+
+partners (“Customer Factoring”) and (ii) unaffiliated third parties (“Third-Party Factoring”).
+
+In both Customer Factoring and Third-Party Factoring, the Company would transfer a receivable
+
+
+
+
+                                                13
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 14 of 35
+
+
+
+
+to either a customer partner or third-party factor in exchange for a near-term discounted payment
+
+on an invoice with lengthy payment terms. Under Customer Factoring arrangements, the customer
+
+would pay the factor directly when the receivable came due. However, under Third-Party Factoring
+
+arrangements, the third-party factor would purchase invoices from the Debtors and the Debtors
+
+were then required to turn over the payment, once received, to the third-party factor.
+
+       49.     Debtors believe that at least $2.3 billion has accrued with respect to Third-Party
+
+Factoring arrangements as of the Petition Date.
+
+       50.     In connection with the Court’s first day hearing, the Debtors’ Chief Restructuring
+
+Officer and now-interim CEO informed the Court that “[t]he Debtors’ factoring practices are
+
+subject to the Special Committee’s ongoing Investigation including (i) whether receivables had
+
+been turned over to third-party factors upon receipt and (ii) whether receivables may have been
+
+factored more than once.”
+
+       51.     The Company’s advisors have undertaken significant efforts to understand more
+
+about the Third-Party Factoring liabilities. Following interviews and conversations with legacy
+
+executive management and other employees, the Company advisors became aware that the
+
+Company had incurred significant liabilities to the third-party factors. A&M subsequently
+
+deployed its team to conduct a forensic audit and investigate transactions related to the Third-Party
+
+Factoring liabilities, conduct background investigations, and trace cash flows. The Company’s
+
+advisors worked collaboratively with the Company’s third-party factors to obtain other parties’
+
+external data regarding what invoices were purchased and the amounts due on account of such
+
+invoices. The Company’s advisors then reconciled the data acquired from the third-party factors
+
+against the Company’s internal records, leading to the discovery of significant discrepancies.
+
+       52.     Specifically, the Special Committee and Company advisors have identified three
+
+
+
+
+                                                  14
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 15 of 35
+
+
+
+
+significant issues or discrepancies with the Company’s prepetition factoring practices under Mr.
+
+James’ leadership and direction:
+
+             a) First, in many instances, the amount set forth on a factored invoice did not
+
+                accurately reflect a customer’s order, without any apparent reason for the
+
+                discrepancy. For example, in some instances, the amount set forth in a factored
+
+                invoice was ten or more times higher than the actual amount of an invoice.
+
+             b) Second, in many instances, purported invoices representing customer orders were
+
+                created and submitted to third-party factoring parties for payment even though the
+
+                Debtors’ books and records, in some cases, do not reflect that such customer
+
+                invoices existed.
+
+             c) Third, in many instances the same invoice was factored more than once to
+
+                different third-party factors. There were also instances of factoring the same
+
+                receivable to both a customer partner factor and a separate third-party factor.
+
+       53.      In other words, it appears that in certain instances the Debtors sold erroneous or
+
+fabricated invoices to the third-party factors.
+
+       54.      As an example, on May 9, 2025, Brake Parts Inc. LLC sold automotive parts to
+
+General Motors Corporation SPO. An invoice for this sale showed a total of $179.84. On May 19,
+
+2025, that invoice, along with thousands of others, were sent to a former First Brands executive as
+
+part of a package of invoices to be nominated to Katsumi Global, LLC, d/b/a Ja Mitsui Capital
+
+America (“Katsumi”) for factoring. When the executive sent the list to Katsumi later that day, it
+
+listed the very same Brake Parts Inc. LLC invoice, but this time with a value of $9,271.25,
+
+representing an extreme modification from the original May 9, 2025 invoice amount of $179.84.
+
+The values of numerous other invoices in the package also had been changed, including some
+
+
+
+
+                                                  15
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 16 of 35
+
+
+
+
+invoices that were listed at net values and purchase prices approximately more than $15,000 and
+
+$12,000 higher, respectively, than the invoice value listed in the original document. Ultimately, the
+
+factoring company purchased the package of invoices including the modified invoice (along with
+
+other invoices) at a cost of approximately $11.18 million, but the actual value of the invoices was
+
+only approximately $2.3 million.
+
+        55.      Even more shockingly, upon information and belief, at Mr. James’ direction, First
+
+Brands fabricated and sold non-existent receivables to unsuspecting third-parties, totaling millions
+
+of dollars.
+
+        B. Off-Balance Sheet Financing Practices
+
+        56.      The SPV Debtors are party to off-balance sheet financing structures, including
+
+lease, inventory, sale-leaseback, and equipment financing arrangements.
+
+        57.      These arrangements include the CarVal Facilities, Aequum Facilities, Evolution
+
+Facilities, and the Onset Master Lease and transactions related thereto (the “Onset Facility”).
+
+Certain of these off-balance sheet facilities, including the Evolution Facilities and Onset Facilities,
+
+involve an arrangement whereby an SPV Debtor (i) first purchases inventory and/or equipment
+
+from certain subsidiaries of First Brands and then (ii) utilizes those assets either as (a) collateral to
+
+support a loan (in the case of the Evolution Facilities) or (b) in connection with an alleged sale-
+
+leaseback transaction (in the case of the Onset Facilities). The Special Committee and Company’s
+
+advisors have identified multiple potential issues with the Company’s off-balance sheet financing
+
+arrangements under Mr. James’ leadership and direction, each of which is subject to ongoing
+
+investigation.
+
+        58.      First, it is the Company’s advisors’ current understanding that, in the case of the
+
+Onset facilities, upon information and belief, in many cases, the amounts paid from the off-balance
+
+
+
+
+                                                   16
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 17 of 35
+
+
+
+
+sheet SPV to the FBG subsidiary for inventory and/or property, plant and equipment (PP&E) was
+
+less than the stated sale price specified in the relevant asset purchase agreements.
+
+       59.     Second, upon information and belief, it appears that inventory that was purportedly
+
+transferred by First Brands subsidiaries to the SPV Debtors in connection with certain of the off-
+
+balance sheet facilities, namely the Evolution Facility and the Onset Facility, remained on the First
+
+Brands subsidiaries’ balance sheets, notwithstanding the alleged transfers. Also, the value of such
+
+inventory appears to have remained in the borrowing base for the First Brands credit facilities,
+
+including the Debtors’ ABL Facility. Accordingly, Debtors’ current understanding is that the value
+
+of the same inventory was used to support loans to both (i) the First Brands subsidiaries and (ii) the
+
+SPV Debtors.
+
+       60.     Third, based on Debtors’ current knowledge and belief, cash from Onset was
+
+transferred to a non-Debtor entity controlled by Mr. James known as “Bowery Finance II.” Upon
+
+information and belief, inadequate books or records were maintained for these SPV Debtors, and
+
+cash that was supposed to be transferred to the FBG subsidiaries under the applicable transaction
+
+documents was transferred to Bowery Finance II instead. Upon information and belief, the Bowery
+
+Finance II account was used as a slush fund. From 2022 through 2025, nearly $12 billion flowed
+
+through the account, including transfers between Patrick James, his Trust and his affiliated entities,
+
+and transfers with FBG and FBG’s business units. The transfers were apparently made in order to
+
+meet repayments due to Onset and the factoring companies. Similarly, upon information and belief,
+
+Evolution Credit Opportunity Master Fund II-B, L.P. (“Evolution”) lent approximately $240
+
+million to a SPV Debtor, against what First Brands represented was $370 million of First Brands’
+
+inventory on the SPVs balance sheet. First Brands, however, kept that inventory for itself, without
+
+paying the SPV, and by the end of September 2025, few if any assets remained in the SPV.
+
+
+
+
+                                                 17
+          Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 18 of 35
+
+
+
+
+          61.   The Company advisors are currently reviewing to determine which transactions and
+
+proceeds related to the Onset Facility benefitted either the applicable SPV Debtors or FBG, or if
+
+fair consideration was ever received by the FBG subsidiaries for inventory and PP&E transferred.
+
+    II.   MR. JAMES’ MISAPPROPRIATION OF DEBTORS’ FUNDS FOR HIS AND HIS
+          FAMILY’S PERSONAL BENEFIT
+
+          62.   At the same time he was bringing funds into First Brands, Mr. James was
+
+misappropriating massive sums—in the hundreds of millions, if not billions, of dollars—from First
+
+Brands to fund his and his family’s lavish lifestyle. This sort of misconduct is not new for Mr.
+
+James, who has been accused at least three times previously of diverting corporate proceeds
+
+through fraudulent and deceptive business practices to enrich himself.4
+
+
+4
+ In 2009, Tristate Capital Bank filed a lawsuit against Mr. James and companies under his control
+for repeatedly misleading a borrower group about the nature and value of collateral, the condition
+of the businesses, and the disposition of assets and proceeds. Tristate Capital Bank v. Red Rock
+Stamping LLC et al., No. 09-cv-01455 (N.D. Ohio June 26, 2009). Mr. James, and companies
+under his control, allegedly (1) overstated eligible accounts receivable by concealing substantial
+offsets owed to major customers, (2) manipulated internal records to hide these offsets,
+(3) transferred collateral inventory to a related entity without consideration, (4) diverted substantial
+“management” and “consulting” fees despite subordination and distribution restrictions, and
+(5) withheld collateral and business records after default and execution of a wind-down agreement.
+The case settled and Mr. James agreed to pay $1 million.
+
+In 2011, Fortress Value Recovery Fund filed a similar lawsuit against Mr. James and companies
+under his control. Plaintiff, an unpaid creditor, accused Mr. James of creating and using a web of
+affiliated entities to move money from his heavily indebted company, Columbus Components
+Group, LLC (“CCG”), to other management entities. Fortress Value Recovery Fund I LLC v.
+Columbus Components Group, LLC et al., No. 11-cv-200 (N.D. Ohio Jan. 27, 2011). The creditor
+alleged that tens of thousands of dollars per month were diverted in “management fees,” including
+during periods when CCG was in default and prohibited from making such payments. CCG, at Mr.
+James’ direction or with his knowledge, allegedly withheld accurate information to avoid
+triggering an event of default, thereby allowing continued fee payments to Mr. James’ affiliated
+companies. Mr. James’ company ultimately settled this lawsuit for $6 million. Fortress Value
+Recovery Fund I LLC v. Columbus Components Group, LLC et al., No. 11-cv-200 (N.D. Ohio July
+6, 2011).
+
+In 2018, a number of plaintiffs filed as similar lawsuit against Mr. James See Fairlie, William, et
+al. v Vari-Form Group, L.L.C., et al., No. 18-012988-CB (Michigan Circuit Ct. Oct. 4, 2018). Mr.
+James allegedly promoted a segment of his conglomerate Vari-Form as an independent asset and
+
+
+                                                  18
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 19 of 35
+
+
+
+
+       63.     While Debtors’ investigation into these transfers remains ongoing, Debtors have
+
+already uncovered that approximately hundreds of millions of dollars were transferred from First
+
+Brands directly to Mr. James or his affiliated entities from 2018 to 2025. The scale of Mr. James’
+
+transfers has increased in recent years, with the majority of such transfers occurring between 2023
+
+and 2025. While Mr. James or his affiliated entities may have transferred some funds back to First
+
+Brands, Mr. James has never provided a comprehensive accounting of the amounts or purposes of
+
+all of the transfers made between and among First Brands and Mr. James and his affiliated entities.
+
+       64.     On information and belief, Mr. James’ misappropriated funds from First Brands
+
+involved, at a minimum, (i) improper dividends or distributions to the Patrick James Trust, (ii)
+
+direct transfers of the proceeds of financing transactions, and (iii) brazen use of First Brands’ funds
+
+to pay for Mr. James’ and his family’s lifestyle and personal businesses.
+
+       65.     On information and belief, funds may have been transferred into the Company from
+
+Mr. James or his affiliated entities during this period. Mr. James, however, has never provided a
+
+comprehensive accounting of the amounts or purposes of all of the transfers made between and
+
+among First Brands and Mr. James and his affiliated entities. And the ultimate result of Mr. James’
+
+actions was that First Brands was left with just $12 million in cash in its corporate bank accounts
+
+as of the Petition Date.
+
+       A. Improper Dividends and Distributions to Mr. James’ Trust
+
+       66.     Based on evidence uncovered to date, it seems that the principal vehicle through
+
+which Mr. James misappropriated First Brands’ funds was through direct transfers from First
+
+Brands’ accounts to Defendant Patrick James Trust.
+
+
+
+secured new debt financing from investors such as Apollo Global Management, according to
+securities filings and a person familiar with the matter. The following year, Vari-Form filed for
+insolvency in Canada. Id.
+
+
+                                                  19
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 20 of 35
+
+
+
+
+       67.     The majority of funds transferred out of the Company appear to have been
+
+distributed to Defendant Patrick James Trust. The Debtors are not aware of any information to
+
+suggest these transactions were made for any benefit or consideration received by the Company.
+
+       68.     Upon information and belief, Mr. James personally directed distributions from the
+
+Company to his trust, specifying the amount and destination accounts for each payment. For
+
+example, in January 2024, internal communications among senior individuals at First Brands
+
+indicated that Mr. James “wanted to have the distribution funds sent” to two accounts belonging
+
+to Defendant Patrick James Trust, divided into batches of $21 million and $4 million. That day,
+
+First Brands distributed $25 million into an account belonging to Defendant Patrick James Trust.
+
+Again, in October 2024, a senior individual at First Brands indicated that he had been “instructed
+
+to make a $25 million USD distribution” to a Patrick James Trust account. First Brands distributed
+
+$25 million into the specified account that same day.
+
+       69.     Aside from entries in the Company’s general ledger, the Company’s advisors are
+
+unaware of any formal documentation indicating that these payments constituted dividends or
+
+distributions in the ordinary course. These payments continued well into 2025 irrespective of First
+
+Brands’ true financial position.
+
+       70.     Simply put, upon information and belief, there was no legitimate business reason
+
+for Mr. James to transfer hundreds of millions of dollars from First Brands to Defendant Patrick
+
+James Trust, especially given that First Brands was left with just $12 million in the bank as of the
+
+Petition Date. Over $700 million was funneled from First Brands directly to Mr. James and his
+
+affiliated entities from 2018 to 2025. Over $600 million was distributed directly from First Brands’
+
+bank accounts to Defendant Patrick James Trust, a trust held by Mr. James, for no consideration
+
+and for no valid business purpose.
+
+
+
+
+                                                20
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 21 of 35
+
+
+
+
+       B. Fraudulent Transfers of the Proceeds of Debt Financings
+
+       71.     On information and belief, Mr. James’ dissipation of First Brands’ funds for his
+
+own personal use was directly and proximately connected to his efforts to secure funding for First
+
+Brands described above.
+
+       72.     A single day in the life of a single First Brands SPV is illustrative. At the start of
+
+the day on April 4, 2025, Carnaby FA, an SPV that sits under Viceroy Private Capital, LLC (both
+
+siloed SPVs that are not subsidiaries of First Brands Group, LLC) had just $4,833.98 in its
+
+accounts. On that same day Carnaby FA received $67.2 million as part of a purported sale-
+
+leaseback transaction from Onset, ostensibly collateralized by First Brands’ assets. Then, also on
+
+April 4, 2025, Carnaby FA—an entity which, that very morning had less than five thousand dollars
+
+in its bank account—paid Defendant Patrick James Trust approximately $17 million.
+
+       73.     This was not an isolated occurrence. On January 15, 2025, for example, the bank
+
+account for Carnaby Inventory IV LLC (“Carnaby IV”)—another SPV sitting under Viceroy
+
+Private Capital, LLC—had just $22,137.40 in deposits in its account at the beginning of the day.
+
+On that same day, Onset provided approximately $192 million in purported sale-leaseback
+
+funding, again ostensibly collateralized by First Brands’ assets. The same day, Carnaby IV paid
+
+$25 million into an account belonging to Defendant Patrick James Trust.
+
+       74.     Similarly, Onset provided a purported sale-leaseback in the amount of $115.2
+
+million on March 10, 2025, which was followed the same day by a $35 million transfer from
+
+Carnaby IV to Defendant Patrick James Trust. Following additional transfers, Carnaby IV held
+
+only $16.9 million in its account by March 11, and on March 12, Onset provided another $57.6
+
+million from a purported sale-leaseback. On March 13, Carnaby IV transferred an additional $35
+
+million to Patrick James Trust. By the beginning of the day on March 17, 2025, Carnaby IV held
+
+
+
+
+                                                21
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 22 of 35
+
+
+
+
+only a balance of $2,952.95.
+
+        75.     Debtors’ investigation has revealed over $1 billion in total financing received from
+
+Onset between April 2024 and March 2025, over approximately $200 million of which was paid
+
+to Mr. James or his affiliated entities.
+
+        76.     These examples lay bare Mr. James’ conduct and show the direct connection
+
+between his front-end conduct and back-end misappropriation. Mr. James was using First Brands
+
+to secure, and then pocket, fraudulent purported sale-leaseback proceeds.
+
+        C. Mr. James Commingled His Personal Accounts With Company Accounts and
+           Diverted First Brands’s Funds to Pay for His and His Family’s Lavish Lifestyle
+
+        77.     Upon information and belief, Mr. James also intentionally commingled First
+
+Brands’ business accounts with personal funds and used First Brands’ funds for his and his
+
+family’s personal expenses and personal businesses.
+
+        78.     Indeed, upon information and belief, certain of the SPV Debtors’ cash was
+
+frequently commingled with the cash of non-Debtor entities, including Bowery Finance II,
+
+controlled by Mr. James.
+
+        79.     Upon information and belief, the funds received by Defendants have not been
+
+returned by Mr. James to First Brands, were not documented or treated by First Brands as ordinary
+
+dividends, and contributed to First Brands’ insolvency.
+
+        80.     The Debtors have identified payments that were made directly from First Brands
+
+accounts to Mr. James, his family, and their personal staff and businesses. These include over $2
+
+million in 2025 in payroll for Mr. James’ “family office,” at least $3 million paid towards rent of
+
+Mr. James New York City townhouse from 2019 through 2024, and approximately $500,000 paid
+
+to Mr. James’ private celebrity chef in 2025.
+
+        81.     In 2024 alone, Mr. James moved over $100 million out of bank accounts belonging
+
+
+
+                                                 22
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 23 of 35
+
+
+
+
+to First Brands and into bank accounts belonging to him or entities associated with him, including
+
+personal businesses and Defendant Patrick James Trust.
+
+       82.     Other payments were made from First Brands to entities controlled by Mr. James,
+
+named as Defendants in this action. For example, Battery Park—which is not directly affiliated
+
+with First Brands—is 100% owned by Mr. James and is described as a “personal” business in Mr.
+
+James’ financial documents. On information and belief, more than $10 million was transferred
+
+from First Brands to Battery Park from 2018 to 2025 to pay Mr. James and his family’s personal
+
+expenses, including approximately $150,000 for a celebrity personal trainer.
+
+       83.     Indeed, upon information and belief, Mr. James directed colleagues to submit
+
+invoices to First Brands for reimbursement to Battery Park, wherein line items for personal and
+
+business expenses were included in the same invoice. For example, in an invoice submitted by
+
+Battery Park to First Brands on August 23, 2023, Mr. James’ entity, Battery Park, sought
+
+reimbursement for over $110,000 for a six week “Southampton hotel” stay for two individuals
+
+who were not affiliated with First Brands.
+
+       84.     Upon information and belief, Defendants Albion Realty, LLC, Alester
+
+Technologies LLC, Battery Park Holdings LLC, Bond Street Asset Management LLC, Ignite
+
+Acquisition Holdings LLC, Larchmont LLC, Pegasus Aviation, LLC were likewise recipients of
+
+transfers of funds from First Brands during this period.
+
+       85.     From 2018 to 2025, approximately $35 million was transferred to Larchmont LLC,
+
+another entity owned and controlled by Mr. James that is unrelated to First Brands and appears to
+
+bear no legitimate business relationship to First Brands. Significant additional transfers totaling in
+
+the millions of dollars were also made from First Brands to Mr. James’ real estate holding company
+
+(Albion Realty LLC) over the same period.
+
+
+
+
+                                                 23
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 24 of 35
+
+
+
+
+       86.     Upon information and belief, money transferred from First Brands to Mr. James
+
+also occurred in close proximity to his acquisition of various real estate properties and cars. For
+
+example, in the two months prior to purchasing a home in Malibu on September 13, 2019, various
+
+entities unrelated    to First   Brands    over    which   Mr.    James has        complete   control
+
+received disbursements from First Brands amounting to several million dollars. Likewise, in the
+
+two months prior to purchasing a home in the Hamptons on August 31, 2021, certain entities
+
+controlled by Mr. James received over $1 million from First Brands.
+
+       87.     On information and belief, Mr. James owns at least seven properties. Mr. James
+
+also owns an extensive car collection, including at least seventeen exotic cars.
+
+       88.     The transaction documentation that Debtors have uncovered fails to show that Mr.
+
+James’ transfers were made for any legitimate business purpose.
+
+       89.     Upon information and belief, many of the transactions seem to have been made
+
+without any contemporaneous documentation of their purpose at all.
+
+                                                ***
+
+       90.     Mr. James continues to have the ability to further deplete the estate’s funds by
+
+spending or diverting money that has been transferred to accounts and entities under his control.
+
+If his assets are not frozen, there is an immediate and significant risk that he will transfer the
+
+estate’s funds to entities outside of the United States, potentially in ways that may make these
+
+funds difficult or impossible to recover in First Brands’ bankruptcy proceedings.
+
+       91.     Mr. James, moreover, is a Malaysian national with hundreds of millions of dollars
+
+at his disposal and is reported to be the subject of an investigation by the United States Attorney
+
+for the Southern District of New York, and others, giving rise to significant concerns regarding
+
+abscondment.
+
+
+
+
+                                                  24
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 25 of 35
+
+
+
+
+        92.     Debtors accordingly bring this action to recover the proceeds of Defendants’
+
+misconduct for the benefit of the Debtors, their creditors, and other stakeholders. Debtors are
+
+further seeking immediate injunctive relief to prevent Defendants from further dissipating any of
+
+the misappropriated funds to ensure that they can be recovered.
+
+                                              COUNT I
+
+                                      Turnover of Estate Property
+                                      Pursuant to 11 U.S.C. § 542
+                                       (Against All Defendants)
+
+        93.     Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        94.     Under Section 542(a), an entity in possession of Debtors’ property or an entity that
+
+owes a debt to the debtor shall deliver such property or pay such debt.
+
+        95.     As of the date of this Complaint, Defendants, and/or other entities and trusts
+
+Mr. James controls, are in possession of property of the estate. Such property and debts include,
+
+without limitation, cash, accounts receivable, and other matured payment obligations due and
+
+payable to the creditors, and any proceeds thereof.
+
+        96.     Under Section 542(a), Defendants shall deliver to Debtors and account for such
+
+property or the value of such property.
+
+        97.     Defendants’ refusal to deliver property impedes administration of the estate.
+
+Turnover is appropriate because the property is estate property within Section 541 and is necessary
+
+to the administration of this case.
+
+        98.     Debtors seek an order compelling an immediate turnover and a full accounting,
+
+with appropriate safeguards for any proven lienholder’s interest.
+
+
+
+
+                                                  25
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 26 of 35
+
+
+
+
+                                            COUNT II
+
+                               Actual Fraudulent Transfer
+   Pursuant to 11 U.S.C. §§ 548(a)(1)(A), 544(b), Ohio Rev. Code Ann. §§ 1336.04(A)(1),
+                                 6 Del. Code § 1304(a)(1)
+                                 (Against All Defendants)
+
+        99.     Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        100.    On information and belief, Mr. James secured funding from lenders for First Brands
+
+based on knowingly and intentionally false representations about First Brands’ financial position.
+
+        101.    On information and belief, Mr. James caused First Brands to complete payment of
+
+numerous transfers made to benefit Mr. James, his family, and/or his personal affiliates.
+
+        102.    Each transfer was concealed.
+
+        103.    Each of the fraudulent transfers was made within the applicable lookback period
+
+prior to the Petition Date.
+
+        104.    Each relevant payment was made by First Brands at Mr. James’ direction.
+
+        105.    Mr. James directed First Brands to pay Defendants with the actual intent of
+
+hindering, delaying, and/or defrauding First Brands’ creditors and investors.
+
+        106.    Defendants are initial transferees within the meaning of that term as used in Section
+
+550(a)(1).
+
+        107.    Each of the transfers was made with actual intent to hinder, delay, or defraud
+
+creditors.
+
+        108.    Mr. James did not direct any of the transfers in good faith.
+
+        109.    At the time of each of the transfers, First Brands had at least one general unsecured
+
+creditor holding an allowable claim who, but for Debtors’ bankruptcy filing, would have standing
+
+to bring claims to avoid and recover actual fraudulent transfers.
+
+
+
+                                                 26
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 27 of 35
+
+
+
+
+        110.    The payments to Defendants are voidable pursuant to Section 548(a)(1)(A) and may
+
+be recovered from Defendants pursuant to Section 550.
+
+        111.    Accordingly, First Brands is entitled to a judgment (1) avoiding the fraudulent
+
+transfers under Section 548(a)(1)(A) and/or Section 544(b), and (2) recovering and preserving all
+
+such avoided transfers under Sections 550 and 551.
+
+                                           COUNT III
+
+                            Constructive Fraudulent Transfer
+   Pursuant to 11 U.S.C. §§ 548(a)(1)(B), 544(b), Ohio Rev. Code Ann. §§ 1336.04(A)(2),
+                                 6 Del. Code § 1304(a)(2)
+                                 (Against All Defendants)
+
+        112.    Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        113.    First Brands seeks to avoid the fraudulent transfers made on numerous occasions
+
+from First Brands’ accounts to Mr. James’ personal accounts and affiliated entities, including, but
+
+not limited to, Defendant Patrick James Trust and the other named Defendants, and to recover and
+
+preserve the value thereof.
+
+        114.    On information and belief, Mr. James caused First Brands to complete numerous
+
+transfers to benefit Defendants and/or Mr. James’ family and personal affiliates.
+
+        115.    First Brands did not receive reasonably equivalent value in exchange for the
+
+transfers.
+
+        116.    Each of the transfers was made within the applicable lookback period.
+
+        117.    On the date of each relevant transfer, First Brands: (1) was insolvent or became
+
+insolvent as a result of such transfer; (2) engaged in a business dealing or a transaction, or was
+
+about to engage in a business dealing or a transaction, for which any property remaining with First
+
+Brands was unreasonably small in relation to the business or transaction; or (3) intended to incur,
+
+
+
+                                                27
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 28 of 35
+
+
+
+
+or believed that it would incur, debts that would be beyond its ability to pay as such debts matured.
+
+        118.    At the time of each of the fraudulent transfers, First Brands had numerous
+
+unsecured creditors holding an allowable claim who, but for First Brands’ bankruptcy filing, would
+
+have standing to bring claims to avoid and recover constructive fraudulent transfers.
+
+        119.    Accordingly, First Brands is entitled to a judgment (1) avoiding the fraudulent
+
+transfers under Sections 548(a)(1)(B) and/or 544(b) of the Bankruptcy Code, and (2) recovering
+
+and preserving all such avoided transfers under Sections 550 and 551 of the Bankruptcy Code.
+
+                                            COUNT IV
+
+                                    Money Had and Received
+                                    (Against All Defendants)
+
+        120.    Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        121.    By receiving funds from First Brands’ accounts for personal gain, Defendants
+
+wrongfully had or held money that belongs to First Brands in equity and good conscience.
+
+        122.    Accordingly, First Brands is entitled to equitable recovery of any benefits
+
+Defendants received that rightfully belong to First Brands.
+
+                                            COUNT V
+
+                                      Unjust Enrichment
+                                    (Against All Defendants)
+
+        123.    Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        124.    Defendants were enriched and received direct, concrete economic benefits without
+
+legal or equitable justification, including, but not limited to, through the diversion and receipt of
+
+funds from First Brands.
+
+
+
+
+                                                 28
+         Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 29 of 35
+
+
+
+
+         125.   Defendants have unjustly retained the sums procured through, funded by, or
+
+serviced with First Brands’ assets—sums to which Defendants had no lawful claim and for which
+
+First Brands received no reciprocal benefit—to the detriment of First Brands and its creditors,
+
+thereby shifting value from the enterprise to Defendants.
+
+         126.   First Brands suffered financial losses as a result of these transactions. Among other
+
+losses, First Brands did not receive reasonably equivalent value for any of the transfers; the
+
+challenged conduct facilitated and perpetuated efforts that siphoned substantially all of First
+
+Brands’ assets; and the estates were left burdened with liabilities without corresponding assets or
+
+value.
+
+         127.   There is a direct, proximate, and traceable relationship between Defendants’
+
+enrichment and the losses accrued by First Brands: the transfers emanated from First Brands’
+
+accounts and were made directly to Defendants or other entities or affiliates owned or controlled
+
+by or related to Mr. James.
+
+         128.   No legitimate corporate purpose, consideration, or fair value supports these
+
+transfers. They were the product of self-dealing and other misconduct, conferred unique personal
+
+benefits upon Mr. James that were not shared by First Brands or its stakeholders, and were not
+
+supported by reasonably equivalent value or fair consideration.
+
+         129.   First Brands conferred a benefit in the form of corporate funds and value,
+
+Defendants appreciated and accepted that benefit, and Defendants’ continued retention of that
+
+benefit would be inequitable under the circumstances.
+
+         130.   Equity and good conscience will not permit Defendants to retain the benefits he
+
+wrongfully obtained at First Brands’ expense. Legal remedies are inadequate to the extent the relief
+
+required is restitutionary and equitable in nature, including the recovery of specific, identifiable
+
+
+
+
+                                                 29
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 30 of 35
+
+
+
+
+funds or assets traceable to Mr. James’ unjust enrichment.
+
+        131.    Accordingly, First Brands is entitled to judgment for restitution in the amount of
+
+the benefits unjustly obtained, together with disgorgement of all proceeds traceable to the transfers,
+
+the imposition of a constructive trust and/or equitable lien over assets and proceeds in Mr. James’
+
+control, an accounting, and pre- and post-judgment interest at the maximum rate permitted by law,
+
+as well as such other and further equitable relief as the Court deems just and proper.
+
+                                            COUNT VI
+
+                                       Constructive Trust
+                                     (Against All Defendants)
+
+        132.     Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        133.    A constructive trust is an equitable remedy imposed to prevent unjust enrichment
+
+where a defendant, through fraud, breach of fiduciary duty, unfair or unconscionable conduct, or
+
+abuse of confidence, acquires or retains property that which in equity and good conscience belongs
+
+to another.
+
+        134.     As detailed in this Complaint, Defendants—acting at Mr. James’ direction and in
+
+breach of his fiduciary duties to First Brands—engaged in fraudulent, unfair, and unconscionable
+
+conduct, including the diversion and misappropriation of corporate funds.
+
+        135.    By virtue of this misconduct, Defendants were directly and materially enriched.
+
+Defendants obtained and continue to retain specific, identifiable property traceable to First Brands.
+
+        136.    Defendants received and retain the fraudulent transfers by fraud, self-dealing, and
+
+wrongful diversion. Continued possession of such property is inequitable and would unjustly
+
+enrich Defendants at the expense of First Brands and its creditors.
+
+        137.    Equity therefore deems Defendants constructive trustees of the fraudulent transfers
+
+
+
+                                                 30
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 31 of 35
+
+
+
+
+and all traceable proceeds, substitutions, and products (collectively, the “Constructive Trust
+
+Property”) for the benefit of Debtors in their chapter 11 cases.
+
+        138.      The Constructive Trust Property is sufficiently specific and traceable: the transfers
+
+originated from identified First Brands accounts and were directed to Defendants or other entities
+
+and accounts Mr. James owned or controlled, and can be followed into property acquired therewith.
+
+        139.     Legal remedies are inadequate because First Brands seeks restitutionary, in-kind
+
+relief as to specific funds and assets; equitable relief is necessary to permit tracing, preserve the
+
+Constructive Trust Property, and avoid dissipation. An accounting is warranted to identify all
+
+property constituting or derived from the Constructive Trust Property.
+
+        140.     Accordingly, First Brands seeks entry of judgment: (a) declaring and imposing a
+
+constructive trust over the Constructive Trust Property and all proceeds, products, offspring, and
+
+substitutions; (b) directing Mr. James, as constructive trustee, to convey, transfer, and turn over the
+
+Constructive Trust Property to First Brands; (c) imposing, in the alternative, an equitable lien to
+
+the extent any portion of the Constructive Trust Property cannot be specifically traced; (d) ordering
+
+an accounting and tracing of all relevant accounts and assets; and (e) awarding pre- and
+
+post-judgment interest and such other equitable relief as the Court deems just and proper.
+
+                                             COUNT VII
+
+                                          Accounting
+               (Against Defendants Patrick James and John and Jane Doe(s) 1-100)
+
+        141.      Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        142.     The facts surrounding Mr. James’ unlawful actions and the accounts mentioned
+
+herein are so complex that adequate relief may not be obtained through standard discovery
+
+procedures, such as production and interrogatories.
+
+
+
+                                                   31
+        Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 32 of 35
+
+
+
+
+        143.     Accordingly, First Brands is entitled to an equitable accounting.
+
+                                            COUNT VIII
+
+                                        Illegal Dividend
+                          Pursuant to 8 Del.C. § 160 and 8 Del.C. § 174
+               (Against Defendants Patrick James and John and Jane Doe(s) 1-100)
+
+        144.     Debtors repeat, reallege, and incorporate by reference all preceding allegations as
+
+if fully set forth herein.
+
+        145.     While serving as a director for numerous First Brands entities, Mr. James directed
+
+First Brands to approve and complete numerous dividend distributions to himself, his trust, and
+
+other entities he controlled.
+
+        146.     Mr. James was aware of his fraudulent conduct and misrepresentations, and he
+
+knew his obfuscation would deceive creditors.
+
+        147.     The dividends contributed to Debtors’ insolvency. Alternatively, and in addition,
+
+First Brands’ liabilities exceeded its assets such that First Brands did not have a capital surplus at
+
+the time Mr. James directed dividend distributions to himself. First Brands’ net profits also were
+
+insufficient to fund Mr. James’ dividend distributions.
+
+        148.     Accordingly, the dividend distributions were not lawful dividends under Delaware
+
+General Corporation Law.
+
+        149.     Mr. James orchestrated the dividend distributions for himself and therefore is liable
+
+for the amount of the distributions.
+
+                                   RESERVATION OF RIGHTS
+
+        150.     During the course of this proceeding, Debtors may learn through discovery or
+
+otherwise of additional claims or causes of action that are actionable under the provisions of the
+
+Bankruptcy Code or other applicable law. Debtors reserve all rights to amend this original
+
+
+
+
+                                                  32
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 33 of 35
+
+
+
+
+Complaint to, among other things: (i) modify or revise Defendants’ names; (ii) add additional
+
+defendants; and/or (iii) add claims or causes of action, if applicable, that may become known to
+
+Debtors at any time during this adversary proceeding, through formal discovery or otherwise, and
+
+for such amendments to relate back to the filing of this original Complaint.
+
+                                     PRAYER FOR RELIEF
+
+       WHEREFORE, for the foregoing reasons, Debtors respectfully request that this Court
+
+enter judgment against Defendants:
+
+               a) Freezing any and all bank accounts and other property owned or controlled by
+
+                   Defendants or any other entities under their control;
+
+               b) Avoiding and recovering the fraudulent transfers as actual or constructive
+
+                   fraudulent transfers, in an amount to be determined at trial;
+
+               c) Declaring that Defendants were unjustly enriched at the expense of Debtors,
+
+                   and awarding damages in an amount to be determined at trial;
+
+               d) Imposing a constructive trust upon Defendants’ accounts with respect to the
+
+                   fraudulent transfers;
+
+               e) Compensatory and consequential damages, in amounts to be determined,
+
+                   together with pre- and post-judgment interest at the maximum rate allowed by
+
+                   law;
+
+               f) Ordering an equitable accounting;
+
+               a) An award of pre- and post-judgment interest; and
+
+               b) Such other and further relief as this Court deems just and equitable.
+
+
+
+
+                                                33
+      Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 34 of 35
+
+
+
+
+Respectfully submitted on the 3rd day of November, 2025.
+
+Houston, Texas
+                                           /s/ Clifford W. Carlson
+                                          WEIL, GOTSHAL & MANGES LLP
+                                          Clifford W. Carlson (24090024)
+                                          Gabriel A. Morgan (24125891)
+                                          700 Louisiana Street, Suite 3700
+                                          Houston, Texas 77002
+                                          Telephone: (713) 546-5000
+                                          Facsimile: (713) 224-9511
+                                          Email: clifford.carlson@weil.com
+                                                   gabriel.morgan @weil.com
+                                          -and-
+                                          WEIL, GOTSHAL & MANGES LLP
+                                          Matthew S. Barr (admitted pro hac vice)
+                                          Sunny Singh (admitted pro hac vice)
+                                          David Lender (pro hac vice pending)
+                                          Nili T. Moghaddam (pro hac vice pending)
+                                          Robert Niles-Weed (pro hac vice pending)
+                                          767 Fifth Avenue
+                                          New York, New York 10153
+                                          Telephone: (212) 310-8000
+                                          Facsimile: (212) 310-8007
+                                          Email: matt.barr@weil.com
+                                                   sunny.singh@weil.com
+                                                   david.lender@weil.com
+                                                   nili.moghaddam@weil.com
+                                                   robert.niles-weed@weil.com
+
+                                          Proposed Attorneys for Debtors
+                                          and Debtors in Possession
+
+
+
+
+                                             34
+       Case 25-03803 Document 17 Filed in TXSB on 11/03/25 Page 35 of 35
+
+
+
+
+                                       VERIFICATION
+
+I, Charles Moore, hereby certify and verify under penalty of perjury that:
+
+I am the interim Chief Executive Officer of First Brands Group, LLC, the Debtor in the above-
+captioned cases. I have read the factual allegations contained in the Verified Complaint and
+affirm such allegations are true and correct to the best of my knowledge, information, and belief.
+
+
+
+Dated: November 3, 2025                      By: First Brands Group, LLC
+
+                                             Signed: /s/ Charles M. Moore
+
+                                             Name: Charles Moore
+
+                                             Title: Interim Chief Executive Officer, First Brands
+                                             Group, LLC
+

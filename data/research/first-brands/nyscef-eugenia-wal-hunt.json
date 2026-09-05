@@ -1,0 +1,139 @@
+{
+  "run_id": "nyscef-eugenia-wal-2026-09-05",
+  "status": "hard_blocker_no_pdf",
+  "hashed_pdfs": [],
+  "cases_confirmed": [
+    {
+      "caption": "Eugenia II Investment Holdings Limited et al. v. Leucadia Asset Management LLC et al.",
+      "index_cited": "651123/2026",
+      "index_source": "Tenzor Ltd analysis citing NYSCEF Index No. 651123/2026; not independently opened on NYSCEF this run",
+      "court": "N.Y. Sup. Ct., N.Y. County, Commercial Division Part 43",
+      "judge": "Reed, Hon. Robert R.",
+      "filed": "2026-02-24",
+      "parties": {
+        "plaintiffs": ["Eugenia II Investment Holdings Limited", "Eugenia III Investment Holdings Limited"],
+        "defendants": ["Leucadia Asset Management LLC", "Jefferies Investment Advisers, LLC", "Point Bonita Capital Fund (Cayman) LP", "Point Bonita Capital GP LLC"]
+      },
+      "counsel": {
+        "plaintiff": "Solomon Cramer & Summit LLP (Andrew Todd Solomon)",
+        "defendant": "Wachtell Lipton Rosen & Katz"
+      },
+      "unicourt": "https://unicourt.com/case/ny-sup5-case7v4e45dc841f60-108904",
+      "complaint_pdf": null
+    },
+    {
+      "caption": "Western Alliance Trust Company, N.A. et al. v. Jefferies Financial Group Inc. et al.",
+      "index": null,
+      "court": "N.Y. Sup. Ct., N.Y. County, Commercial Division Part 60",
+      "judge": "Crane, Hon. Melissa A.",
+      "filed": "2026-03-06",
+      "amended_complaint_cited": "2026-05-15",
+      "parties": {
+        "plaintiffs": ["Western Alliance Trust Company, N.A.", "Western Alliance Bank"],
+        "defendants": ["Jefferies Financial Group Inc.", "Leucadia Asset Management LLC", "Point Bonita Capital Master Fund A LLC", "LAM TFG I SPV, LLC", "LAM Trade Finance Group LLC"]
+      },
+      "counsel": {
+        "plaintiff": "Ellenoff Grossman & Schole LLP (Howard Jay Kaplan, Michelle Amy Rice)",
+        "defendant": "Wachtell Lipton Rosen & Katz"
+      },
+      "unicourt": "https://unicourt.com/case/ny-sup5-case7v297c172d472e-123660",
+      "complaint_pdf": null
+    },
+    {
+      "caption": "Point Bonita Capital Master Fund A LLC v. Western Alliance Bank",
+      "court": "N.Y. Sup. Ct., N.Y. County, Part 60 (Crane)",
+      "filed": "2026-07-01",
+      "unicourt": "https://unicourt.com/case/ny-sue3-case7u96bb6ff164a5-238956",
+      "note": "Counter-suit over frozen $25M+ deposit account. UniCourt SEO excerpt quotes complaint ¶¶ 3-9."
+    }
+  ],
+  "invoice_sku_ucc_extract": {
+    "invoice_numbers": [],
+    "skus": [],
+    "ucc_file_numbers": [],
+    "obligor_level_schedules": [],
+    "same_invoice_pledged_to_point_bonita_and_another_factor": null,
+    "do_not_invent": true
+  },
+  "verbatim_public_excerpts_not_from_complaint_pdf": [
+    {
+      "source_class": "unicourt_seo_complaint_excerpt",
+      "doc": "Point Bonita Capital Master Fund A LLC v. Western Alliance Bank, complaint filed 2026-07-01",
+      "pages_as_labeled_by_unicourt": ["1", "2", "3"],
+      "quote": "LAM I SPV pledged those receivables to secure a $337 million loan from Western Alliance Bank, with the bank's recourse expressly limited to the First Brands receivables.",
+      "vs_adv_25-03803_doc17_p54": "NEW_theory_not_the_GM_invoice",
+      "vs_adv_25-03803_doc17_pp72-74": "NEW_not_carnaby_same_day_cash",
+      "vs_doj_june_2025_8976.24": "NEW_not_the_indictment_example"
+    },
+    {
+      "source_class": "unicourt_seo_complaint_excerpt",
+      "pages_as_labeled_by_unicourt": ["1"],
+      "quote": "In recent months, it has been revealed that First Brands engaged in widescale fraud, including by selling fake or inflated receivables. As a result of that fraud, LAM I SPV has not been able to collect on the receivables it believed it had purchased, and-after paying approximately $210 million to Western Alliance Bank on the non-recourse loan-LAM I SPV has not repaid the balance (approximately $126 million).",
+      "vs_baselines": "mechanism_overlap_with_indictment_fake_inflated_receivables_but_no_invoice_number"
+    },
+    {
+      "source_class": "secondary_press",
+      "doc": "Bloomberg / Reuters paraphrases of Eugenia complaint made public 2026-02-25",
+      "quote_is_not_complaint_pdf": true,
+      "paraphrase": "Eugenia II and III invested $25 million in Point Bonita; alleged they were told Point Bonita had cash dominion so obligors (AutoZone, Walmart) would pay the fund directly; instead First Brands collected. Seeking at least $18.4 million. Point Bonita held about $715 million First Brands receivables.",
+      "invoice_numbers": []
+    },
+    {
+      "source_class": "issuer_press_release_not_complaint",
+      "doc": "Western Alliance Bancorporation 8-K EX-99.1, 2026-03-06, https://www.sec.gov/Archives/edgar/data/1212545/000162828026015454/wal_pressrelease.htm",
+      "quote": "In September 2025, the Bank learned of failures by LAM’s servicer, including allowing UCC financing statements to lapse on the receivables, that triggered loan defaults.",
+      "ucc_file_numbers": [],
+      "note": "No UCC file number, debtor name on the financing statement, or filing office in this press release."
+    },
+    {
+      "source_class": "secondary_analysis_of_eugenia_filings",
+      "doc": "Igor Zaks, Tenzor Ltd., When Courts Rewrite Factoring, https://tenzor.ca/when-courts-rewrite-factoring/",
+      "cites": "NYSCEF Index No. 651123/2026; Wachtell MTD May 1 2026; opposition NYSCEF Docs 22 and 24",
+      "claim": "Eugenia complaint alleges Point Bonita represented cash dominion (obligors paid Fund collection account) in a Case Study and DDQ; alleged false as to First Brands, largest counterparty. No invoice numbers, SKUs, or UCC file numbers in the Tenzor write-up."
+    }
+  ],
+  "unicourt_free_docs_login_walled": {
+    "eugenia": [
+      "NOTICE OF MOTION to dismiss (CDOCdf5a66d3a85ba7)",
+      "Robinson KC declaration + Exhibit Bundle (CDOCdfa21ed7830505, CDOCdfe840aec2c33b)",
+      "Plaintiffs MOL opposition (CDOCdfcc5ee0b6ac07)",
+      "Corrected MOL in support replacing NYSCEF Doc. 6 (CDOCdfff75341211be)"
+    ],
+    "western_alliance": [
+      "Amended Complaint exhibit CDOCdf7c3702121132",
+      "Summary Wire Report Spreadsheet CDOCdf1febd9f8adef",
+      "September 2025 Servicer Account CDOCdf35425cffaa25",
+      "September 2025 Operating Account CDOCdfcd7184bb5251",
+      "Step-up Margin Fee Letter CDOCdf99f155ea59cf",
+      "LAM TFG Fee Letter 2022-11-28 CDOCdf1084d91020ae"
+    ],
+    "note": "UniCourt marks these data-document-type=Free but Download is a JS login popup. CDN paths 403. No PDF bytes retrieved."
+  },
+  "blockers": [
+    "NYSCEF (iapps.courts.state.ny.us) is Cloudflare-challenged from curl; Exa fetched the Case Search form only; constructed CaseSearchResults/DocumentList URLs timed out. Cursor browser MCP failed (no tab / server not found).",
+    "UniCourt catalogs the cases and later motion papers; complaint PDFs require UniCourt login. Eugenia public document list does not even include SUMMONS/COMPLAINT.",
+    "CourtListener/RECAP does not host these NY Supreme filings.",
+    "Bloomberg Law / assets.bwbx.io: no public reprint of either complaint (unlike Adv. 25-03803 Doc. 17). WAL 8-K attaches only the press release, not the complaint.",
+    "Trellis.law Cloudflare 403."
+  ],
+  "baseline_comparison": {
+    "adv_25-03803_doc17_p54": {
+      "local": "pdfs/txt/james-complaint.txt",
+      "verbatim": "As an example, on May 9, 2025, Brake Parts Inc. LLC sold automotive parts to General Motors Corporation SPO. An invoice for this sale showed a total of $179.84. On May 19, 2025, that invoice, along with thousands of others, were sent to a former First Brands executive as part of a package of invoices to be nominated to Katsumi Global, LLC, d/b/a Ja Mitsui Capital America (“Katsumi”) for factoring. When the executive sent the list to Katsumi later that day, it listed the very same Brake Parts Inc. LLC invoice, but this time with a value of $9,271.25",
+      "found_in_eugenia_or_wal_public_text": false
+    },
+    "adv_25-03803_doc17_pp72-74": {
+      "facts": "Carnaby FA 2025-04-04 $4,833.98 / $67.2M Onset / ~$17M Trust; Carnaby IV 2025-01-15 and 2025-03-10/12/13/17 Onset/Trust paths",
+      "found_in_eugenia_or_wal_public_text": false
+    },
+    "doj_june_2025_example": {
+      "fact": "June 2025 customer invoice $8,976.24 sold as $17,826.26 then again as $463,734.92",
+      "found_in_eugenia_or_wal_public_text": false
+    }
+  },
+  "next_to_clear_blocker": [
+    "Open NYSCEF Case Search in a human browser: index 651123/2026 or party Eugenia II Investment Holdings; download Doc 1 complaint and hash.",
+    "Same for Western Alliance Trust Company / LAM TFG I SPV (index unknown this run); pull original 3/6/2026 complaint and 5/15/2026 amended complaint.",
+    "If UniCourt login exists: download WAL exhibit 'Summary Wire Report Spreadsheet' (CDOCdf1febd9f8adef) — highest chance of invoice-level rows."
+  ]
+}
