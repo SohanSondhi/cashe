@@ -6,7 +6,7 @@ Cashe answers questions such as *Why did cash decrease?* by working outward from
 
 ## Agents
 
-The orchestrator decides what evidence is missing and delegates acquisition to a narrowly scoped agent. The order MCP -> API -> browser -> voice is a preference for the first inquiry, not a fixed workflow; the orchestrator can use several agents when a fact needs corroboration.
+The orchestrator decides what evidence is missing and delegates acquisition to a narrowly scoped agent. The order MCP → API → browser → voice is a preference for the first inquiry, not a fixed workflow; the orchestrator can use several agents when a fact needs corroboration.
 
 | Agent | Responsibility | Tools and authority |
 | --- | --- | --- |
@@ -75,12 +75,29 @@ Full investigation against Prism (records demo human resolutions when the agent 
 uv run python -m cashe.demo
 ```
 
+## Test
+
+Run the full test suite:
+
+```bash
+uv sync --extra dev
+uv run pytest -q
+```
+
+Exercise the real Chromium acquisition and application integration without an OpenAI call:
+
+```bash
+uv run python scripts/smoke_browser.py --scripted
+```
+
+For live OpenAI navigation, set `OPENAI_API_KEY` and run the same command without `--scripted`. To write a browser result into the normal Cashe database, start the application, click **Test browser** on the dashboard, and open the investigation returned by the job. The current BluePeak demo uses invoice `INV-BP-2088`. More detail is available in [Browser agent setup and verification](docs/browser-agent.md).
+
 ## Config
 
-Copy `.env.example` to `.env`. `TAVILY_API_KEY` and `PRISM_API_KEY` are required for live research and the orchestrator. Tavily falls back to the committed cache if the live call fails.
+Copy `.env.example` to `.env`. `PRISM_API_KEY` is required for the live orchestrator. `TAVILY_API_KEY` enables live source-capability research; Tavily falls back to the committed cache when the key is absent or a live call fails.
 
-The browser agent uses OpenAI (`OPENAI_API_KEY`) and Playwright to read the configured portal, capture screenshots and visible text, verify invoice identity and completeness, and store cited workflow assertions. Approved browser SOPs retain successful semantic navigation and can be reused across label/layout changes. See [browser setup and verification](docs/browser-agent.md).
+The browser agent uses OpenAI (`OPENAI_API_KEY`) and Playwright to read the configured portal, capture screenshots and visible text, verify invoice identity and completeness, and store cited workflow assertions. Approved browser SOPs retain successful semantic navigation and can be reused across label and layout changes.
 
-Voice uses the pizza-agent telephony stack (Vapi, Bland, Telnyx, or Twilio). `place_voice_call` f-strings the call purpose, dials `VOICE_TO_NUMBER`, and returns the full transcript to the voice subagent. Without telephony credentials it falls back to the HarborLine fixture.
+Voice supports Vapi, Bland, Telnyx, and Twilio. `place_voice_call` builds the call instructions from the assigned investigation goal, dials `VOICE_TO_NUMBER`, and returns the full transcript to the voice agent. Without telephony credentials it falls back to the HarborLine fixture.
 
 There is no hard-coded source router. The orchestrator decides which subagents to spawn; tools only enforce read-only entitlements.
