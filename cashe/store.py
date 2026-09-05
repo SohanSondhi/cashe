@@ -45,7 +45,8 @@ def persist_artifact(
     digest = hashlib.sha256(encoded).hexdigest()
     artifact_id = new_id("art")
     path = settings.artifact_dir / f"{artifact_id}.json"
-    path.write_bytes(encoded)
+    with path.open("xb") as stream:
+        stream.write(encoded)
     row = RawArtifact(
         id=artifact_id,
         source_id=source_id,
@@ -57,6 +58,24 @@ def persist_artifact(
         run_id=run_id,
         summary=summary,
     )
+    db.add(row)
+    db.commit()
+    db.refresh(row)
+    return row
+
+
+def persist_capture(db: Session, *, source_id: str, media_type: str, content: bytes,
+                    run_id: str, summary: str = "") -> RawArtifact:
+    extensions = {"image/png": ".png", "application/json": ".json"}
+    if media_type not in extensions:
+        raise ValueError("unsupported_capture_media_type")
+    artifact_id = new_id("art")
+    path = settings.artifact_dir / (artifact_id + extensions[media_type])
+    with path.open("xb") as stream:
+        stream.write(content)
+    row = RawArtifact(id=artifact_id, source_id=source_id, media_type=media_type,
+                      content_hash=hashlib.sha256(content).hexdigest(), storage_path=str(path),
+                      retrieved_at=utcnow(), retrieval_method="browser", run_id=run_id, summary=summary)
     db.add(row)
     db.commit()
     db.refresh(row)

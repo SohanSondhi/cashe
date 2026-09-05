@@ -19,3 +19,8 @@ htmlcov/
 data/uploads/
 data/voice_transcripts/
 .cache/
+
+# Runtime captures and SQLite journals are local outputs, not source changes.
+data/artifacts/
+data/*.db-wal
+data/*.db-shm

@@ -91,16 +91,16 @@ TOOL_SCHEMAS: dict[str, dict] = {
     ),
     "run_bounded_browser": _schema(
         "run_bounded_browser",
-        "Run a bounded read-only browser investigation against an allowlisted portal. Live agent is stubbed; portal evidence is still returned.",
+        "Acquire cited financial workflow evidence from a registered read-only portal using a live bounded browser. Use when authorized API/MCP access is unavailable or more evidence is needed.",
         {
             "source_id": {"type": "string"},
             "goal": {"type": "string"},
             "sop_id": {"type": "string"},
-            "step_budget": {"type": "integer"},
+            "step_budget": {"type": "integer", "minimum": 1, "maximum": 50},
             "required_checks": {"type": "array", "items": {"type": "string"}},
             "invoice_number": {"type": "string"},
         },
-        ["source_id", "goal"],
+        ["source_id", "goal", "invoice_number"],
     ),
     "place_voice_call": _schema(
         "place_voice_call",
@@ -332,7 +332,7 @@ def tool_query_mcp(db: Session, run_id: str, tool: str, arguments: dict | None =
     if payload.get("invoice"):
         invoices = [payload["invoice"]]
     for inv in invoices:
-        for field in ("status", "amount_cents", "legal_entity", "due_date", "customer"):
+        for field in ("status", "amount_cents", "currency", "legal_entity", "due_date", "customer"):
             if field in inv:
                 ast = persist_assertion(
                     db,
@@ -437,7 +437,7 @@ def tool_browser(
     sop_id: str | None = None,
     step_budget: int = 20,
     required_checks: list[str] | None = None,
-    invoice_number: str = "INV-BP-2088",
+    invoice_number: str = "",
 ) -> dict:
     src = _get_source(db, source_id)
     if not src:
@@ -445,70 +445,10 @@ def tool_browser(
     entitlements = json.loads(src.entitlements_json)
     if not entitlements.get("browser"):
         return {"error": "browser_not_entitled", "source_id": source_id, "entitlements": entitlements}
-    hosts = json.loads(src.allowed_hosts)
-    if "localhost" not in hosts:
-        return {"error": "host_not_allowlisted", "allowed_hosts": hosts}
-    sop = None
-    if sop_id:
-        row = db.get(Sop, sop_id)
-        if row:
-            sop = {
-                "sop_id": row.sop_id,
-                "version": row.version,
-                "status": row.status,
-                "steps": json.loads(row.steps_json),
-                "verification": json.loads(row.verification_json),
-            }
-    payload = bluepeak.mock_browser_run(invoice_number, sop, step_budget)
-    art = persist_artifact(
-        db,
-        source_id=source_id,
-        media_type="application/json",
-        payload=payload,
-        retrieval_method="browser_mocked",
-        run_id=run_id,
-        summary=f"Browser capture {invoice_number}",
-    )
-    extracted = payload.get("extracted") or {}
-    assertions = []
-    mapping = {
-        "status": extracted.get("status"),
-        "legal_entity": extracted.get("legal_entity"),
-        "rejection_count": extracted.get("rejection_count"),
-        "dispute_reason": extracted.get("dispute_reason"),
-        "amount_cents": extracted.get("amount_cents"),
-    }
-    for field, value in mapping.items():
-        if value is not None:
-            confidence = "verified" if payload.get("checks_passed") else "provisional"
-            ast = persist_assertion(
-                db,
-                artifact_id=art.id,
-                run_id=run_id,
-                subject_type="invoice",
-                subject_id=invoice_number,
-                field=field,
-                value=value,
-                authority="WORKFLOW",
-                confidence=confidence,
-                notes="Portal workflow state. Not bank settlement.",
-            )
-            assertions.append(assertion_dict(ast))
-    db.add(
-        SopRun(
-            id=new_id("spr"),
-            sop_id=sop_id or "",
-            source_id=source_id,
-            investigation_id=run_id,
-            action_trace_json=json.dumps(payload.get("action_trace") or []),
-            checks_json=json.dumps(payload.get("checks") or {}),
-            outcome="verified" if payload.get("checks_passed") else "failed",
-            proposed_patch_json=json.dumps(payload.get("proposed_sop_patch") or {}),
-            created_at=utcnow(),
-        )
-    )
-    db.commit()
-    return {"artifact_id": art.id, "result": payload, "assertions": assertions, "sop_used": sop_id}
+    from cashe.browser.service import acquire
+
+    return acquire(db, run_id, src, goal=goal, invoice_number=invoice_number,
+                   sop_id=sop_id, step_budget=step_budget, required_checks=required_checks)
 
 
 def tool_voice(
